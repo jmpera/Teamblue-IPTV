@@ -1,0 +1,738 @@
+GENERAL
+<item>
+<title>[B][COLOR white]••••• GENERAL •••••[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+BBC ONE
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+BBC ONE
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+BBC ONE
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]BBC ONE [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1081.ts;streamtype=TSDOWNLOADER&amp;name=BBC ONE</link>
+<thumbnail>http://i.imgur.com/IGYGsia.png</thumbnail>
+</item>
+BBC TWO
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+BBC TWO
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+BBC TWO
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]BBC TWO [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1080.ts;streamtype=TSDOWNLOADER&amp;name=BBC TWO</link>
+<thumbnail>http://i.imgur.com/vPlqVpp.png</thumbnail>
+</item>
+BBC THREE
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]BBC THREE [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1079.ts;streamtype=TSDOWNLOADER&amp;name=BBC THREE</link>
+<thumbnail>http://i.imgur.com/XatsMnO.png</thumbnail>
+</item>
+BBC FOUR
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+BBC FOUR
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]BBC FOUR [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=0;streamtype=TSDOWNLOADER&amp;name=BBC FOUR</link>
+<thumbnail>http://i.imgur.com/hqHINhS.png</thumbnail>
+</item>
+BBC FOUR
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]BBC FOUR [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1078.ts;streamtype=TSDOWNLOADER&amp;name=BBC FOUR</link>
+<thumbnail>http://i.imgur.com/hqHINhS.png</thumbnail>
+</item>
+ITV 1
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]ITV 1 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/test/test/721.ts;streamtype=TSDOWNLOADER&amp;name=ITV 1</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ii/itv_uk.png</thumbnail>
+</item>
+ITV 2
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]ITV 2 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1098.ts;streamtype=TSDOWNLOADER&amp;name=ITV 2</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ii/itv_uk_2.png</thumbnail>
+</item>
+ITV 3
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]ITV 3 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1719.ts;streamtype=TSDOWNLOADER&amp;name=ITV 3</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ii/itv_uk_3.png</thumbnail>
+</item>
+ITV 4
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]ITV 4 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1718.ts;streamtype=TSDOWNLOADER&amp;name=ITV 4</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ii/itv_uk_4.png</thumbnail>
+</item>
+INFORMATION
+<item>
+<title>[B][COLOR white]••••• INFORMATION •••••[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+BBC NEWS
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+BBC NEWS
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]BBC NEWS [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=0;streamtype=TSDOWNLOADER&amp;name=BBC NEWS</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_news.png</thumbnail>
+</item>
+BBC NEWS
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+BLOOMBERG
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+CNBC
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]CNBC [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/test/test/1371.ts;streamtype=TSDOWNLOADER&amp;name=CNBC</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cnbc_europe.png</thumbnail>
+</item>
+CNN
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]CNN [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/test/test/1370.ts;streamtype=TSDOWNLOADER&amp;name=CNN</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_international_global.png</thumbnail>
+</item>
+ENTERTAINMENT
+<item>
+<title>[B][COLOR white]••••• ENTERTAINMENT •••••[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+CBS REALITY
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]CBS REALITY [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/basit/basit/3082.ts;streamtype=TSDOWNLOADER&amp;name=CBS REALITY</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cbs_reality_eu.png</thumbnail>
+</item>
+CHANNEL 5
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+DMAX
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+E!
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]E! [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/basit/basit/1943.ts;streamtype=TSDOWNLOADER&amp;name=E!</link>
+<thumbnail>http://i.imgur.com/Ta2wvuo.png</thumbnail>
+</item>
+FOOD NETWORK
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]FOOD NETWORK [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/basit/basit/2385.ts;streamtype=TSDOWNLOADER&amp;name=FOOD NETWORK</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/food_network_uk.png</thumbnail>
+</item>
+TRAVEL
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+LIFESTYLE
+<item>
+<title>[B][COLOR white]••••• LIFESTYLE •••••[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+TLC
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]TLC [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/basit/basit/2156.ts;streamtype=TSDOWNLOADER&amp;name=TLC</link>
+<thumbnail>http://i.imgur.com/ZfEc8g5.png</thumbnail>
+</item>
+DOCUMENTARY
+<item>
+<title>[B][COLOR white]••••• DOCUMENTARY •••••[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+ANIMAL PLANET
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]ANIMAL PLANET [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/test/test/1143.ts;streamtype=TSDOWNLOADER&amp;name=ANIMAL PLANET</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/animal_planet_us.png</thumbnail>
+</item>
+DISCOVERY CHANNEL
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]DISCOVERY CHANNEL [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1046.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/discovery_global_us.png</thumbnail>
+</item>
+DISCOVERY HISTORY
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]DISCOVERY HISTORY [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1076.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY HISTORY</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/discovery_history.png</thumbnail>
+</item>
+DISCOVERY SCIENCE
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]DISCOVERY SCIENCE [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1103.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SCIENCE</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/discovery_science_global_hd.png</thumbnail>
+</item>
+DISCOVERY TURBO
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]DISCOVERY TURBO [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1058.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY TURBO</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_turbo_us.png</thumbnail>
+</item>
+HISTORY
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]HISTORY [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1071.ts;streamtype=TSDOWNLOADER&amp;name=HISTORY</link>
+<thumbnail>http://i.imgur.com/g5uYzpc.png</thumbnail>
+</item>
+NATIONAL GEOGRAPHIC CHANNEL
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]NATIONAL GEOGRAPHIC CHANNEL [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/basit/basit/1940.ts;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC CHANNEL</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nat_geo_us.png</thumbnail>
+</item>
+NAT GEO WILD
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]NAT GEO WILD [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1102.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nat_geo_wild_us.png</thumbnail>
+</item>
+FILM
+<item>
+<title>[B][COLOR white]••••• FILM •••••[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+CBS ACTION
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]CBS ACTION [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/test/test/694.ts;streamtype=TSDOWNLOADER&amp;name=CBS ACTION</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cbs_action_uk.png</thumbnail>
+</item>
+CBS DRAMA
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]CBS DRAMA [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/test/test/693.ts;streamtype=TSDOWNLOADER&amp;name=CBS DRAMA</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cbs_drama_eu.png</thumbnail>
+</item>
+COMEDY CENTRAL
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]COMEDY CENTRAL [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1065.ts;streamtype=TSDOWNLOADER&amp;name=COMEDY CENTRAL</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/comedy_central_us.png</thumbnail>
+</item>
+SKY ONE
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+SKY ONE
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+SKY ONE
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]SKY ONE [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1095.ts;streamtype=TSDOWNLOADER&amp;name=SKY ONE</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_1.png</thumbnail>
+</item>
+SKY TWO
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+SKY MOVIES ACTION
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+SKY MOVIES ACTION
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+SKY MOVIES ACTION
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]SKY MOVIES ACTION [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/basit/basit/831.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES ACTION</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_nz_movies_action.png</thumbnail>
+</item>
+SKY MOVIES COMEDY
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]SKY MOVIES COMEDY [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1038.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES COMEDY</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_movies_comedy.png</thumbnail>
+</item>
+SKY MOVIES CRIME & THRILLER
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]SKY MOVIES CRIME & THRILLER [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/basit/basit/825.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES CRIME & THRILLER</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_crime_thriller.png</thumbnail>
+</item>
+SKY MOVIES DRAMA & ROMANCE
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+SKY MOVIES FAMILY
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+SKY MOVIES SYFY & HORROR
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]SKY MOVIES SYFY & HORROR [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1105.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES SYFY & HORROR</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_scifi_horror.png</thumbnail>
+</item>
+SKY MOVIES SELECT
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]SKY MOVIES SELECT [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1114.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES SELECT</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_select_hd.png</thumbnail>
+</item>
+TCM
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+SERIE
+<item>
+<title>[B][COLOR white]••••• SERIE •••••[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+FOX
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+SYFY
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+CHILDREN
+<item>
+<title>[B][COLOR white]••••• CHILDREN •••••[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+BABY TV
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+BOOMERANG
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+CARTOON NETWORK
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]CARTOON NETWORK [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1092.ts;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK</link>
+<thumbnail>http://i.imgur.com/EuQiOf1.png</thumbnail>
+</item>
+DISNEY CHANNEL
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]DISNEY CHANNEL [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1111.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL</link>
+<thumbnail>http://i.imgur.com/g0UK661.png</thumbnail>
+</item>
+DISNEY JUNIOR
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]DISNEY JUNIOR [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1088.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR</link>
+<thumbnail>http://i.imgur.com/CZvsFYH.png</thumbnail>
+</item>
+DISNEY XD
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]DISNEY XD [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1090.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY XD</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_xd_us.png</thumbnail>
+</item>
+NICK JR
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]NICK JR [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1101.ts;streamtype=TSDOWNLOADER&amp;name=NICK JR</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nick_jr_us.png</thumbnail>
+</item>
+NICKELODEON
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]NICKELODEON [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/basit/basit/2240.ts;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link>
+<thumbnail>http://i.imgur.com/8fMIHmp.png</thumbnail>
+</item>
+MUSIC
+<item>
+<title>[B][COLOR white]••••• MUSIC •••••[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+MTV CLASSIC
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]MTV CLASSIC [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/basit/basit/2955.ts;streamtype=TSDOWNLOADER&amp;name=MTV CLASSIC</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/mtv_classic_au.png</thumbnail>
+</item>
+MTV HITS
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+MTV MUSIC
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]MTV MUSIC [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1084.ts;streamtype=TSDOWNLOADER&amp;name=MTV MUSIC</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/mtv_music_uk.png</thumbnail>
+</item>
+MTV ROCKS
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]MTV ROCKS [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1077.ts;streamtype=TSDOWNLOADER&amp;name=MTV ROCKS</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mtv_rocks_us.png</thumbnail>
+</item>
+VH1
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]VH1 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/basit/basit/2153.ts;streamtype=TSDOWNLOADER&amp;name=VH1</link>
+<thumbnail>http://i.imgur.com/qfie62n.png</thumbnail>
+</item>
+SPORTS
+<item>
+<title>[B][COLOR white]••••• SPORTS •••••[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+BOXNATION
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+BOXNATION
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]BOXNATION [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1717.ts;streamtype=TSDOWNLOADER&amp;name=BOXNATION</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/box_nation_uk.png</thumbnail>
+</item>
+BOXNATION
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+BT SPORT 1
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+BT SPORT 1
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+BT SPORT 1
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]BT SPORT 1 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1118.ts;streamtype=TSDOWNLOADER&amp;name=BT SPORT 1</link>
+<thumbnail>http://i.imgur.com/rto6R1B.png</thumbnail>
+</item>
+BT SPORT 2
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+BT SPORT 2
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]BT SPORT 2 [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/basit/basit/1487.ts;streamtype=TSDOWNLOADER&amp;name=BT SPORT 2</link>
+<thumbnail>http://i.imgur.com/QLKzBRu.png</thumbnail>
+</item>
+BT SPORT 2
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]BT SPORT 2 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1117.ts;streamtype=TSDOWNLOADER&amp;name=BT SPORT 2</link>
+<thumbnail>http://i.imgur.com/QLKzBRu.png</thumbnail>
+</item>
+BT SPORT ESPN
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+BT SPORT ESPN
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]BT SPORT ESPN [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1370.ts;streamtype=TSDOWNLOADER&amp;name=BT SPORT ESPN</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_uk_espn.png</thumbnail>
+</item>
+BT SPORT ESPN
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]BT SPORT ESPN [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1059.ts;streamtype=TSDOWNLOADER&amp;name=BT SPORT ESPN</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_uk_espn.png</thumbnail>
+</item>
+BT SPORT EUROPE
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+BT SPORT EUROPE
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+BT SPORT EUROPE
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]BT SPORT EUROPE [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1373.ts;streamtype=TSDOWNLOADER&amp;name=BT SPORT EUROPE</link>
+<thumbnail>http://i.imgur.com/3C563o6.png</thumbnail>
+</item>
+BT SPORT EXTRA
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+BT SPORT EXTRA
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+BT SPORT EXTRA
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+EUROSPORT 1
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]EUROSPORT 1 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1050.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1</link>
+<thumbnail>http://i.imgur.com/00mXlvU.png</thumbnail>
+</item>
+EUROSPORT 2
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]EUROSPORT 2 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1113.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2</link>
+<thumbnail>http://i.imgur.com/MZBusxr.png</thumbnail>
+</item>
+MOTORS TV
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]MOTORS TV [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/basit/basit/2155.ts;streamtype=TSDOWNLOADER&amp;name=MOTORS TV</link>
+<thumbnail>http://i.imgur.com/uIxVBmG.png</thumbnail>
+</item>
+PREMIER SPORTS
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+PREMIER SPORTS
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+PREMIER SPORTS
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]PREMIER SPORTS [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/basit/basit/2828.ts;streamtype=TSDOWNLOADER&amp;name=PREMIER SPORTS</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/pp/premier_sports.png</thumbnail>
+</item>
+SETANTA SPORTS
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]SETANTA SPORTS [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/basit/basit/2743.ts;streamtype=TSDOWNLOADER&amp;name=SETANTA SPORTS</link>
+<thumbnail>http://i.imgur.com/0pwoujZ.png</thumbnail>
+</item>
+SKY SPORTS 1
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+SKY SPORTS 1
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]SKY SPORTS 1 [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1044.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 1</link>
+<thumbnail>http://i.imgur.com/GM9BhHH.png</thumbnail>
+</item>
+SKY SPORTS 1
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]SKY SPORTS 1 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1104.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 1</link>
+<thumbnail>http://i.imgur.com/GM9BhHH.png</thumbnail>
+</item>
+SKY SPORTS 2
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+SKY SPORTS 2
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]SKY SPORTS 2 [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1375.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 2</link>
+<thumbnail>http://i.imgur.com/JM9osWD.png</thumbnail>
+</item>
+SKY SPORTS 2
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]SKY SPORTS 2 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1360.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 2</link>
+<thumbnail>http://i.imgur.com/JM9osWD.png</thumbnail>
+</item>
+SKY SPORTS 3
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+SKY SPORTS 3
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]SKY SPORTS 3 [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1358.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 3</link>
+<thumbnail>http://i.imgur.com/3ha97Ea.png</thumbnail>
+</item>
+SKY SPORTS 3
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]SKY SPORTS 3 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1096.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 3</link>
+<thumbnail>http://i.imgur.com/3ha97Ea.png</thumbnail>
+</item>
+SKY SPORTS 4
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+SKY SPORTS 4
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]SKY SPORTS 4 [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1356.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 4</link>
+<thumbnail>http://i.imgur.com/3ha97Ea.png</thumbnail>
+</item>
+SKY SPORTS 4
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]SKY SPORTS 4 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1094.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 4</link>
+<thumbnail>http://i.imgur.com/3ha97Ea.png</thumbnail>
+</item>
+SKY SPORTS 5
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+SKY SPORTS 5
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]SKY SPORTS 5 [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1354.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 5</link>
+<thumbnail>http://i.imgur.com/0xHzWmL.png</thumbnail>
+</item>
+SKY SPORTS 5
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]SKY SPORTS 5 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1093.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 5</link>
+<thumbnail>http://i.imgur.com/0xHzWmL.png</thumbnail>
+</item>
+SKY SPORTS F1
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+SKY SPORTS F1
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+SKY SPORTS F1
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]SKY SPORTS F1 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1353.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS F1</link>
+<thumbnail>http://i.imgur.com/gwmcmK2.png</thumbnail>
+</item>
+SKY SPORTS NEWS
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+SKY SPORTS NEWS
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]SKY SPORTS NEWS [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1112.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS NEWS</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_de_sport_news_hd.png</thumbnail>
+</item>
+SKY SPORTS NEWS
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]SKY SPORTS NEWS [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1352.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS NEWS</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_de_sport_news_hd.png</thumbnail>
+</item>
