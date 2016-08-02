@@ -1,0 +1,1011 @@
+GENERALISTAS
+<item>
+<title>[B][COLOR white]••••• GENERALISTAS •••••[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+RTP 1
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+RTP 1
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+RTP 1
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 1 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1119.ts;streamtype=TSDOWNLOADER&amp;name=RTP 1 (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/pjjlbCF.png</thumbnail>
+</item>
+RTP 1RTMP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 1 [B][COLOR green][SD] [B][COLOR red](RTMP)[/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://i.imgur.com/pjjlbCF.png</thumbnail>
+</item>
+RTP 1SPORTS DEVIL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 1 [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<sportsdevil>http://www.rtp.pt/play/direto/rtp1</sportsdevil>
+<referer>http://www.rtp.pt/</referer>
+<thumbnail>http://i.imgur.com/pjjlbCF.png</thumbnail>
+</item>
+RTP 2
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+RTP 2
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+RTP 2
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 2 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/751.ts;streamtype=TSDOWNLOADER&amp;name=RTP 2 (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/krvWl4X.png</thumbnail>
+</item>
+RTP 2RTMP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 2 [B][COLOR green][SD] [B][COLOR red](RTMP)[/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://i.imgur.com/krvWl4X.png</thumbnail>
+</item>
+RTP 2SPORTS DEVIL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 2 [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<sportsdevil>http://www.rtp.pt/play/direto/rtp2</sportsdevil>
+<referer>http://www.rtp.pt/</referer>
+<thumbnail>http://i.imgur.com/krvWl4X.png</thumbnail>
+</item>
+SIC
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/iptv39/Ky9zacT1uT/2173.ts;streamtype=TSDOWNLOADER&amp;name=SIC (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt.png</thumbnail>
+</item>
+SIC
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+SIC
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1964.ts;streamtype=TSDOWNLOADER&amp;name=SIC (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt.png</thumbnail>
+</item>
+SICHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://46.165.251.98:8088/stream/SIC813747234/playlist.m3u8?id=23687&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt.png</thumbnail>
+</item>
+SICSPORTS DEVIL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/sic</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt.png</thumbnail>
+</item>
+SIC$DOREGEX
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC [B][COLOR green][SD] [B][COLOR red]($DOREGEX)[/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/stream playpath=SIC813747234?id=23687$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.liveflashplayer.net/embedplayer/SIC813747234/1/565/440</page>
+<referer>http://www.liveflashplayer.net</referer>
+</regex>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt.png</thumbnail>
+</item>
+TVI
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+TVI
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+TVI
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/760.ts;streamtype=TSDOWNLOADER&amp;name=TVI (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_pt.png</thumbnail>
+</item>
+TVIHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_pt.png</thumbnail>
+</item>
+TVISPORTS DEVIL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/tvi</sportsdevil>
+<referer>http://ezcast.tv/</referer>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_pt.png</thumbnail>
+</item>
+TVI$DOREGEX
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI [B][COLOR green][SD] [B][COLOR red]($DOREGEX)[/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live/ playpath=tvi003?id=82684$doregex[pk] conn=S:OK swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.embeducaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embeducaster.com/embedplayer/tvi003/1/650/500</page>
+<referer>http://www.embeducaster.com</referer>
+</regex>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_pt.png</thumbnail>
+</item>
+PORTO CANAL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]PORTO CANAL [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2315.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/0NAGz7e.png</thumbnail>
+</item>
+PORTO CANALHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]PORTO CANAL [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://213.13.26.11:1935/live/portocanal/live.m3u8</link>
+<thumbnail>http://i.imgur.com/0NAGz7e.png</thumbnail>
+</item>
+PORTO CANALSPORTS DEVIL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]PORTO CANAL [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<sportsdevil>http://www.desportonline.com/index.php?canal=portocanal</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<thumbnail>http://i.imgur.com/0NAGz7e.png</thumbnail>
+</item>
+PORTO CANAL$DOREGEX
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]PORTO CANAL [B][COLOR green][SD] [B][COLOR red]($DOREGEX)[/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=portocanalv?id=86583&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/portocanalv/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/portocanalv/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+</regex>
+<thumbnail>http://i.imgur.com/0NAGz7e.png</thumbnail>
+</item>
+RTP ACORES
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP ACORES [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2058.ts;streamtype=TSDOWNLOADER&amp;name=RTP ACORES (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/om9BKuk.png</thumbnail>
+</item>
+RTP ACORESRTMP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP ACORES [B][COLOR green][SD] [B][COLOR red](RTMP)[/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpacores swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://i.imgur.com/om9BKuk.png</thumbnail>
+</item>
+RTP ACORESSPORTS DEVIL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP ACORES [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<sportsdevil>http://www.rtp.pt/play/direto/rtpacores</sportsdevil>
+<referer>http://www.rtp.pt/play/</referer>
+<thumbnail>http://i.imgur.com/om9BKuk.png</thumbnail>
+</item>
+RTP MADEIRA
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP MADEIRA [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/755.ts;streamtype=TSDOWNLOADER&amp;name=RTP MADEIRA (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/EQk4X7n.png</thumbnail>
+</item>
+RTP MADEIRARTMP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP MADEIRA [B][COLOR green][SD] [B][COLOR red](RTMP)[/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://i.imgur.com/EQk4X7n.png</thumbnail>
+</item>
+RTP MADEIRASPORTS DEVIL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP MADEIRA [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<sportsdevil>http://www.rtp.pt/play/direto/rtpmadeira</sportsdevil>
+<referer>http://www.rtp.pt/play/</referer>
+<thumbnail>http://i.imgur.com/EQk4X7n.png</thumbnail>
+</item>
+RTP AFRICA
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP AFRICA [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/MIX39/U8vH97ycFz/2171.ts;streamtype=TSDOWNLOADER&amp;name=RTP AFRICA (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/YWi6NzU.png</thumbnail>
+</item>
+RTP AFRICARTMP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP AFRICA [B][COLOR green][SD] [B][COLOR red](RTMP)[/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://i.imgur.com/YWi6NzU.png</thumbnail>
+</item>
+RTP AFRICASPORTS DEVIL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP AFRICA [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<sportsdevil>http://www.rtp.pt/play/direto/rtpafrica</sportsdevil>
+<referer>http://www.rtp.pt/play/</referer>
+<thumbnail>http://i.imgur.com/YWi6NzU.png</thumbnail>
+</item>
+RTP INTERNACIONAL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP INTERNACIONAL [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1411.ts;streamtype=TSDOWNLOADER&amp;name=RTP INTERNACIONAL (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/YPL4ncR.png</thumbnail>
+</item>
+RTP INTERNACIONALRTMP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP INTERNACIONAL [B][COLOR green][SD] [B][COLOR red](RTMP)[/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://i.imgur.com/YPL4ncR.png</thumbnail>
+</item>
+RTP INTERNACIONALSPORTS DEVIL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP INTERNACIONAL [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<sportsdevil>http://www.rtp.pt/play/direto/rtpinternacional</sportsdevil>
+<referer>http://www.rtp.pt/play/</referer>
+<thumbnail>http://i.imgur.com/YPL4ncR.png</thumbnail>
+</item>
+CANCAO NOVA
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+CANCAO NOVAHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CANCAO NOVA [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_cancao_nova_pt.png</thumbnail>
+</item>
+INFORMACAO
+<item>
+<title>[B][COLOR ] : [B][COLOR white]INFORMACAO [B][COLOR green][] [B][COLOR red]()[/B][/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+CMTV
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CMTV [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2078.ts;streamtype=TSDOWNLOADER&amp;name=CMTV (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cm_tv_pt.png</thumbnail>
+</item>
+CMTVSPORTS DEVIL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CMTV [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/cmtv</sportsdevil>
+<referer>http://www.liveflashplayer.net/</referer>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cm_tv_pt.png</thumbnail>
+</item>
+CMTV$DOREGEX
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CMTV [B][COLOR green][SD] [B][COLOR red]($DOREGEX)[/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/stream playpath=cmtvb?id=21917$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.liveflashplayer.net/embedplayer/cmtvb/1/650/500</page>
+<referer>http://www.liveflashplayer.net</referer>
+</regex>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cm_tv_pt.png</thumbnail>
+</item>
+CNBC
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+ETV
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+ETV
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+ETV
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ETV [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1424.ts;streamtype=TSDOWNLOADER&amp;name=ETV (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/etv_pt.png</thumbnail>
+</item>
+ETVHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ETV [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://213.13.26.41:1935/live/etv_direto/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/etv_pt.png</thumbnail>
+</item>
+EURONEWSRTMP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EURONEWS [B][COLOR green][SD] [B][COLOR red](RTMP)[/B][/COLOR]</title>
+<link>rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews_fr.png</thumbnail>
+</item>
+EURONEWS
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EURONEWS [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/esad.hasanovic10/skype/907.ts;streamtype=TSDOWNLOADER&amp;name=EURONEWS (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews_fr.png</thumbnail>
+</item>
+FRANCE 24 (IN)
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+FRANCE 24 (IN)HTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FRANCE 24 (IN) [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/france24_english.png</thumbnail>
+</item>
+RTP 3
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 3 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1665.ts;streamtype=TSDOWNLOADER&amp;name=RTP 3 (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/mrqnruN.png</thumbnail>
+</item>
+RTP 3RTMP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 3 [B][COLOR green][SD] [B][COLOR red](RTMP)[/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://i.imgur.com/mrqnruN.png</thumbnail>
+</item>
+RTP 3SPORTS DEVIL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 3 [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<sportsdevil>http://www.rtp.pt/play/direto/rtp3</sportsdevil>
+<referer>http://www.rtp.pt/play/</referer>
+<thumbnail>http://i.imgur.com/mrqnruN.png</thumbnail>
+</item>
+SIC NOTICIAS
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+SIC NOTICIAS
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+SIC NOTICIAS
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC NOTICIAS [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2053.ts;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_noticias.png</thumbnail>
+</item>
+SIC NOTICIASHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC NOTICIAS [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2053.ts;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_noticias.png</thumbnail>
+</item>
+TVI 24
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI 24 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1054.ts;streamtype=TSDOWNLOADER&amp;name=TVI 24 (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_24.png</thumbnail>
+</item>
+TVI 24HTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI 24 [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8;streamtype=TSDOWNLOADER&amp;name=TVI 24 (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_24.png</thumbnail>
+</item>
+TVI 24SPORTS DEVIL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI 24 [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<sportsdevil>http://tviplayer.iol.pt/direto/TVI24</sportsdevil>
+<referer>http://ezcast.tv/</referer>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_24.png</thumbnail>
+</item>
+AR TV
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+AR TVHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AR TV [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/chunklist_w1713826381.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/tv/c_1.html</thumbnail>
+</item>
+BLOOMBERG
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+CNN
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+FOX NEWS
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+TVE 24
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+TV RECORD NEWS
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+ENTRETENIMENTO
+<item>
+<title>[B][COLOR white]••••• ENTRETENIMENTO •••••[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+AeE
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AeE [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1598.ts;streamtype=TSDOWNLOADER&amp;name=AeE (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/u7IKaDs.png</thumbnail>
+</item>
+ARTE
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+BBC ENTERTAINMENT
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+BBC ENTERTAINMENT
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+BBC ENTERTAINMENT
+<item>
+<title>[B][COLOR lawngreen] UK: [B][COLOR white]BBC ENTERTAINMENT [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1650.ts;streamtype=TSDOWNLOADER&amp;name=BBC ENTERTAINMENT (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bbc_entertainment_uk.png</thumbnail>
+</item>
+CANAL Q
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+CBS REALITY
+<item>
+<title>[B][COLOR lawngreen] PT: [B][COLOR white]CBS REALITY [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2066.ts;streamtype=TSDOWNLOADER&amp;name=CBS REALITY (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_reality_pt.png</thumbnail>
+</item>
+E!
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+E!
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+E!
+<item>
+<title>[B][COLOR lawngreen] PT: [B][COLOR white]E! [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2483.ts;streamtype=TSDOWNLOADER&amp;name=E! (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/Ta2wvuo.png</thumbnail>
+</item>
+MTV PORTUGAL
+<item>
+<title>[B][COLOR lawngreen] PT: [B][COLOR white]MTV PORTUGAL [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/esad.hasanovic10/skype/911.ts;streamtype=TSDOWNLOADER&amp;name=MTV PORTUGAL (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/GyPW7Rw.png</thumbnail>
+</item>
+RTP MEMORIA
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP MEMORIA [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/895.ts;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/lWlG90R.png</thumbnail>
+</item>
+RTP MEMORIARTMP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP MEMORIA [B][COLOR green][SD] [B][COLOR red](RTMP)[/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://i.imgur.com/lWlG90R.png</thumbnail>
+</item>
+RTP MEMORIASPORTS DEVIL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP MEMORIA [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<sportsdevil>http://www.rtp.pt/play/direto/rtpmemoria</sportsdevil>
+<referer>http://www.rtp.pt/play/</referer>
+<thumbnail>http://i.imgur.com/lWlG90R.png</thumbnail>
+</item>
+SIC CARAS
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+SIC CARAS
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+SIC CARAS
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC CARAS [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1654.ts;streamtype=TSDOWNLOADER&amp;name=SIC CARAS (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_caras.png</thumbnail>
+</item>
+SIC MULHER
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC MULHER [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2054.ts;streamtype=TSDOWNLOADER&amp;name=SIC MULHER (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_mulher.png</thumbnail>
+</item>
+SIC MULHERHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC MULHER [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://199.195.194.60:8088/live/sicm02/playlist.m3u8?id=85250&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_mulher.png</thumbnail>
+</item>
+SIC MULHERSPORTS DEVIL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC MULHER [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/sicmulher</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_mulher.png</thumbnail>
+</item>
+SIC MULHER$DOREGEX
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC MULHER [B][COLOR green][SD] [B][COLOR red]($DOREGEX)[/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=sicm02?id=84770&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sicm02/1/599/399</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/sicm02/1/599/399</page>
+<referer>http://www.embeducaster.com/</referer>
+</regex>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_mulher.png</thumbnail>
+</item>
+SIC RADICAL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC RADICAL [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1159.ts;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_radical.png</thumbnail>
+</item>
+SIC RADICALHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC RADICAL [B][COLOR green][] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>0</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_radical.png</thumbnail>
+</item>
+TVI FICCAO
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI FICCAO [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2051.ts;streamtype=TSDOWNLOADER&amp;name=TVI FICCAO (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/1OKBioL.png</thumbnail>
+</item>
+TVI FICCAOHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI FICCAO [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://178.162.199.25:8088/live/tvicrl/playlist.m3u8?id=24273&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5</link>
+<thumbnail>http://i.imgur.com/1OKBioL.png</thumbnail>
+</item>
+TVI FICCAOSPORTS DEVIL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI FICCAO [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/tvificcao</sportsdevil>
+<referer>http://ezcast.tv/</referer>
+<thumbnail>http://i.imgur.com/1OKBioL.png</thumbnail>
+</item>
+TVI FICCAO$DOREGEX
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI FICCAO [B][COLOR green][] [B][COLOR red]($DOREGEX)[/B][/COLOR]</title>
+<link></link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>ea=(.*)'</expres>
+<page></page>
+<referer></referer>
+</regex>
+<thumbnail>http://i.imgur.com/1OKBioL.png</thumbnail>
+</item>
+TVI REALITY
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI REALITY [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.90.35:8080/live/6wR53llk86/6Xx2q7V7QB/1098.ts;streamtype=TSDOWNLOADER&amp;name=TVI REALITY (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/D9HZ95f.png</thumbnail>
+</item>
+TVI REALITYHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI REALITY [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://178.162.194.35:8088/live/TviReality2/playlist.m3u8?id=22428&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5</link>
+<thumbnail>http://i.imgur.com/D9HZ95f.png</thumbnail>
+</item>
+TVI REALITY CAM 1
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+TVI REALITY CAM 2
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+TVI REALITY CAM 3
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+TVI REALITY CAM 4
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+TVI REALITY MOSAICO
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
++TVI
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+GLOBO PORTUGAL
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+GLOBO PORTUGAL
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+GLOBO PORTUGAL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]GLOBO PORTUGAL [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/763.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO PORTUGAL (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_globo_pt.png</thumbnail>
+</item>
+GLOBO PREMIUM
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+GLOBO PREMIUM
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+GLOBO PREMIUM
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]GLOBO PREMIUM [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1968.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO PREMIUM (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_globo_premium.png</thumbnail>
+</item>
+TV RECORD
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+TV RECORD
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+TV RECORD
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]TV RECORD [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/766.ts;streamtype=TSDOWNLOADER&amp;name=TV RECORD (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rede_record_br.png</thumbnail>
+</item>
+TV RECORDHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]TV RECORD [B][COLOR green][] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>0</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rede_record_br.png</thumbnail>
+</item>
+LIFESTYLE
+<item>
+<title>[B][COLOR white]••••• LIFESTYLE •••••[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+24 KITCHEN
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]24 KITCHEN [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1198.ts;streamtype=TSDOWNLOADER&amp;name=24 KITCHEN (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/num/24_kitchen_us.png</thumbnail>
+</item>
+24 KITCHEN
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+24 KITCHEN
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+FASHION TV
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+FASHION TV
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+FASHION TV
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+FINE LIVING NETWORK
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+FINE LIVING NETWORK
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+FINE LIVING NETWORK
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+FOOD NETWORK
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+FOOD NETWORK
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+FOOD NETWORK
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+MCS LIFESTYLE
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+MCS LIFESTYLE
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+MCS LIFESTYLE
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]MCS LIFESTYLE [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1175.ts;streamtype=TSDOWNLOADER&amp;name=MCS LIFESTYLE (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/mcs_fr_lifestyle.png</thumbnail>
+</item>
+TLC
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TLC [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1653.ts;streamtype=TSDOWNLOADER&amp;name=TLC (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/ZfEc8g5.png</thumbnail>
+</item>
+TRAVEL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TRAVEL [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/841.ts;streamtype=TSDOWNLOADER&amp;name=TRAVEL (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/travel_channel_asia.png</thumbnail>
+</item>
+TRAVEL
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+TRAVEL
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+INTERNACIONAIS
+<item>
+<title>[B][COLOR white]••••• INTERNACIONAIS •••••[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+BAND
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+BANDRTMP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]BAND [B][COLOR green][SD] [B][COLOR red](RTMP)[/B][/COLOR]</title>
+<link>rtmp://187.18.187.5/livepkgr playpath=nordestv3 swfUrl= live=1 pageUrl=?ChannelsON</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/band_nacional_br.png</thumbnail>
+</item>
+GLOBO
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+GLOBO
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+GLOBO
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]GLOBO [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1024.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO (by TeamBlue)</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yspusx1435103750.png</thumbnail>
+</item>
+REDE TV
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+REDE TVRTMP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]REDE TV [B][COLOR green][SD] [B][COLOR red](RTMP)[/B][/COLOR]</title>
+<link>rtmp://evp.mm.uol.com.br/redetv1/_definst_//redetv1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rede_tv_br.png</thumbnail>
+</item>
+SBT
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+SBT
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+SBT
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+SBTHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]SBT [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://srv6.zoeweb.tv:1935/z343-live/stream/livestream.m3u8</link>
+<thumbnail>http://i.imgur.com/ZqfQZuH.png</thumbnail>
+</item>
+TPA INTERNACIONAL
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+TPA INTERNACIONALHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TPA INTERNACIONAL [B][COLOR green][] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>0</link>
+<thumbnail>http://i.imgur.com/ZqfQZuH.png</thumbnail>
+</item>
+TV5 MONDE
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+TVE INTERNACIONAL
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+TV GALICIA
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]TV GALICIA [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/768.ts;streamtype=TSDOWNLOADER&amp;name=TV GALICIA (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/galicia_tv_eu.png</thumbnail>
+</item>
+TV GALICIAHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]TV GALICIA [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://media3.crtvg.es/live/tvge/chunklist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/galicia_tv_eu.png</thumbnail>
+</item>
