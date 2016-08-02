@@ -1,0 +1,355 @@
+GENERALISTAS
+<item>
+<title>[B][COLOR white]••••• GENERALISTAS •••••[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+BAND
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]BAND [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/AXN/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/band_nacional_br.png</thumbnail>
+</item>
+GLOBO
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]GLOBO [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/FoxSport2/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv_globo_br.png</thumbnail>
+</item>
+GLOBO PREMIUM
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]GLOBO PREMIUM [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ptbrvirtual.no-ip.net:8000/live/iptvwordline@gmail.com/vslQGgoOWA/655.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO PREMIUM (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv_globo_br.png</thumbnail>
+</item>
+GLOBO SP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]GLOBO SP [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ptbrvirtual.no-ip.net:8000/live/iptvwordline@gmail.com/vslQGgoOWA/655.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO SP (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv_globo_br.png</thumbnail>
+</item>
+RECORD
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]RECORD [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/Record/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rede_record_br.png</thumbnail>
+</item>
+REDE TV
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]REDE TV [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://v1.fabricahost.com.br:1935/tvguara/tvguara/live.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rede_tv_br.png</thumbnail>
+</item>
+SBT
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]SBT [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://evp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sbt_br.png</thumbnail>
+</item>
+INFORMAÇÃO
+<item>
+<title>[B][COLOR white]••••• INFORMAÇÃO •••••[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+BAND NEWS
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]BAND NEWS [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/Band/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/band_news.png</thumbnail>
+</item>
+GLOBO NEWS
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+RECORD NEWS
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]RECORD NEWS [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/Record/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rede_record_news.png</thumbnail>
+</item>
+ENTRETENIMIENTO
+<item>
+<title>[B][COLOR white]••••• ENTRETENIMIENTO •••••[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+GLOBO RBS
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]GLOBO RBS [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/GloboSP/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rbs_tv_br.png</thumbnail>
+</item>
+VIDA
+<item>
+<title>[B][COLOR white]••••• VIDA •••••[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+A&E
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]A&E [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://ovh.from-al.com:80/v106/index.m3u8?token=fec3da02f1bd6ef4181345f0c708029c-1469395883-108835-60106-</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/ae_us.png</thumbnail>
+</item>
+E!
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]E! [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://ovh.from-al.com:80/v107/index.m3u8?token=7d69b23ca00d3dcdc050028299a82412-1469395883-108835-60106-</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/e_global_us.png</thumbnail>
+</item>
+TLC
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]TLC [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://ovh.from-al.com:80/v112/index.m3u8?token=f756c5eb5cf5bfef558cd34889454158-1469395883-108835-60106-</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tlc_lam.png</thumbnail>
+</item>
+DOCUMENTÁRIOS
+<item>
+<title>[B][COLOR white]••••• DOCUMENTÁRIOS •••••[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+DISCOVERY
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]DISCOVERY [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://ovh.from-al.com:80/d152/index.m3u8?token=dbdc45aa99f64d8620d3e746bcc68126-1469395883-108835-60106-</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_global_us.png</thumbnail>
+</item>
+DISCOVERY SCIENCE
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]DISCOVERY SCIENCE [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://ovh.from-al.com:80/d160/index.m3u8?token=abe151b7d6f288bc525e40d6c979f716-1469395883-108835-60106-</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_science_global.png</thumbnail>
+</item>
+HISTORY
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]HISTORY [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://ovh.from-al.com:80/d158/index.m3u8?token=e5d8d80e19eb5583ed8ada439585f2bd-1469395883-108835-60106-</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/history_europe.png</thumbnail>
+</item>
+NATIONAL GEOGRAPHIC
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]NATIONAL GEOGRAPHIC [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://ovh.from-al.com:80/d151/index.m3u8?token=6ccb87ddf8a684f640300984aa10486a-1469395883-108835-60106-</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png</thumbnail>
+</item>
+FILMES
+<item>
+<title>[B][COLOR white]••••• FILMES •••••[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+CINEMAX
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]CINEMAX [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://31.204.152.6:8081/live/cartoonk/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cinemax_lam.png</thumbnail>
+</item>
+HBO
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]HBO [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/HBO/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo_east.png</thumbnail>
+</item>
+HBO 2
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]HBO 2 [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/HBO/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo2_br.png</thumbnail>
+</item>
+HBO FAMILY
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]HBO FAMILY [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/HBO2/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo_family_lam.png</thumbnail>
+</item>
+HBO PLUS
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]HBO PLUS [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/HBOfamily/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo_plus_br.png</thumbnail>
+</item>
+HBO SIGNATURE
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]HBO SIGNATURE [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/HBOPlus/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo_signature_lam.png</thumbnail>
+</item>
+TELECINE ACTION
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]TELECINE ACTION [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/TC5/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/telecine_action.png</thumbnail>
+</item>
+TELECINE FUN
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]TELECINE FUN [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/TC5/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/telecine_fun.png</thumbnail>
+</item>
+TELECINE PIPOCA
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]TELECINE PIPOCA [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/TC4/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/telecine_pipoca.png</thumbnail>
+</item>
+TELECINE PREMIUM
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]TELECINE PREMIUM [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/TC6/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/telecine_premium.png</thumbnail>
+</item>
+TNT
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]TNT [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/TC2/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tnt_us.png</thumbnail>
+</item>
+UNIVERSAL CHANNEL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]UNIVERSAL CHANNEL [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/TNT/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/uu/universal_channel_global.png</thumbnail>
+</item>
+SERIES
+<item>
+<title>[B][COLOR white]••••• SERIES •••••[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+AXN
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]AXN [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/AXN/index.m3u8</link>
+<thumbnail>http://i.imgur.com/emHIhex.png</thumbnail>
+</item>
+FOX
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]FOX [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/ESPN/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_global.png</thumbnail>
+</item>
+FOX LIFE
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]FOX LIFE [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://31.204.152.6:8081/live/fox/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_life_global.png</thumbnail>
+</item>
+INFANTIS
+<item>
+<title>[B][COLOR white]••••• INFANTIS •••••[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+BOOMERANG
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]BOOMERANG [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://ovh.from-al.com:80/i459/index.m3u8?token=2ba90f0c6286813fa39247cb39bf06de-1469395883-108835-60106-</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/boomerang_global.png</thumbnail>
+</item>
+</item>
+CARTOON NETWORK
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]CARTOON NETWORK [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://ovh.from-al.com:80/i459/index.m3u8?token=2ba90f0c6286813fa39247cb39bf06de-1469395883-108835-60106-</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png</thumbnail>
+</item>
+</item>
+DISCOVERY KIDS
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]DISCOVERY KIDS [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://ovh.from-al.com:80/f76/index.m3u8?token=03a9f4fc657074f4db3adc0bad096bdc-1469395883-108835-60106-</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_kids_lam.png</thumbnail>
+</item>
+</item>
+DISNEY CHANNEL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]DISNEY CHANNEL [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://ovh.from-al.com:80/i458/index.m3u8?token=77ca274df5632f33a491b7a2f00fe4e5-1469395883-108835-60106-</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/disney_channel_global.png</thumbnail>
+</item>
+</item>
+DISNEY XD
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]DISNEY XD [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://31.204.152.6:8081/live/disney/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/disney_xd_us.png</thumbnail>
+</item>
+</item>
+NICK
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]NICK [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/HBOsign/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nick_in_hd_plus.png</thumbnail>
+</item>
+</item>
+NICK JR
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]NICK JR [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://ovh.from-al.com:80/i453/index.m3u8?token=ef0d5c6fc59cac6679c6fe816362054d-1469395883-108835-60106-</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nick_jr_us.png</thumbnail>
+</item>
+</item>
+DESPORTO
+<item>
+<title>[B][COLOR white]••••• DESPORTO •••••[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+BAND SPORTS
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+ESPN BR
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]ESPN BR [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://ovh.from-al.com:80/i455/index.m3u8?token=623d3399676b14706ad6887311b5b643-1469395883-108835-60106-</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_br.png</thumbnail>
+</item>
+FOX SPORTS 1
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]FOX SPORTS 1 [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://ovh.from-al.com:80/v108/index.m3u8?token=924f89ca744af1b0b078de69e55e88b2-1469395883-108835-60106-</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_sports_global.png</thumbnail>
+</item>
+FOX SPORTS 2
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]FOX SPORTS 2 [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/FoxSports/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_sports_2_lam.png</thumbnail>
+</item>
+PFC
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]PFC [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://ovh.from-al.com:80/i457/index.m3u8?token=bd84fd69b0e2f69cc72545dd95057d9d-1469395883-108835-60106-</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/premiere_futebol_clube.png</thumbnail>
+</item>
+PFC 2
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]PFC 2 [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/Premiere7/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/pp/premiere_futebol_clube_internacional.png</thumbnail>
+</item>
+SPORTV
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]SPORTV [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/SportTV/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sportv_br.png</thumbnail>
+</item>
+SPORTV 2
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]SPORTV 2 [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/SportTV/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sportv2_br.png</thumbnail>
+</item>
+SPORTV 3
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]SPORTV 3 [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/SportTV2/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sportv3_br.png</thumbnail>
+</item>
