@@ -32,7 +32,7 @@ BENFICA TV
 BENFICA TVHTTP
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link>http://cdn.widestream.io:8081/shareedge/push-benmerda-015ca/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDE2IDc6Mjc6MTYgQU0maGFzaF92YWx1ZT1iTGFyNWFaM3hrWkV0ZHFsMHVzWEFnPT0mdmFsaWRtaW51dGVzPTIw|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36</link>
+<link>rtmp://31.220.0.187/privatestream/gergtrg?keys=NU4qltlc2xuy7XAZt7hg3A&keyt=1470068995 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=gergtrg&width=630&height=510</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.png</thumbnail>
 </item>
 BENFICA TVSPORTS DEVIL
@@ -98,9 +98,9 @@ EUROSPORT 2 XTRA
 </item>
 EUROSPORT 2 XTRAHTTP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EUROSPORT 2 XTRA [B][COLOR green][] [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link>0</link>
-<thumbnail>http://i.imgur.com/0tybBJ0.jpg</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 EUROSPORT NEWS
 <item>
@@ -232,8 +232,8 @@ SPORT TV 2RTMP
 SPORT TV 2SPORTS DEVIL
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
-<sportsdevil>http://cdn2.zuuk.org/sporttv2.php?width=599&height=399</sportsdevil>
-<referer>http://cdn2.zuuk.org/</referer>
+<sportsdevil>rtmp://213.152.180.250:13117/stream/ playPath=0qZBo1519y0yBojb9kndn.stream?r920i88yr701i2230rr787a88kr787a88kr88i969br787a88kr2230i867mr3294i432lr2230i867mr787a88kr432i3294n swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN\2021,0,0,242 timeout=10 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&width=600&height=460&a=t319i673yt624i320rt7372a673kt7372a673kt673i203bt7372a673kt320i734mt9151i303lt320i734mt7372a673kt303i9151n&st=14i4c5n4w574x2s2f436q24693u5i444c4r5k484e4s243f44474x254t2t27413q2t2s284&adx=&stream=6464d4l5l5n5x203e434t2a4s2a4d4n234x504a3f4w21374f476w226d3j4r58413e4h4l5g4y34363z3q274943474u2y24444r264o234p4w3l4v5v2x2p243x46476o4n4n59413s5k484j283x5i4p5d4h20524o5i5z5r5l2o256z3n204o2642334k584945434w243a4j594w2i5w274b42384z203i5w274z2a454p2d454b434p2o234z3n204o204&sooor=MTE=&str=is&ok=&cat=3&link=1&idom=firstrowas.co  </sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
 <thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail>
 </item>
 SPORT TV 3
@@ -287,16 +287,16 @@ SPORT TV 4
 </item>
 SPORT TV 4RTMP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 4 [B][COLOR green][] [B][COLOR red](RTMP)[/B][/COLOR]</title>
-<link>0</link>
-<thumbnail>http://i.imgur.com/IZCGvyl.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 SPORT TV 4SPORTS DEVIL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 4 [B][COLOR green][] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<title></title>
 <sportsdevil></sportsdevil>
 <referer></referer>
-<thumbnail>http://i.imgur.com/IZCGvyl.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 SPORT TV 5
 <item>
@@ -318,16 +318,16 @@ SPORT TV 5
 </item>
 SPORT TV 5RTMP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 5 [B][COLOR green][SD] [B][COLOR red](RTMP)[/B][/COLOR]</title>
-<link>rtmp://179.43.158.195:16625/stream/ playPath=0tkVGgd2jl.stream?t2466a617kt260i6714rt408i3422nt2466a617kt260i628kt260i6714rt2466a617kt260i6714rt260i6714rt409i617yt409i617y swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN/2021,0,0,242 timeout=10 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&width;=600&height;=460&a;=t6617a936kt734i9934rt457i2946nt6617a936kt734i722kt734i9934rt6617a936kt734i9934rt734i9934rt494i936yt494i936y&st;=14l4t5n4w5c4t2s4643683u5t3q4f46454q5i4p2p243z244746453z3w213e4s203z2&adx;=&stream;=i574j564c4k5w254645434b444h5c4n23406h4a3f413x2766476e3s5x3f3o5a4u2d4f424r2a4z2v224p2f43464f413p2e4a4n234n4q5e3h49454v4s2p4d3n485t4p5c434h4k2m4m4k4f484p3p3e5e4a4v5a4z3244634p2o23434u2c4z2h5x2q2l554b45434d403b4l5n5438433z2d4c4u2y284n5x284y233i5m234242434p2o234z3&sooor;=NA==&str;=is&ok;=&cat;=3&link;=1&idom;=firstrowas.co</link>
-<thumbnail>http://i.imgur.com/G8yH187.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 SPORT TV 5SPORTS DEVIL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 5 [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
-<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv5</sportsdevil>
-<referer>http://www.sportvdireto.online/</referer>
-<thumbnail>http://i.imgur.com/G8yH187.png</thumbnail>
+<title></title>
+<sportsdevil></sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
 </item>
 SPORTING TV
 <item>
@@ -349,9 +349,9 @@ SPORTING TV
 </item>
 SPORTING TVRTMP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORTING TV [B][COLOR green][] [B][COLOR red](RTMP)[/B][/COLOR]</title>
-<link>0</link>
-<thumbnail>http://i.imgur.com/KTEBwY0.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 TOROS TV
 <item>
