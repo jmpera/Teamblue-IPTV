@@ -1,0 +1,66 @@
+INFANTIS
+<item>
+<title>[B][COLOR white]••••• INFANTIS •••••[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+BABY TV
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BABY TV [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2324.ts;streamtype=TSDOWNLOADER&amp;name=BABY TV (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/xTAptxu.png</thumbnail>
+</item>
+BABY FIRST
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+CANAL PANDA
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CANAL PANDA [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1592.ts;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/canal_panda_pt.png</thumbnail>
+</item>
+CARTOON NETWORK
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CARTOON NETWORK [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1161.ts;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK</link>
+<thumbnail>http://i.imgur.com/EuQiOf1.png</thumbnail>
+</item>
+DISNEY CHANNEL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]DISNEY CHANNEL [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1030.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL</link>
+<thumbnail>http://i.imgur.com/g0UK661.png</thumbnail>
+</item>
+DISNEY JUNIOR
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]DISNEY JUNIOR [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2071.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR</link>
+<thumbnail>http://i.imgur.com/CZvsFYH.png</thumbnail>
+</item>
+JIM JAM
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]JIM JAM [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1423.ts;streamtype=TSDOWNLOADER&amp;name=JIM JAM</link>
+<thumbnail>http://i.imgur.com/b6Mhyk9.png</thumbnail>
+</item>
+NICKELODEON
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]NICKELODEON [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/esad.hasanovic10/skype/395.ts;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link>
+<thumbnail>http://i.imgur.com/8fMIHmp.png</thumbnail>
+</item>
+PANDA BIGGS
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]PANDA BIGGS [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2073.ts;streamtype=TSDOWNLOADER&amp;name=PANDA BIGGS</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/pp/panda_biggs.png</thumbnail>
+</item>
+SIC K
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC K [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2052.ts;streamtype=TSDOWNLOADER&amp;name=SIC K</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_k.png</thumbnail>
+</item>
