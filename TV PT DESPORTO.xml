@@ -1,8 +1,8 @@
 A BOLA TVRTMP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]A BOLA TV [B][COLOR green][] [B][COLOR red](RTMP)[/B][/COLOR]</title>
-<link>0</link>
-<thumbnail>http://i.imgur.com/aDTQAYr.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 A BOLA TVSPORTS DEVIL
 <item>
@@ -13,21 +13,21 @@ A BOLA TVSPORTS DEVIL
 </item>
 BENFICA TV
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+BENFICA TV
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+BENFICA TV
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2542.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.png</thumbnail>
-</item>
-BENFICA TV
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-BENFICA TV
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
 </item>
 BENFICA TVHTTP
 <item>
@@ -177,19 +177,19 @@ SPORT TV 4K
 SPORT TV 1
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/878.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/879.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
 SPORT TV 1
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR blue]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.90.35:8080/live/6wR53llk86/6Xx2q7V7QB/1110.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
 SPORT TV 1
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.90.35:8080/live/6wR53llk86/6Xx2q7V7QB/1110.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2325.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
 SPORT TV 1RTMP
@@ -207,9 +207,9 @@ SPORT TV 1SPORTS DEVIL
 </item>
 SPORT TV 2
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/879.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)</link>
-<thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 SPORT TV 2
 <item>
@@ -244,9 +244,9 @@ SPORT TV 3
 </item>
 SPORT TV 3
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 3 [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/WaFlv12Od9/jacXeEh35i/621.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by TeamBlue)</link>
-<thumbnail>http://i.imgur.com/XvI6JNr.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 SPORT TV 3
 <item>
@@ -318,9 +318,9 @@ SPORT TV 5
 </item>
 SPORT TV 5RTMP
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 5 [B][COLOR green][SD] [B][COLOR red](RTMP)[/B][/COLOR]</title>
+<link>rtmp://179.43.158.195:16625/stream/ playPath=0tkVGgd2jl.stream?t2466a617kt260i6714rt408i3422nt2466a617kt260i628kt260i6714rt2466a617kt260i6714rt260i6714rt409i617yt409i617y swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN/2021,0,0,242 timeout=10 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&width;=600&height;=460&a;=t6617a936kt734i9934rt457i2946nt6617a936kt734i722kt734i9934rt6617a936kt734i9934rt734i9934rt494i936yt494i936y&st;=14l4t5n4w5c4t2s4643683u5t3q4f46454q5i4p2p243z244746453z3w213e4s203z2&adx;=&stream;=i574j564c4k5w254645434b444h5c4n23406h4a3f413x2766476e3s5x3f3o5a4u2d4f424r2a4z2v224p2f43464f413p2e4a4n234n4q5e3h49454v4s2p4d3n485t4p5c434h4k2m4m4k4f484p3p3e5e4a4v5a4z3244634p2o23434u2c4z2h5x2q2l554b45434d403b4l5n5438433z2d4c4u2y284n5x284y233i5m234242434p2o234z3&sooor;=NA==&str;=is&ok;=&cat;=3&link;=1&idom;=firstrowas.co</link>
+<thumbnail>http://i.imgur.com/G8yH187.png</thumbnail>
 </item>
 SPORT TV 5SPORTS DEVIL
 <item>
