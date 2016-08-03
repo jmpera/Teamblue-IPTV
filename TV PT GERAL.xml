@@ -69,7 +69,7 @@ RTP 2SPORTS DEVIL
 SIC
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/iptv39/Ky9zacT1uT/2173.ts;streamtype=TSDOWNLOADER&amp;name=SIC (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/920.ts;streamtype=TSDOWNLOADER&amp;name=SIC (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt.png</thumbnail>
 </item>
 SIC
@@ -86,9 +86,9 @@ SIC
 </item>
 SICHTTP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC [B][COLOR green][] [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link>0</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 SICSPORTS DEVIL
 <item>
@@ -99,7 +99,7 @@ SICSPORTS DEVIL
 </item>
 SIC$DOREGEX
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC [B][COLOR green][] [B][COLOR red]($DOREGEX)[/B][/COLOR]</title>
+<title></title>
 <link></link>
 <regex>
 <name>get-ip</name>
@@ -112,7 +112,7 @@ SIC$DOREGEX
 <page></page>
 <referer></referer>
 </regex>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 TVI
 <item>
@@ -147,7 +147,7 @@ TVISPORTS DEVIL
 </item>
 TVI$DOREGEX
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI [B][COLOR green][] [B][COLOR red]($DOREGEX)[/B][/COLOR]</title>
+<title></title>
 <link></link>
 <regex>
 <name>get-ip</name>
@@ -160,7 +160,19 @@ TVI$DOREGEX
 <page></page>
 <referer></referer>
 </regex>
-<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_pt.png</thumbnail>
+<thumbnail></thumbnail>
+</item>
+PORTO CANAL
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+PORTO CANAL
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 PORTO CANAL
 <item>
@@ -200,6 +212,18 @@ PORTO CANAL$DOREGEX
 </item>
 RTP ACORES
 <item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+RTP ACORES
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+RTP ACORES
+<item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP ACORES [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2058.ts;streamtype=TSDOWNLOADER&amp;name=RTP ACORES (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/om9BKuk.png</thumbnail>
@@ -216,6 +240,35 @@ RTP ACORESSPORTS DEVIL
 <sportsdevil>http://www.rtp.pt/play/direto/rtpacores</sportsdevil>
 <referer>http://www.rtp.pt/play/</referer>
 <thumbnail>http://i.imgur.com/om9BKuk.png</thumbnail>
+</item>
+RTP ACORES$DOREGEX
+<item>
+<title></title>
+<link></link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page></page>
+<referer></referer>
+</regex>
+<thumbnail></thumbnail>
+</item>
+RTP MADEIRA
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+RTP MADEIRA
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 RTP MADEIRA
 <item>
@@ -236,10 +289,39 @@ RTP MADEIRASPORTS DEVIL
 <referer>http://www.rtp.pt/play/</referer>
 <thumbnail>http://i.imgur.com/EQk4X7n.png</thumbnail>
 </item>
+RTP MADEIRA$DOREGEX
+<item>
+<title></title>
+<link></link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page></page>
+<referer></referer>
+</regex>
+<thumbnail></thumbnail>
+</item>
+RTP AFRICA
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+RTP AFRICA
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
 RTP AFRICA
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP AFRICA [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/MIX39/U8vH97ycFz/2171.ts;streamtype=TSDOWNLOADER&amp;name=RTP AFRICA (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=0;streamtype=TSDOWNLOADER&amp;name=RTP AFRICA (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/YWi6NzU.png</thumbnail>
 </item>
 RTP AFRICARTMP
@@ -254,6 +336,35 @@ RTP AFRICASPORTS DEVIL
 <sportsdevil>http://www.rtp.pt/play/direto/rtpafrica</sportsdevil>
 <referer>http://www.rtp.pt/play/</referer>
 <thumbnail>http://i.imgur.com/YWi6NzU.png</thumbnail>
+</item>
+RTP AFRICA$DOREGEX
+<item>
+<title></title>
+<link></link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page></page>
+<referer></referer>
+</regex>
+<thumbnail></thumbnail>
+</item>
+RTP INTERNACIONAL
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+RTP INTERNACIONAL
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 RTP INTERNACIONAL
 <item>
@@ -274,6 +385,23 @@ RTP INTERNACIONALSPORTS DEVIL
 <referer>http://www.rtp.pt/play/</referer>
 <thumbnail>http://i.imgur.com/YPL4ncR.png</thumbnail>
 </item>
+RTP INTERNACIONAL$DOREGEX
+<item>
+<title></title>
+<link></link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page></page>
+<referer></referer>
+</regex>
+<thumbnail></thumbnail>
+</item>
 CANCAO NOVA
 <item>
 <title></title>
@@ -282,9 +410,9 @@ CANCAO NOVA
 </item>
 CANCAO NOVAHTTP
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CANCAO NOVA [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_cancao_nova_pt.png</thumbnail>
 </item>
 INFORMACAO
 <item>
@@ -307,7 +435,7 @@ CMTVSPORTS DEVIL
 </item>
 CMTV$DOREGEX
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CMTV [B][COLOR green][] [B][COLOR red]($DOREGEX)[/B][/COLOR]</title>
+<title></title>
 <link></link>
 <regex>
 <name>get-ip</name>
@@ -320,7 +448,7 @@ CMTV$DOREGEX
 <page></page>
 <referer></referer>
 </regex>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/cm_tv_pt.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 CNBC
 <item>
@@ -348,15 +476,15 @@ ETV
 </item>
 ETVHTTP
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ETV [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://213.13.26.41:1935/live/etv_direto/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/etv_pt.png</thumbnail>
 </item>
 EURONEWSRTMP
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EURONEWS [B][COLOR green][SD] [B][COLOR red](RTMP)[/B][/COLOR]</title>
+<link>rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews_fr.png</thumbnail>
 </item>
 EURONEWS
 <item>
@@ -372,9 +500,9 @@ FRANCE 24 (IN)
 </item>
 FRANCE 24 (IN)HTTP
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FRANCE 24 (IN) [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/france24_english.png</thumbnail>
 </item>
 RTP 3
 <item>
@@ -415,9 +543,9 @@ SIC NOTICIAS
 </item>
 SIC NOTICIASHTTP
 <item>
-<title>FALSO</title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC NOTICIAS [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://globiptv.com:8000/live/cardsharing/yg4tdh/2053.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_noticias.png</thumbnail>
 </item>
 TVI 24
 <item>
@@ -446,9 +574,9 @@ AR TV
 </item>
 AR TVHTTP
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AR TV [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/chunklist_w1713826381.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/tv/c_1.html</thumbnail>
 </item>
 BLOOMBERG
 <item>
@@ -488,9 +616,9 @@ ENTRETENIMENTO
 </item>
 AeE
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AeE [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1598.ts;streamtype=TSDOWNLOADER&amp;name=AeE (by TeamBlue)</link>
-<thumbnail>http://i.imgur.com/u7IKaDs.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 ARTE
 <item>
@@ -658,7 +786,7 @@ TVI FICCAOSPORTS DEVIL
 </item>
 TVI FICCAO$DOREGEX
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI FICCAO [B][COLOR green][] [B][COLOR red]($DOREGEX)[/B][/COLOR]</title>
+<title></title>
 <link></link>
 <regex>
 <name>get-ip</name>
@@ -671,7 +799,7 @@ TVI FICCAO$DOREGEX
 <page></page>
 <referer></referer>
 </regex>
-<thumbnail>http://i.imgur.com/1OKBioL.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 TVI REALITY
 <item>
@@ -681,9 +809,9 @@ TVI REALITY
 </item>
 TVI REALITYHTTP
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI REALITY [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://206.190.129.28:8088/live/TviReality2/playlist.m3u8?id=22428&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link>
+<thumbnail>http://i.imgur.com/D9HZ95f.png</thumbnail>
 </item>
 TVI REALITY CAM 1
 <item>
@@ -772,7 +900,7 @@ TV RECORD
 TV RECORD
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]TV RECORD [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/766.ts;streamtype=TSDOWNLOADER&amp;name=TV RECORD (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=0;streamtype=TSDOWNLOADER&amp;name=TV RECORD (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/rede_record_br.png</thumbnail>
 </item>
 TV RECORDHTTP
@@ -945,9 +1073,9 @@ REDE TV
 </item>
 REDE TVRTMP
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]REDE TV [B][COLOR green][SD] [B][COLOR red](RTMP)[/B][/COLOR]</title>
+<link>rtmp://evp.mm.uol.com.br/redetv1/_definst_//redetv1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rede_tv_br.png</thumbnail>
 </item>
 SBT
 <item>
@@ -1005,7 +1133,7 @@ TV GALICIA
 </item>
 TV GALICIAHTTP
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]TV GALICIA [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://media3.crtvg.es/live/tvge/chunklist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/galicia_tv_eu.png</thumbnail>
 </item>
