@@ -1,45 +1,36 @@
 <item>
-<title>[B][COLOR skyblue]MOTOGP 2016[/B][/COLOR]</title>
+<title>[B][COLOR skyblue]MOTOGP 2016 - GP AUSTRIA[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/RvWBZE6.png</thumbnail>
 </item>
+
 <item>
-<title>[B][COLOR skyblue]GP AUSTRIA[/B][/COLOR]</title>
-<link>ttp://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/XcyVbPh.jpg</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]--------------------------------------------------[/B][/COLOR]</title>
-<link>http://0.0.0.0:1234</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[B][COLOR gold]12.08 / 08h00 MOTO3:    FP1[/B][/COLOR]</title>
+<title>[B][COLOR gold]12.08 / 08h00 MOTO3:    FP1 (MOV MOTOGP - AV - SPTV 5)[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/MgPvryf.jpg</thumbnail>
 </item>
 <item>
-<title>[B][COLOR gold]12.08 / 08h55 MOTOGP: FP1[/B][/COLOR]</title>
+<title>[B][COLOR gold]12.08 / 08h55 MOTOGP: FP1 (MOV MOTOGP - AV - SPTV 5)[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/MgPvryf.jpg</thumbnail>
 </item>
 <item>
-<title>[B][COLOR gold]12.08 / 09h55 MOTO2:    FP1[/B][/COLOR]</title>
+<title>[B][COLOR gold]12.08 / 09h55 MOTO2:    FP1 (MOV MOTOGP - AV - SPTV 5)[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/MgPvryf.jpg</thumbnail>
 </item>
 <item>
-<title>[B][COLOR gold]12.08 / 12h10 MOTO3:    FP2[/B][/COLOR]</title>
+<title>[B][COLOR gold]12.08 / 12h10 MOTO3:    FP2 (MOV MOTOGP - AV - SPTV 5)[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/MgPvryf.jpg</thumbnail>
 </item>
 <item>
-<title>[B][COLOR gold]12.08 / 13h05 MOTOGP: FP2[/B][/COLOR]</title>
+<title>[B][COLOR gold]12.08 / 13h05 MOTOGP: FP2 (MOV MOTOGP - AV - SPTV 5)[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/MgPvryf.jpg</thumbnail>
 </item>
 <item>
-<title>[B][COLOR gold]12.08 / 14h05 MOTO2:    FP2[/B][/COLOR]</title>
+<title>[B][COLOR gold]12.08 / 14h05 MOTO2:    FP2 (MOV MOTOGP - AV - SPTV 5)[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/MgPvryf.jpg</thumbnail>
 </item>
@@ -49,37 +40,37 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[B][COLOR gold]13.08 / 08h00 MOTO3:    FP3[/B][/COLOR]</title>
+<title>[B][COLOR gold]13.08 / 08h00 MOTO3:    FP3 (MOV MOTOGP - AV - SPTV 5)[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/MgPvryf.jpg</thumbnail>
 </item>
 <item>
-<title>[B][COLOR gold]13.08 / 08h55 MOTOGP: FP3[/B][/COLOR]</title>
+<title>[B][COLOR gold]13.08 / 08h55 MOTOGP: FP3 (MOV MOTOGP - AV - SPTV 5)[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/MgPvryf.jpg</thumbnail>
 </item>
 <item>
-<title>[B][COLOR gold]13.08 / 09h55 MOTO2:    FP3[/B][/COLOR]</title>
+<title>[B][COLOR gold]13.08 / 09h55 MOTO2:    FP3 (MOV MOTOGP - AV - SPTV 5)[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/MgPvryf.jpg</thumbnail>
 </item>
 <item>
-<title>[B][COLOR gold]13.08 / 11h35 MOTO3:   QP[/B][/COLOR]</title>
+<title>[B][COLOR gold]13.08 / 11h35 MOTO3:   QP (MOV MOTOGP - AV - SPTV 5)[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/MgPvryf.jpg</thumbnail>
 </item>
 <item>
-<title>[B][COLOR gold]13.08 / 12h30 MOTOGP: FP4[/B][/COLOR]</title>
+<title>[B][COLOR gold]13.08 / 12h30 MOTOGP: FP4 (MOV MOTOGP - AV - SPTV 5)[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/MgPvryf.jpg</thumbnail>
 </item>
 <item>
-<title>[B][COLOR gold]13.08 / 13h10 MOTOGP: Q1+Q2[/B][/COLOR]</title>
+<title>[B][COLOR gold]13.08 / 13h10 MOTOGP: Q1+Q2 (MOV MOTOGP - AV - SPTV 5)[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/MgPvryf.jpg</thumbnail>
 </item>
 <item>
-<title>[B][COLOR gold]13.08 / 14h05 MOTO2:    QP[/B][/COLOR]</title>
+<title>[B][COLOR gold]13.08 / 14h05 MOTO2:    QP (MOV MOTOGP - AV - SPTV 5)[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/MgPvryf.jpg</thumbnail>
 </item>
@@ -89,22 +80,22 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[B][COLOR gold]17.07 / 07h40 MOTO3-MOTO2-MOTOGP - WUP[/B][/COLOR]</title>
+<title>[B][COLOR gold]17.07 / 07h40 MOTO3-MOTO2-MOTOGP - WUP (MOV MOTOGP - AV - SPTV 5)[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/MgPvryf.jpg</thumbnail>
 </item>
 <item>
-<title>[B][COLOR gold]17.07 / 10h00 MOTO3:    RAC[/B][/COLOR]</title>
+<title>[B][COLOR gold]17.07 / 10h00 MOTO3:    RAC (MOV MOTOGP - AV - SPTV 5)[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/MgPvryf.jpg</thumbnail>
 </item>
 <item>
-<title>[B][COLOR gold]17.07 / 11h20 MOTO2:    RAC[/B][/COLOR]</title>
+<title>[B][COLOR gold]17.07 / 11h20 MOTO2:    RAC (MOV MOTOGP - AV - SPTV 5)[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/MgPvryf.jpg</thumbnail>
 </item>
 <item>
-<title>[B][COLOR gold]17.07 / 13h00 MOTOGP: RAC[/B][/COLOR]</title>
+<title>[B][COLOR gold]17.07 / 13h00 MOTOGP: RAC (MOV MOTOGP - AV - SPTV 5)[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/MgPvryf.jpg</thumbnail>
 </item>
@@ -117,9 +108,4 @@
 <title>[B][COLOR red]CANAIS DISPONIVEIS[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/vcfu9M3.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR blue]MOVISTAR MOTO GP - ARENAVISION - SPORT TV 5[/B][/COLOR]</title>
-<link>http://0.0.0.0:1234</link>
-<thumbnail></thumbnail>
 </item>
