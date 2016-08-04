@@ -4,7 +4,7 @@
 <thumbnail>http://i.imgur.com/AtCJi2s.png</thumbnail>
 </item>
 <item>
-<title>[B][COLOR lawngreen](SPTV1 - AV1-2 ES)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen](SPTV1 - AV11-12 ES)[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
@@ -18,12 +18,6 @@ SPORT TV 1
 <item>
 <title>[B][COLOR blue]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://149.202.90.35:8080/live/6wR53llk86/6Xx2q7V7QB/1110.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
-<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
-</item>
-SPORT TV 1RTMP
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR green][SD] [B][COLOR red](RTMP)[/B][/COLOR]</title>
-<link>rtmp://179.43.158.195:16625/stream/ playPath=NdTaX9Epd0.stream?t441i623yt2211i2470tt2211i711mt726i711kt949i57nt949i57nt2211i711mt2470a623kt2211i2470tt623i95b swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN/2021,0,0,242 timeout=10 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&width;=600&height;=460&a;=t446i725yt7862i7909tt7862i396mt201i396kt841i2157nt841i2157nt7862i396mt7909a725kt7862i7909tt725i928b&st;=04o205n4w574v2s27436q24693u5c4q3g58533d3g4b4w234e4b4u234v2v234x2u2p2s2a4u2&adx;=&stream;=24u2b4l564d49484d4i5z294x28423n22434o3a3f4w2z2747476w226d3j4l5u354v303q4i4h5w2u294u244745494q2u28404r284v204v2p2x4m4l4t2r2w2x2766476e3s5b4s3i5y313c3j4l5i2i4o4p4p564q345i5o554l4r5v3n226o204t2n264a4x2u2x243d4j5d4a4a48484x2d4a494u2s2i5746433b45464e4649494s2x234z3n204o204t2n204&sooor;=MTA=&str;=is&ok;=&cat;=3&link;=1&idom;=firstrowas.co</link>
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
 SPORT TV 1RTMP
