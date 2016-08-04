@@ -1,17 +1,27 @@
 <item>
-<title>[B][COLOR blue]04.08 / 20h00 [B][COLOR gold]• SPORTING-BETIS SEVILHA •[B][COLOR blue] (STV1 - AV11-12 ES)[/B][/COLOR]</title>
+<title>[B][COLOR blue]04.08 / 20h00 [B][COLOR gold]• SPORTING-BETIS SEVILHA •[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/AtCJi2s.png</thumbnail>
 </item>
-
 <item>
-<title>[B][COLOR blue]05.08 / 20h30 [B][COLOR gold]• SPORTING-NICE •[B][COLOR blue] (STV1 - AV8-9 PT)[/B][/COLOR]</title>
+<title>[B][COLOR blue](STV1 - AV11-12 ES)[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/AtCJi2s.png</thumbnail>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR blue]06.08 / 21h30 [B][COLOR gold]• PORTO-VILLARREAL •[B][COLOR blue] (PORTO CANAL - AV8-9 PT)[/B][/COLOR]</title>
+<title>[B][COLOR blue]05.08 / 20h30 [B][COLOR gold]• SPORTING-NICE •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/AtCJi2s.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR blue](STV1 - AV8-9 PT)[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]06.08 / 21h30 [B][COLOR gold]• PORTO-VILLARREAL •[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/AtCJi2s.png</thumbnail>
 </item>
