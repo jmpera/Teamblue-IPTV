@@ -69,7 +69,7 @@ RTP 2SPORTS DEVIL
 SIC
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/920.ts;streamtype=TSDOWNLOADER&amp;name=SIC (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=0;streamtype=TSDOWNLOADER&amp;name=SIC (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt.png</thumbnail>
 </item>
 SIC
@@ -429,7 +429,7 @@ CMTV
 CMTVRTMP
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CMTV [B][COLOR green][SD] [B][COLOR red](RTMP)[/B][/COLOR]</title>
-<link>rtmp://95.211.148.133/stream playPath=gareerga?id=27078&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=10 conn=S:OK live=true swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf flashver=WIN\2021,0,0,242 pageUrl=http://www.liveflashplayer.net/embedplayer/gareerga/1/620/430</link>
+<link>rtmp://107.182.234.180/stream playPath=gareerga?id=27078&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=10 conn=S:OK live=true swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf flashver=WIN\2021,0,0,242 pageUrl=http://www.liveflashplayer.net/embedplayer/gareerga/1/620/430</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cm_tv_pt.png</thumbnail>
 </item>
 CMTVSPORTS DEVIL
@@ -489,7 +489,7 @@ ETVHTTP
 EURONEWS
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EURONEWS [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/esad.hasanovic10/skype/907.ts;streamtype=TSDOWNLOADER&amp;name=EURONEWS (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/wayne1/wayne1/907.ts;streamtype=TSDOWNLOADER&amp;name=EURONEWS (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews_fr.png</thumbnail>
 </item>
 EURONEWSRTMP
@@ -683,7 +683,7 @@ E!
 MTV PORTUGAL
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]MTV PORTUGAL [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/esad.hasanovic10/skype/911.ts;streamtype=TSDOWNLOADER&amp;name=MTV PORTUGAL (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:199;streamtype=TSDOWNLOADER&amp;name=MTV PORTUGAL (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/GyPW7Rw.png</thumbnail>
 </item>
 RTP MEMORIA
@@ -779,9 +779,9 @@ TVI FICCAO
 </item>
 TVI FICCAOHTTP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI FICCAO [B][COLOR green][] [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link>0</link>
-<thumbnail>http://i.imgur.com/1OKBioL.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 TVI FICCAOSPORTS DEVIL
 <item>
@@ -815,9 +815,9 @@ TVI REALITY
 </item>
 TVI REALITYHTTP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI REALITY [B][COLOR green][] [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link>0</link>
-<thumbnail>http://i.imgur.com/D9HZ95f.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 TVI REALITY CAM 1
 <item>
@@ -905,9 +905,9 @@ TV RECORD
 </item>
 TV RECORD
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]TV RECORD [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=0;streamtype=TSDOWNLOADER&amp;name=TV RECORD (by TeamBlue)</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/rr/rede_record_br.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 TV RECORDHTTP
 <item>
@@ -924,7 +924,7 @@ LIFESTYLE
 24 KITCHEN
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]24 KITCHEN [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/1198.ts;streamtype=TSDOWNLOADER&amp;name=24 KITCHEN (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/2487.ts;streamtype=TSDOWNLOADER&amp;name=24 KITCHEN (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/num/24_kitchen_us.png</thumbnail>
 </item>
 24 KITCHEN
