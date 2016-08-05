@@ -4,7 +4,7 @@
 <thumbnail>http://i.imgur.com/AtCJi2s.png</thumbnail>
 </item>
 <item>
-<title>[B][COLOR lawngreen](SPTV1 - AV8-9 PT)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]SPTV1 - AV8-9 PT[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
@@ -50,4 +50,26 @@ ARENAVISION 9
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ARENAVISION 9 [B][COLOR green][HD] [B][COLOR red](Plexus)[/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://ae45951f96f1fbfef7d3bceb522201d760003bce&amp;mode=1&amp;name=acestream+SPORTS</link>
 <thumbnail>http://i.imgur.com/0cnsKMR.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]06.08 / 20h00 [B][COLOR gold]• GUIMARAES-TOULOUSE •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/AtCJi2s.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR lawngreen]SPTV1[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]06.08 / 21h30 [B][COLOR gold]• PORTO-VILLARREAL •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/AtCJi2s.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR lawngreen]PORTO CANAL - AV8-9 PT[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
