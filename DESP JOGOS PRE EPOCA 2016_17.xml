@@ -1,10 +1,10 @@
 <item>
-<title>[B][COLOR blue]05.08 / 20h30 [B][COLOR gold]• SPORTING-NICE •[/B][/COLOR]</title>
+<title>[B][COLOR blue]06.08 / 20h00 [B][COLOR gold]• GUIMARAES-TOULOUSE •[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/AtCJi2s.png</thumbnail>
 </item>
 <item>
-<title>[B][COLOR lawngreen]SPTV1 - AV8-9 PT[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]SPTV1[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
@@ -12,12 +12,6 @@ SPORT TV 1
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1601.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
-<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
-</item>
-SPORT TV 1
-<item>
-<title>[B][COLOR blue]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://namiptv.ddns.net:6969/live/facebook.com/groups/iptvfree/5/160.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
 SPORT TV 1
@@ -39,29 +33,6 @@ SPORT TV 1SPORTS DEVIL
 <referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
-ARENAVISION 8
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ARENAVISION 8 [B][COLOR green][HD] [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://63572c2e74f870210381c142a6eee6b3b4a96df0&amp;mode=1&amp;name=acestream+SPORTS</link>
-<thumbnail>http://i.imgur.com/TdgjIIx.png</thumbnail>
-</item>
-ARENAVISION 9
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ARENAVISION 9 [B][COLOR green][HD] [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://ae45951f96f1fbfef7d3bceb522201d760003bce&amp;mode=1&amp;name=acestream+SPORTS</link>
-<thumbnail>http://i.imgur.com/0cnsKMR.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]06.08 / 20h00 [B][COLOR gold]• GUIMARAES-TOULOUSE •[/B][/COLOR]</title>
-<link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/AtCJi2s.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]SPTV1[/B][/COLOR]</title>
-<link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR blue]06.08 / 21h30 [B][COLOR gold]• PORTO-VILLARREAL •[/B][/COLOR]</title>
@@ -72,4 +43,40 @@ ARENAVISION 9
 <title>[B][COLOR lawngreen]PORTO CANAL - AV8-9 PT[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
+</item>
+PORTO CANAL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]PORTO CANAL [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2315.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/0NAGz7e.png</thumbnail>
+</item>
+PORTO CANALHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]PORTO CANAL [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://213.13.26.11:1935/live/portocanal/live.m3u8</link>
+<thumbnail>http://i.imgur.com/0NAGz7e.png</thumbnail>
+</item>
+PORTO CANALSPORTS DEVIL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]PORTO CANAL [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<sportsdevil>http://www.desportonline.com/index.php?canal=portocanal</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<thumbnail>http://i.imgur.com/0NAGz7e.png</thumbnail>
+</item>
+PORTO CANAL$DOREGEX
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]PORTO CANAL [B][COLOR green][SD] [B][COLOR red]($DOREGEX)[/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=portocanalv?id=86583&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/portocanalv/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/portocanalv/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+</regex>
+<thumbnail>http://i.imgur.com/0NAGz7e.png</thumbnail>
 </item>
