@@ -4,7 +4,55 @@
 <thumbnail>http://i.imgur.com/iWs3lIf.png</thumbnail>
 </item>
 <item>
-<title>[B][COLOR lawngreen](TVI-AV8-9 PT)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]TVI-AV8-9 PT[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
+</item>
+TVI
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1125.ts;streamtype=TSDOWNLOADER&amp;name=TVI (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_pt.png</thumbnail>
+</item>
+TVIHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_pt.png</thumbnail>
+</item>
+TVISPORTS DEVIL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/tvi</sportsdevil>
+<referer>http://ezcast.tv/</referer>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_pt.png</thumbnail>
+</item>
+TVI$DOREGEX
+<item>
+<title></title>
+<link></link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>ea=(.*)'</expres>
+<page></page>
+<referer></referer>
+</regex>
+<thumbnail></thumbnail>
+</item>
+ARENAVISION 8
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ARENAVISION 8 [B][COLOR green][HD] [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://63572c2e74f870210381c142a6eee6b3b4a96df0&amp;mode=1&amp;name=acestream+SPORTS</link>
+<thumbnail>http://i.imgur.com/TdgjIIx.png</thumbnail>
+</item>
+ARENAVISION 9
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ARENAVISION 9 [B][COLOR green][HD] [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://ae45951f96f1fbfef7d3bceb522201d760003bce&amp;mode=1&amp;name=acestream+SPORTS</link>
+<thumbnail>http://i.imgur.com/0cnsKMR.png</thumbnail>
 </item>
