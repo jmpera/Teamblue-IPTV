@@ -19,7 +19,7 @@ RTP 1
 RTP 1
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 1 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1119.ts;streamtype=TSDOWNLOADER&amp;name=RTP 1 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/waq/waq/1667.ts;streamtype=TSDOWNLOADER&amp;name=RTP 1 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/pjjlbCF.png</thumbnail>
 </item>
 RTP 1RTMP
@@ -68,9 +68,9 @@ RTP 2SPORTS DEVIL
 </item>
 SIC
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=0;streamtype=TSDOWNLOADER&amp;name=SIC (by TeamBlue)</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 SIC
 <item>
@@ -86,9 +86,9 @@ SIC
 </item>
 SICHTTP
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://noscdn1.connectedviews.com:1935/live/sic.stream/KodiPortugal.pt.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt.png</thumbnail>
 </item>
 SICSPORTS DEVIL
 <item>
@@ -129,7 +129,7 @@ TVI
 TVI
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/760.ts;streamtype=TSDOWNLOADER&amp;name=TVI (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1125.ts;streamtype=TSDOWNLOADER&amp;name=TVI (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_pt.png</thumbnail>
 </item>
 TVIHTTP
@@ -225,7 +225,7 @@ RTP ACORES
 RTP ACORES
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP ACORES [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2058.ts;streamtype=TSDOWNLOADER&amp;name=RTP ACORES (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/805.ts;streamtype=TSDOWNLOADER&amp;name=RTP ACORES (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/om9BKuk.png</thumbnail>
 </item>
 RTP ACORESRTMP
@@ -272,9 +272,9 @@ RTP AFRICA
 </item>
 RTP AFRICA
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP AFRICA [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/3514.ts;streamtype=TSDOWNLOADER&amp;name=RTP AFRICA (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/YWi6NzU.png</thumbnail>
 </item>
 RTP AFRICARTMP
 <item>
@@ -321,7 +321,7 @@ RTP INTERNACIONAL
 RTP INTERNACIONAL
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP INTERNACIONAL [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1411.ts;streamtype=TSDOWNLOADER&amp;name=RTP INTERNACIONAL (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1411.ts;streamtype=TSDOWNLOADER&amp;name=RTP INTERNACIONAL (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/YPL4ncR.png</thumbnail>
 </item>
 RTP INTERNACIONALRTMP
@@ -488,9 +488,9 @@ ETVHTTP
 </item>
 EURONEWS
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EURONEWS [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:1994/live/wayne1/wayne1/907.ts;streamtype=TSDOWNLOADER&amp;name=EURONEWS (by TeamBlue)</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews_fr.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 EURONEWSRTMP
 <item>
@@ -513,7 +513,7 @@ FRANCE 24 (IN)HTTP
 RTP 3
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 3 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1665.ts;streamtype=TSDOWNLOADER&amp;name=RTP 3 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/425.ts;streamtype=TSDOWNLOADER&amp;name=RTP 3 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/mrqnruN.png</thumbnail>
 </item>
 RTP 3RTMP
@@ -556,7 +556,7 @@ SIC NOTICIASHTTP
 TVI 24
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI 24 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1054.ts;streamtype=TSDOWNLOADER&amp;name=TVI 24 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/808.ts;streamtype=TSDOWNLOADER&amp;name=TVI 24 (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_24.png</thumbnail>
 </item>
 TVI 24HTTP
@@ -592,9 +592,9 @@ BLOOMBERG
 </item>
 CNN
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] US: [B][COLOR white]CNN [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1392.ts;streamtype=TSDOWNLOADER&amp;name=CNN (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cnn_international_global.png</thumbnail>
 </item>
 FOX NEWS
 <item>
@@ -682,14 +682,14 @@ E!
 </item>
 MTV PORTUGAL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]MTV PORTUGAL [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nlxiptv.no-ip.biz:199;streamtype=TSDOWNLOADER&amp;name=MTV PORTUGAL (by TeamBlue)</link>
-<thumbnail>http://i.imgur.com/GyPW7Rw.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 RTP MEMORIA
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP MEMORIA [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/895.ts;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1410.ts;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/lWlG90R.png</thumbnail>
 </item>
 RTP MEMORIARTMP
@@ -731,9 +731,9 @@ SIC MULHER
 </item>
 SIC MULHERHTTP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC MULHER [B][COLOR green][] [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link>0</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_mulher.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 SIC MULHERSPORTS DEVIL
 <item>
@@ -810,7 +810,7 @@ TVI FICCAO$DOREGEX
 TVI REALITY
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI REALITY [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.90.35:8080/live/6wR53llk86/6Xx2q7V7QB/1098.ts;streamtype=TSDOWNLOADER&amp;name=TVI REALITY (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3716.ts;streamtype=TSDOWNLOADER&amp;name=TVI REALITY (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/D9HZ95f.png</thumbnail>
 </item>
 TVI REALITYHTTP
@@ -870,7 +870,7 @@ GLOBO PORTUGAL
 GLOBO PORTUGAL
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]GLOBO PORTUGAL [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/763.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO PORTUGAL (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.194.36:8000/live/dary/dary/102.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO PORTUGAL (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_globo_pt.png</thumbnail>
 </item>
 GLOBO PREMIUM
@@ -887,12 +887,6 @@ GLOBO PREMIUM
 </item>
 GLOBO PREMIUM
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]GLOBO PREMIUM [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1968.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO PREMIUM (by TeamBlue)</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_globo_premium.png</thumbnail>
-</item>
-TV RECORD
-<item>
 <title></title>
 <link></link>
 <thumbnail></thumbnail>
@@ -908,6 +902,12 @@ TV RECORD
 <title></title>
 <link></link>
 <thumbnail></thumbnail>
+</item>
+TV RECORD
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]TV RECORD [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/766.ts;streamtype=TSDOWNLOADER&amp;name=TV RECORD (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rede_record_br.png</thumbnail>
 </item>
 TV RECORDHTTP
 <item>
@@ -924,14 +924,14 @@ LIFESTYLE
 24 KITCHEN
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]24 KITCHEN [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/2487.ts;streamtype=TSDOWNLOADER&amp;name=24 KITCHEN (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=0;streamtype=TSDOWNLOADER&amp;name=24 KITCHEN (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/num/24_kitchen_us.png</thumbnail>
 </item>
 24 KITCHEN
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]24 KITCHEN [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/2487.ts;streamtype=TSDOWNLOADER&amp;name=24 KITCHEN (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/num/24_kitchen_us.png</thumbnail>
 </item>
 24 KITCHEN
 <item>
