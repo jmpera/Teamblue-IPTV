@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR blue]08.08 / 12h00 [B][COLOR gold]• TRANSMISSAO DIRETA •[/B][/COLOR]</title>
+<title>[B][COLOR blue]08.08 / 12h00 [B][COLOR gold]• NATACAO•JUDO •[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/qYRy3TU.png</thumbnail>
 </item>
@@ -29,7 +29,7 @@ RTP 2SPORTS DEVIL
 </item>
 
 <item>
-<title>[B][COLOR blue]08.08 / 15h00 [B][COLOR gold]• JUDO-TENIS MESA-NATACAO •[/B][/COLOR]</title>
+<title>[B][COLOR blue]08.08 / 15h00 [B][COLOR gold]• JUDO•TENIS MESA•NATACAO •[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/qYRy3TU.png</thumbnail>
 </item>
@@ -59,7 +59,67 @@ RTP 1SPORTS DEVIL
 </item>
 
 <item>
-<title>[B][COLOR blue]08.08 / 23h00 [B][COLOR gold]• BASKET-GINASTICA-NATACAO •[/B][/COLOR]</title>
+<title>[B][COLOR blue]08.08 / 18h00 [B][COLOR gold]• NATACAO •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/qYRy3TU.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR lawngreen]RTP2[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
+</item>
+RTP 2
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 2 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1970.ts;streamtype=TSDOWNLOADER&amp;name=RTP 2 (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/krvWl4X.png</thumbnail>
+</item>
+RTP 2RTMP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 2 [B][COLOR green][] [B][COLOR red](RTMP)[/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://i.imgur.com/krvWl4X.png</thumbnail>
+</item>
+RTP 2SPORTS DEVIL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 2 [B][COLOR green][] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<sportsdevil>http://www.rtp.pt/play/direto/rtp2</sportsdevil>
+<referer>http://www.rtp.pt/</referer>
+<thumbnail>http://i.imgur.com/krvWl4X.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]08.08 / 20h45 [B][COLOR gold]• SALTOS PARA A AGUA •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/qYRy3TU.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR lawngreen]RTP2[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
+</item>
+RTP 2
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 2 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1970.ts;streamtype=TSDOWNLOADER&amp;name=RTP 2 (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/krvWl4X.png</thumbnail>
+</item>
+RTP 2RTMP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 2 [B][COLOR green][] [B][COLOR red](RTMP)[/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://i.imgur.com/krvWl4X.png</thumbnail>
+</item>
+RTP 2SPORTS DEVIL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 2 [B][COLOR green][] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<sportsdevil>http://www.rtp.pt/play/direto/rtp2</sportsdevil>
+<referer>http://www.rtp.pt/</referer>
+<thumbnail>http://i.imgur.com/krvWl4X.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]08.08 / 23h00 [B][COLOR gold]• BASKET•GINASTICA•NATACAO •[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/qYRy3TU.png</thumbnail>
 </item>
