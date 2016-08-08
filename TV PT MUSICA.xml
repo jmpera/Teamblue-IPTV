@@ -42,15 +42,15 @@ MCM TOP
 </item>
 MTV DANCE
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]MTV DANCE [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/456.ts;streamtype=TSDOWNLOADER&amp;name=MTV DANCE</link>
+<thumbnail>http://i.imgur.com/RsNG82a.png</thumbnail>
 </item>
 MTV HITS
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]MTV HITS [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1083.ts;streamtype=TSDOWNLOADER&amp;name=MTV HITS</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mtv_hits_ce.png</thumbnail>
 </item>
 MTV PORTUGAL
 <item>
