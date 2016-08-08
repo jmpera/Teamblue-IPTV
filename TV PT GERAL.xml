@@ -428,9 +428,9 @@ CMTV
 </item>
 CMTVRTMP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CMTV [B][COLOR green][SD] [B][COLOR red](RTMP)[/B][/COLOR]</title>
-<link>rtmp://46.165.251.98/stream playPath=gareerga?id=27078&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=10 conn=S:OK live=true swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf flashver=WIN\2021,0,0,242 pageUrl=http://www.liveflashplayer.net/embedplayer/gareerga/1/620/430</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/cm_tv_pt.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 CMTVSPORTS DEVIL
 <item>
@@ -731,9 +731,9 @@ SIC MULHER
 </item>
 SIC MULHERHTTP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC MULHER [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link>http://173.193.205.94:8088/live/sicm02/playlist.m3u8?id=85250&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_mulher.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 SIC MULHERSPORTS DEVIL
 <item>
@@ -773,27 +773,27 @@ SIC RADICALHTTP
 </item>
 SIC RADICALSPORTS DEVIL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC RADICAL [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
-<sportsdevil>http://www.estadiofutebol.com/gratis/sicradical</sportsdevil>
-<referer>http://ucaster.eu/</referer>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_radical.png</thumbnail>
+<title></title>
+<sportsdevil></sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
 </item>
 SIC RADICAL$DOREGEX
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC RADICAL [B][COLOR green][SD] [B][COLOR red]($DOREGEX)[/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=sicradicalx?id=84768&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sicradicalx/1/650/500</link>
+<title></title>
+<link></link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
+<page></page>
 </regex>
 <regex>
 <name>get-pk</name>
 <expres>ea=(.*)'</expres>
-<page>http://www.embeducaster.com/embedplayer/sicradicalx/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
+<page></page>
+<referer></referer>
 </regex>
-<thumbnail>http://i.imgur.com/1OKBioL.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 TVI FICCAO
 <item>
@@ -803,9 +803,9 @@ TVI FICCAO
 </item>
 TVI FICCAOHTTP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI FICCAO [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link>rtmp://173.192.209.69/live/ playPath=tvioles?id=88027&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=10 conn=S:OK live=true swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2021,0,0,242 pageUrl=http://www.embeducaster.com/embedplayer/tvioles/1/730/430</link>
-<thumbnail>http://i.imgur.com/1OKBioL.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 TVI FICCAOSPORTS DEVIL
 <item>
@@ -845,27 +845,27 @@ TVI REALITYHTTP
 </item>
 TVI REALITYSPORTS DEVIL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI REALITY [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
-<sportsdevil>http://www.mytvfree4.me/ver/tvi-reality-24h</sportsdevil>
-<referer>http://www.mytvfree4.me/ver/tvi-reality-24h</referer>
-<thumbnail>http://i.imgur.com/D9HZ95f.png</thumbnail>
+<title></title>
+<sportsdevil></sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
 </item>
 TVI REALITY$DOREGEX
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI REALITY [B][COLOR green][SD] [B][COLOR red]($DOREGEX)[/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live/ playpath=TviReality2?id=22428$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/TviReality2/1/545/440 live=true</link>
+<title></title>
+<link></link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
-<page>http://www.streamifyplayer.com/embedplayer/TviReality2/1/545/440 live=true</page>
+<page></page>
 </regex>
 <regex>
 <name>get-pk</name>
 <expres>ea=(.*)'</expres>
-<page>http://www.streamifypublisher.com:1935/loadbalancer</page>
-<referer>http://www.streamifyplayer.com</referer>
+<page></page>
+<referer></referer>
 </regex>
-<thumbnail>http://i.imgur.com/D9HZ95f.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 TVI REALITY CAM 1
 <item>
