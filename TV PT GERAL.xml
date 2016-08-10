@@ -182,7 +182,7 @@ PORTO CANAL
 </item>
 PORTO CANALHTTP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]PORTO CANAL [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]PORTO CANAL [B][COLOR green][HD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
 <link>http://213.13.26.11:1935/live/portocanal/live.m3u8</link>
 <thumbnail>http://i.imgur.com/0NAGz7e.png</thumbnail>
 </item>
@@ -470,15 +470,15 @@ ETV
 </item>
 ETV
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ETV [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2482.ts;streamtype=TSDOWNLOADER&amp;name=ETV (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/etv_pt.png</thumbnail>
 </item>
 ETV
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ETV [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1424.ts;streamtype=TSDOWNLOADER&amp;name=ETV (by TeamBlue)</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/etv_pt.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 ETVHTTP
 <item>
@@ -506,7 +506,7 @@ FRANCE 24 (IN)
 </item>
 FRANCE 24 (IN)HTTP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FRANCE 24 (IN) [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FRANCE 24 (IN) [B][COLOR green][HD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
 <link>http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/france24_english.png</thumbnail>
 </item>
@@ -670,9 +670,9 @@ E!
 </item>
 E!
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]E! [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2482.ts;streamtype=TSDOWNLOADER&amp;name=E! (by TeamBlue)</link>
-<thumbnail>http://i.imgur.com/Ta2wvuo.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 E!
 <item>
@@ -834,7 +834,7 @@ TVI FICCAO$DOREGEX
 TVI REALITY
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI REALITY [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2050.ts;streamtype=TSDOWNLOADER&amp;name=TVI REALITY (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adil/adil2016/1191.ts;streamtype=TSDOWNLOADER&amp;name=TVI REALITY (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/D9HZ95f.png</thumbnail>
 </item>
 TVI REALITYHTTP
@@ -971,14 +971,14 @@ LIFESTYLE
 </item>
 24 KITCHEN
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]24 KITCHEN [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2487.ts;streamtype=TSDOWNLOADER&amp;name=24 KITCHEN (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/num/24_kitchen_us.png</thumbnail>
 </item>
 24 KITCHEN
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]24 KITCHEN [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2487.ts;streamtype=TSDOWNLOADER&amp;name=24 KITCHEN (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adil/adil2016/1198.ts;streamtype=TSDOWNLOADER&amp;name=24 KITCHEN (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/num/24_kitchen_us.png</thumbnail>
 </item>
 24 KITCHEN
