@@ -101,11 +101,11 @@ VEVO 1
 <link></link>
 <thumbnail></thumbnail>
 </item>
-VEVO 2
+VEVO 1HTTP
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]VEVO 1 [B][COLOR green][HD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8</link>
+<thumbnail>http://i.imgur.com/gvrcgs1.png</thumbnail>
 </item>
 VEVO 2
 <item>
@@ -118,6 +118,18 @@ VEVO 2
 <title></title>
 <link></link>
 <thumbnail></thumbnail>
+</item>
+VEVO 2
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+VEVO 2HTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]VEVO 2 [B][COLOR green][HD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8</link>
+<thumbnail>http://i.imgur.com/gvrcgs1.png</thumbnail>
 </item>
 VEVO 3
 <item>
@@ -136,6 +148,12 @@ VEVO 3
 <title></title>
 <link></link>
 <thumbnail></thumbnail>
+</item>
+VEVO 3HTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]VEVO 3 [B][COLOR green][HD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8</link>
+<thumbnail>http://i.imgur.com/gvrcgs1.png</thumbnail>
 </item>
 VH1
 <item>
@@ -161,3 +179,4 @@ VH1 CLASSIC
 <link></link>
 <thumbnail></thumbnail>
 </item>
+**********
