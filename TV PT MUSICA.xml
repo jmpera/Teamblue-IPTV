@@ -1,8 +1,8 @@
 AFRO MUSIC
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AFRO MUSIC [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1307.ts;streamtype=TSDOWNLOADER&amp;name=AFRO MUSIC (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/afro_music_channel.png</thumbnail>
 </item>
 C MUSIC
 <item>
@@ -22,7 +22,7 @@ iCONCERTS
 <link></link>
 <thumbnail></thumbnail>
 </item>
-iCONCERTS
+DELUXE MUSIQUE
 <item>
 <title></title>
 <link></link>
@@ -30,15 +30,15 @@ iCONCERTS
 </item>
 MCM POP
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]MCM POP [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1305.ts;streamtype=TSDOWNLOADER&amp;name=MCM POP</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/mcm_pop.png</thumbnail>
 </item>
 MCM TOP
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]MCM TOP [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1306.ts;streamtype=TSDOWNLOADER&amp;name=MCM TOP</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mcm_top_fr.png</thumbnail>
 </item>
 MTV DANCE
 <item>
@@ -54,15 +54,15 @@ MTV HITS
 </item>
 MTV PORTUGAL
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]MTV PORTUGAL [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1304.ts;streamtype=TSDOWNLOADER&amp;name=MTV PORTUGAL</link>
+<thumbnail>http://i.imgur.com/wLDKzzR.jpg</thumbnail>
 </item>
 MTV PORTUGALHTTP
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]MTV PORTUGAL [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://46.28.53.142:8088/live/mtvax/playlist.m3u8?id=84773&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link>
+<thumbnail>http://i.imgur.com/wLDKzzR.jpg</thumbnail>
 </item>
 MTV PORTUGALSPORTS DEVIL
 <item>
@@ -73,9 +73,9 @@ MTV PORTUGALSPORTS DEVIL
 </item>
 TRACE URBAN
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TRACE URBAN [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1679.ts;streamtype=TSDOWNLOADER&amp;name=TRACE URBAN</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/tt/trace_fr_urban.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 VEVO
 <item>
@@ -97,9 +97,9 @@ VEVO 1
 </item>
 VEVO 1
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]VEVO 1 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/Patricia/Patricia/2152.ts;streamtype=TSDOWNLOADER&amp;name=VEVO 1</link>
+<thumbnail>http://i.imgur.com/gvrcgs1.png</thumbnail>
 </item>
 VEVO 1HTTP
 <item>
@@ -121,9 +121,9 @@ VEVO 2
 </item>
 VEVO 2
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]VEVO 2 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/Patricia/Patricia/440.ts;streamtype=TSDOWNLOADER&amp;name=VEVO 2</link>
+<thumbnail>http://i.imgur.com/gvrcgs1.png</thumbnail>
 </item>
 VEVO 2HTTP
 <item>
@@ -145,9 +145,9 @@ VEVO 3
 </item>
 VEVO 3
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]VEVO 3 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/Patricia/Patricia/441.ts;streamtype=TSDOWNLOADER&amp;name=VEVO 3</link>
+<thumbnail>http://i.imgur.com/gvrcgs1.png</thumbnail>
 </item>
 VEVO 3HTTP
 <item>
@@ -175,8 +175,8 @@ VH1
 </item>
 VH1 CLASSIC
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]VH1 CLASSIC [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1302.ts;streamtype=TSDOWNLOADER&amp;name=VH1 CLASSIC</link>
+<thumbnail>http://i.imgur.com/DzLrn28.png</thumbnail>
 </item>
 **********
