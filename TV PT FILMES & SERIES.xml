@@ -6,14 +6,14 @@ FILMES
 </item>
 AMC
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AMC [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/Patricia/Patricia/2503.ts;streamtype=TSDOWNLOADER&amp;name=AMC</link>
+<thumbnail>http://i.imgur.com/fHe2vb2.png</thumbnail>
 </item>
 CINEMUNDO
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CINEMUNDO [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2059.ts;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1272.ts;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cine_mundo_pt.png</thumbnail>
 </item>
 FX
@@ -42,9 +42,9 @@ FOX MOVIES
 </item>
 FOX MOVIESHTTP
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX MOVIES [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://146.185.16.62:8088/live/sical/playlist.m3u8?id=24913&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_movies_pt.png</thumbnail>
 </item>
 FOX MOVIESSPORTS DEVIL
 <item>
@@ -84,9 +84,9 @@ HOLLYWOOD
 </item>
 HOLLYWOOD
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]HOLLYWOOD [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1271.ts;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/canal_hollywood_pt.png</thumbnail>
 </item>
 HOLLYWOOD
 <item>
@@ -126,39 +126,39 @@ TV CINE 1
 </item>
 TV CINE 1
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TV CINE 1 [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/Patricia/Patricia/1224.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 1</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvc1.png</thumbnail>
 </item>
 TV CINE 1
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TV CINE 1 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1059.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/673.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 1</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvc1.png</thumbnail>
 </item>
 TV CINE 2
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TV CINE 2 [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1058.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 2</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvc2.png</thumbnail>
 </item>
 TV CINE 2
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TV CINE 2 [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2303.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 2</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvc2.png</thumbnail>
 </item>
 TV CINE 2
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TV CINE 2 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1058.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1267.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 2</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvc2.png</thumbnail>
 </item>
 TV CINE 3
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TV CINE 3 [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1057.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 3</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvc3.png</thumbnail>
 </item>
 TV CINE 3
 <item>
@@ -169,14 +169,14 @@ TV CINE 3
 TV CINE 3
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TV CINE 3 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1057.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 3</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/Patricia/Patricia/1226.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 3</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvc3.png</thumbnail>
 </item>
 TV CINE 4
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TV CINE 4 [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/claudia/claudia/3524.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 4</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvc4.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 TV CINE 4
 <item>
@@ -204,21 +204,21 @@ AXN
 </item>
 AXN
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AXN [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1156.ts;streamtype=TSDOWNLOADER&amp;name=AXN</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_global.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 AXN
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AXN [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/adil/adil2016/1033.ts;streamtype=TSDOWNLOADER&amp;name=AXN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1280.ts;streamtype=TSDOWNLOADER&amp;name=AXN</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_global.png</thumbnail>
 </item>
 AXNHTTP
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AXN [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://46.28.53.142:8088/live/portocanalv/playlist.m3u8?id=86583&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_global.png</thumbnail>
 </item>
 AXNSPORTS DEVIL
 <item>
@@ -247,7 +247,7 @@ AXN$DOREGEX
 AXN BLACK
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AXN BLACK [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/2060.ts;streamtype=TSDOWNLOADER&amp;name=AXN BLACK</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/Patricia/Patricia/1266.ts;streamtype=TSDOWNLOADER&amp;name=AXN BLACK</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_black_pt.png</thumbnail>
 </item>
 AXN BLACK
@@ -259,7 +259,7 @@ AXN BLACK
 AXN BLACK
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AXN BLACK [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/882.ts;streamtype=TSDOWNLOADER&amp;name=AXN BLACK</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1282.ts;streamtype=TSDOWNLOADER&amp;name=AXN BLACK</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_black_pt.png</thumbnail>
 </item>
 AXN WHITE
@@ -277,14 +277,14 @@ AXN WHITE
 AXN WHITE
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AXN WHITE [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/2061.ts;streamtype=TSDOWNLOADER&amp;name=AXN WHITE</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/Patricia/Patricia/1264.ts;streamtype=TSDOWNLOADER&amp;name=AXN WHITE</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_white_pt.png</thumbnail>
 </item>
 AXN WHITEHTTP
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AXN WHITE [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://46.28.49.156:8088/live/axnwhitex/playlist.m3u8?id=84774&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_white_pt.png</thumbnail>
 </item>
 AXN WHITESPORTS DEVIL
 <item>
@@ -313,14 +313,14 @@ AXN WHITE$DOREGEX
 FOX
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1694.ts;streamtype=TSDOWNLOADER&amp;name=FOX</link>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/olsi/olsi/1952.ts;streamtype=TSDOWNLOADER&amp;name=FOX</link>
 <thumbnail>http://i.imgur.com/X4XkCez.png</thumbnail>
 </item>
 FOX
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1275.ts;streamtype=TSDOWNLOADER&amp;name=FOX</link>
+<thumbnail>http://i.imgur.com/X4XkCez.png</thumbnail>
 </item>
 FOX
 <item>
@@ -330,9 +330,9 @@ FOX
 </item>
 FOXHTTP
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://46.28.50.116:8088/live/foxcrl/playlist.m3u8?id=24274&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link>
+<thumbnail>http://i.imgur.com/X4XkCez.png</thumbnail>
 </item>
 FOXSPORTS DEVIL
 <item>
@@ -373,32 +373,32 @@ FOX COMEDY
 FOX COMEDY
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX COMEDY [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/habib/habib2016/1028.ts;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1279.ts;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_comedy_pt.png</thumbnail>
 </item>
 FOX CRIME
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX CRIME [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2480.ts;streamtype=TSDOWNLOADER&amp;name=FOX CRIME</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_crime_global.png</thumbnail>
 </item>
 FOX CRIME
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX CRIME [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/Patricia/Patricia/1243.ts;streamtype=TSDOWNLOADER&amp;name=FOX CRIME</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_crime_global.png</thumbnail>
 </item>
 FOX CRIME
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX CRIME [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2480.ts;streamtype=TSDOWNLOADER&amp;name=FOX CRIME</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1277.ts;streamtype=TSDOWNLOADER&amp;name=FOX CRIME</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_crime_global.png</thumbnail>
 </item>
 FOX CRIMEHTTP
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX CRIME [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://173.193.205.94:8088/live/foxcrimex/playlist.m3u8?id=84766&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_crime_global.png</thumbnail>
 </item>
 FOX CRIMESPORTS DEVIL
 <item>
@@ -433,7 +433,7 @@ FOX LIFE
 FOX LIFE
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX LIFE [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2064.ts;streamtype=TSDOWNLOADER&amp;name=FOX LIFE</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/Patricia/Patricia/2410.ts;streamtype=TSDOWNLOADER&amp;name=FOX LIFE</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rttuur1433432546.png</thumbnail>
 </item>
 FOX LIFE
@@ -444,8 +444,8 @@ FOX LIFE
 </item>
 FOX LIFEHTTP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX LIFE [B][COLOR green][] [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link></link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX LIFE [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://178.162.211.231:8088/stream/foxlifea/playlist.m3u8?id=19709&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rttuur1433432546.png</thumbnail>
 </item>
 FOX LIFESPORTS DEVIL
@@ -487,7 +487,7 @@ SyFy
 SyFy
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SyFy [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2474.ts;streamtype=TSDOWNLOADER&amp;name=SyFy</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/611.ts;streamtype=TSDOWNLOADER&amp;name=SyFy</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxpsqp1433432599.png</thumbnail>
 </item>
 TV SERIES
@@ -505,6 +505,6 @@ TV SERIES
 TV SERIES
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TV SERIES [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/1693.ts;streamtype=TSDOWNLOADER&amp;name=TV SERIES (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1270.ts;streamtype=TSDOWNLOADER&amp;name=TV SERIES (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_series.png</thumbnail>
 </item>
