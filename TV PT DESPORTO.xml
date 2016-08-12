@@ -1,56 +1,56 @@
 A BOLA TV
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]A BOLA TV [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]A BOLA TV [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/Patricia/Patricia/1667.ts;streamtype=TSDOWNLOADER&amp;name=A BOLA TV (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/aDTQAYr.png</thumbnail>
 </item>
 A BOLA TVRTMP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]A BOLA TV [B][COLOR green][SD] [B][COLOR red](RTMP)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]A BOLA TV [B][COLOR red](RTMP)[/B][/COLOR]</title>
 <link>http://178.162.194.35:8088/stream/yameu/playlist.m3u8?id=26818&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link>
 <thumbnail>http://i.imgur.com/aDTQAYr.png</thumbnail>
 </item>
 A BOLA TVSPORTS DEVIL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]A BOLA TV [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]A BOLA TV [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
 <sportsdevil>http://www.desportonline.net/index.php?canal=abolatv</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>http://i.imgur.com/aDTQAYr.png</thumbnail>
 </item>
 BENFICA TV
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1245.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.png</thumbnail>
 </item>
 BENFICA TV
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/Patricia/Patricia/2595.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.png</thumbnail>
 </item>
 BENFICA TV
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://185.73.239.40:8000/live/saib/fares/2542.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.png</thumbnail>
 </item>
 BENFICA TVHTTP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV [B][COLOR red](HTTP)[/B][/COLOR]</title>
 <link>rtmp://31.220.0.187/privatestream/gergtrg?keys=NU4qltlc2xuy7XAZt7hg3A&keyt=1470068995 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=gergtrg&width=630&height=510</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.png</thumbnail>
 </item>
 BENFICA TVSPORTS DEVIL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
 <sportsdevil>http://www.desportonline.com/index.php?canal=benficatv</sportsdevil>
 <referer>http://mytvfree.me/ver/benfica-tv-direto</referer>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.png</thumbnail>
 </item>
 EUROSPORT 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EUROSPORT 1 [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EUROSPORT 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2481.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/r1Tu1zq.jpg</thumbnail>
 </item>
@@ -62,13 +62,13 @@ EUROSPORT 1
 </item>
 EUROSPORT 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EUROSPORT 1 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EUROSPORT 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2367.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/r1Tu1zq.jpg</thumbnail>
 </item>
 EUROSPORT 1RTMP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EUROSPORT 1 [B][COLOR green][SD] [B][COLOR red](RTMP)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EUROSPORT 1 [B][COLOR red](RTMP)[/B][/COLOR]</title>
 <link>rtmp://213.152.180.250:13117/stream/ playPath=1HPBo1519y0yBoLZsrzG8.stream?r691i505yr700i716rr9265a505kr9265a505kr505i842br9265a505kr716i590mr1532i505lr716i590mr9265a505kr505i1532n swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN\2021,0,0,242 timeout=10 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&width=600&height=460&a=t481i394yt737i9936rt9601a394kt9601a394kt394i420bt9601a394kt9936i454mt9343i656lt9936i454mt9601a394kt656i9343n&st=24d325n4w574x2s2f436q24693u5o3w3y5y5w4f3w2s243f44474x254t2t27413q2t2s284&adx=&stream=j5u2l564648494r2743444h5v2h5d4n244s4q3a3f4w21374f476w226d3j4x404n4l4t4s4y2y34363z3q274943474u2y24444r264o244k3m3l4v5v2x2p243x46476o4n4t414n4z5w4f3j283x5i4p5d4h20524o5i5z5r5l2o256z3n204o29433w2g5k5a4u26403e4j5k5j594j594x2i5b4u2038484x2h594f474t2l5m5b434p2o234z3n204o204&sooor=MTE=&str=is&ok=&cat=3&link=1&idom=firstrowas.co</link>
 <thumbnail>http://i.imgur.com/r1Tu1zq.jpg</thumbnail>
 </item>
@@ -93,7 +93,7 @@ EUROSPORT 2
 </item>
 EUROSPORT 2
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EUROSPORT 2 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EUROSPORT 2 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/800.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/oRM8F2Y.jpg</thumbnail>
 </item>
@@ -105,7 +105,7 @@ EUROSPORT 2 XTRA
 </item>
 EUROSPORT 2 XTRA
 <item>
-<title>[B][COLOR blue]•[/B][/COLOR] PT: [B][COLOR white]EUROSPORT 2 XTRA [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR blue]•[/B][/COLOR] PT: [B][COLOR white]EUROSPORT 2 XTRA [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1253.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 XTRA (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/0tybBJ0.jpg</thumbnail>
 </item>
@@ -123,13 +123,13 @@ EUROSPORT 2 XTRAHTTP
 </item>
 EUROSPORT NEWS
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EUROSPORT NEWS [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EUROSPORT NEWS [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/798.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT NEWS (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/rEq334P.jpg</thumbnail>
 </item>
 FUEL TV
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FUEL TV [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FUEL TV [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1645.ts;streamtype=TSDOWNLOADER&amp;name=FUEL TV (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fuel_tv_eu.png</thumbnail>
 </item>
@@ -141,7 +141,7 @@ FIGHT NETWORK
 </item>
 FIGHT NETWORK
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FIGHT NETWORK [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FIGHT NETWORK [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1256.ts;streamtype=TSDOWNLOADER&amp;name=FIGHT NETWORK (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fight_network.png</thumbnail>
 </item>
@@ -153,13 +153,13 @@ FIGHT NETWORK
 </item>
 KOMBAT SPORT
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]KOMBAT SPORT [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]KOMBAT SPORT [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1255.ts;streamtype=TSDOWNLOADER&amp;name=KOMBAT SPORT (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/kk/kombat_sport.png</thumbnail>
 </item>
 MOTORS TV
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]MOTORS TV [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]MOTORS TV [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1193.ts;streamtype=TSDOWNLOADER&amp;name=MOTORS TV (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/uIxVBmG.png</thumbnail>
 </item>
@@ -184,13 +184,13 @@ MOTORVISION TV
 </item>
 MOTORVISION TV
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]MOTORVISION TV [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]MOTORVISION TV [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1122.ts;streamtype=TSDOWNLOADER&amp;name=MOTORVISION TV (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/ixMRmkM.png</thumbnail>
 </item>
 PFC
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]PFC [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]PFC [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1263.ts;streamtype=TSDOWNLOADER&amp;name=PFC (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/j3ZgJkr.png</thumbnail>
 </item>
@@ -202,144 +202,144 @@ SPORT TV 4K
 </item>
 SPORT TV 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1233.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/Patricia/Patricia/925.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
 SPORT TV 1
 <item>
-<title>[B][COLOR blue]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR blue]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1235.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
 SPORT TV 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/858.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
 SPORT TV 1RTMP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR green][] [B][COLOR red](RTMP)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](RTMP)[/B][/COLOR]</title>
 <link>rtmp://31.220.40.60/privatestream/ app=privatestream/ playpath=fawergge?keys=VCUapq2a2xQKgx7UyTIHpQ&keyt=1470943087 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge  </link>
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
 SPORT TV 1SPORTS DEVIL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR green][] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
 <sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil>
 <referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
 SPORT TV 2
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/Patricia/Patricia/926.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail>
 </item>
 SPORT TV 2
 <item>
-<title>[B][COLOR blue]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR blue]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1237.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail>
 </item>
 SPORT TV 2
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/503.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail>
 </item>
 SPORT TV 2RTMP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR green][SD] [B][COLOR red](RTMP)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR red](RTMP)[/B][/COLOR]</title>
 <link>rtmp://179.43.158.195:16625/stream/ playPath=0qZjb9kndn.stream?t1690a933kt757i5638rt333i5469nt1690a933kt757i529kt757i5638rt1690a933kt757i5638rt757i5638rt711i933yt711i933y swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN/2021,0,0,242 timeout=10 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&width;=600&height;=460&a;=t9637a254kt604i202rt736i1207nt9637a254kt604i831kt604i202rt9637a254kt604i202rt604i202rt186i254yt186i254y&st;=14i4c5n4w5c4t2s4643683u5d4h553d4t5k5k4p2p243z244746453z3w213e4s203z2&adx;=&stream;=a4v2l5e494o5w2646424843474a4x2n234x504a3f413x2766476e3s5h464e4h4i474h424r2a4z2v224p2f43464f413p2e4a4n234k495e3h49454v4s2p4d3n4s5k5f4j4r5b4k2m4m4k4f484p3p3e5e4a4v5a4z3244634p2o23484r2k5w2a4037434a4y2546403a474j5o5e44413y2j5a48474r284t284e42354m234242434p2o234z3&sooor;=MTM=&str;=is&ok;=&cat;=3&link;=1&idom;=firstrowas.co</link>
 <thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail>
 </item>
 SPORT TV 2SPORTS DEVIL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
 <sportsdevil>http://www.idimsports.eu/watch/408917/2/watch-xonetv.html</sportsdevil>
 <referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
 <thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail>
 </item>
 SPORT TV 3
 <item>
-<title>[B][COLOR blue]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 3 [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR blue]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 3 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/856.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/XvI6JNr.png</thumbnail>
 </item>
 SPORT TV 3
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 3 [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/Patricia/Patricia/910.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/XvI6JNr.png</thumbnail>
 </item>
 SPORT TV 3
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 3 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 3 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/Patricia/Patricia/912.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/XvI6JNr.png</thumbnail>
 </item>
 SPORT TV 3RTMP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 3 [B][COLOR green][SD] [B][COLOR red](RTMP)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 3 [B][COLOR red](RTMP)[/B][/COLOR]</title>
 <link>rtmp://179.43.158.195:16625/stream/ playPath=o4NLATkOb3.stream?t5651a791kt952i1130rt838i6407nt5651a791kt952i646kt952i1130rt5651a791kt952i1130rt952i1130rt384i791yt384i791y swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN/2021,0,0,242 timeout=10 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&width;=600&height;=460&a;=t1692a262kt907i9535rt726i2985nt1692a262kt907i481kt907i9535rt1692a262kt907i9535rt907i9535rt572i262yt572i262y&st;=s5t205n4w5c4t2s4643683u5j3k4w3d4y4i5x2p2p243z244746453z3w213e4s203z2&adx;=&stream;=h5v2b4e4k574v244d47444l5t2j5b4n2u584o3a3f413x2766476e3s5n39355h4n354u224r2a4z2v224p2f43464f413p2e4a4n2u5v2x4e3h49454v4s2p4d3n4y4n465j4w494k2m4m4k4f484p3p3e5e4a4v5a4z3244634p2o234a4w264z27433x2i544c40344c4c4o5e4b4b484b4t2e4b464w28464445413b474m234242434p2o234z3&sooor;=Ng==&str;=is&ok;=&cat;=3&link;=1&idom;=firstrowas.co</link>
 <thumbnail>http://i.imgur.com/XvI6JNr.png</thumbnail>
 </item>
 SPORT TV 3SPORTS DEVIL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 3 [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 3 [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
 <sportsdevil>http://www.idimsports.eu/watch/408917/3/watch-xonetv.html</sportsdevil>
 <referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
 <thumbnail>http://i.imgur.com/XvI6JNr.png</thumbnail>
 </item>
 SPORT TV 4
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 4 [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/617.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/IZCGvyl.png</thumbnail>
 </item>
 SPORT TV 4
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 4 [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/Patricia/Patricia/911.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/IZCGvyl.png</thumbnail>
 </item>
 SPORT TV 4
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 4 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 4 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1241.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/IZCGvyl.png</thumbnail>
 </item>
 SPORT TV 4RTMP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 4 [B][COLOR green][SD] [B][COLOR red](RTMP)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 4 [B][COLOR red](RTMP)[/B][/COLOR]</title>
 <link>rtmp://179.43.158.195:16625/stream/ playPath=0tkVGgd2jl.stream?t2466a617kt260i6714rt408i3422nt2466a617kt260i628kt260i6714rt2466a617kt260i6714rt260i6714rt409i617yt409i617y swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN/2021,0,0,242 timeout=10 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&width;=600&height;=460&a;=t6617a936kt734i9934rt457i2946nt6617a936kt734i722kt734i9934rt6617a936kt734i9934rt734i9934rt494i936yt494i936y&st;=14l4t5n4w5c4t2s4643683u5t3q4f46454q5i4p2p243z244746453z3w213e4s203z2&adx;=&stream;=i574j564c4k5w254645434b444h5c4n23406h4a3f413x2766476e3s5x3f3o5a4u2d4f424r2a4z2v224p2f43464f413p2e4a4n234n4q5e3h49454v4s2p4d3n485t4p5c434h4k2m4m4k4f484p3p3e5e4a4v5a4z3244634p2o23434u2c4z2h5x2q2l554b45434d403b4l5n5438433z2d4c4u2y284n5x284y233i5m234242434p2o234z3&sooor;=NA==&str;=is&ok;=&cat;=3&link;=1&idom;=firstrowas.co</link>
 <thumbnail>http://i.imgur.com/IZCGvyl.png</thumbnail>
 </item>
 SPORT TV 4SPORTS DEVIL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 4 [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 4 [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
 <sportsdevil>http://www.thefeed2all.eu/watch/408917/4/watch-xonetv.html</sportsdevil>
 <referer>http://www.thefeed2all.eu/watch/408917/4/watch-xonetv.html</referer>
 <thumbnail>http://i.imgur.com/IZCGvyl.png</thumbnail>
 </item>
 SPORT TV 5
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 5 [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 5 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1243.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/G8yH187.png</thumbnail>
 </item>
 SPORT TV 5
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR blue]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 5 [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1242.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/G8yH187.png</thumbnail>
 </item>
 SPORT TV 5
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 5 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1137.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by TeamBlue)</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 5 [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/2475.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/G8yH187.png</thumbnail>
 </item>
 SPORT TV 5RTMP
@@ -350,7 +350,7 @@ SPORT TV 5RTMP
 </item>
 SPORT TV 5SPORTS DEVIL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 5 [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 5 [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
 <sportsdevil>http://www.idimsports.eu/watch/408917/5/watch-xonetv.html</sportsdevil>
 <referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
 <thumbnail>http://i.imgur.com/G8yH187.png</thumbnail>
@@ -369,7 +369,7 @@ SPORTING TV
 </item>
 SPORTING TV
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORTING TV [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORTING TV [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1260.ts;streamtype=TSDOWNLOADER&amp;name=SPORTING TV (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/KTEBwY0.png</thumbnail>
 </item>
@@ -393,19 +393,19 @@ TOROS TV
 </item>
 TOROS TV
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]TOROS TV [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]TOROS TV [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1262.ts;streamtype=TSDOWNLOADER&amp;name=TOROS TV (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/toros_tv.png</thumbnail>
 </item>
 CACAVISION
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]CACAVISION [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]CACAVISION [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1292.ts;streamtype=TSDOWNLOADER&amp;name=CACAVISION (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cacavision.png</thumbnail>
 </item>
 CACA & PESCA
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]CACA & PESCA [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]CACA & PESCA [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2485.ts;streamtype=TSDOWNLOADER&amp;name=CACA & PESCA (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/caccia_pesca.png</thumbnail>
 </item>
