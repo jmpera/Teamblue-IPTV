@@ -6,9 +6,9 @@ INFANTIS
 </item>
 BABY TV
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BABY TV [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/2077.ts;streamtype=TSDOWNLOADER&amp;name=BABY TV (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/xTAptxu.png</thumbnail>
 </item>
 BABY FIRST
 <item>
@@ -31,7 +31,7 @@ CARTOON NETWORK
 DISNEY CHANNEL
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]DISNEY CHANNEL [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2070.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1312.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL</link>
 <thumbnail>http://i.imgur.com/g0UK661.png</thumbnail>
 </item>
 DISNEY JUNIOR
@@ -43,7 +43,7 @@ DISNEY JUNIOR
 JIMJAM
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]JIMJAM [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1423.ts;streamtype=TSDOWNLOADER&amp;name=JIMJAM</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1309.ts;streamtype=TSDOWNLOADER&amp;name=JIMJAM</link>
 <thumbnail>http://i.imgur.com/b6Mhyk9.png</thumbnail>
 </item>
 NICKELODEON
