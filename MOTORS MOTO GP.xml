@@ -88,7 +88,7 @@ SPORT TV 2
 SPORT TV 2
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1237.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/500.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail>
 </item>
 SPORT TV 2RTMP
@@ -117,13 +117,7 @@ SPORT TV 2SPORTS DEVIL
 
 
 
-SPORT TV 1SPORTS DEVIL
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
-<sportsdevil>http://www.idimsports.eu/watch/408917/2/watch-xonetv.html</sportsdevil>
-<referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
-<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
-</item>
+
 MOVISTAR F1
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]MOVISTAR F1 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
