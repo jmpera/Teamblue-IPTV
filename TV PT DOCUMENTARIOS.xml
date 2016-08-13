@@ -1,25 +1,25 @@
 DISCOVERY CHANNEL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]DISCOVERY CHANNEL [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2065.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]DISCOVERY CHANNEL [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2065.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/OznL5Kq.png</thumbnail>
 </item>
 DISCOVERY CHANNELHTTP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]DISCOVERY CHANNEL [B][COLOR green][SD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]DISCOVERY CHANNEL [B][COLOR red](HTTP)[/B][/COLOR]</title>
 <link>http://46.28.53.120:8088/live/discoveryx/playlist.m3u8?id=84775&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link>
 <thumbnail>http://i.imgur.com/1OKBioL.png</thumbnail>
 </item>
 DISCOVERY CHANNELSPORTS DEVIL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]DISCOVERY CHANNEL [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]DISCOVERY CHANNEL [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
 <sportsdevil>http://www.sporttvsonline.com/index.php?canal=discovery</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>http://i.imgur.com/1OKBioL.png</thumbnail>
 </item>
 DISCOVERY CHANNEL$DOREGEX
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]DISCOVERY CHANNEL [B][COLOR green][SD] [B][COLOR red]($DOREGEX)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]DISCOVERY CHANNEL [B][COLOR red]($DOREGEX)[/B][/COLOR]</title>
 <link>rtmp://$doregex[get-ip]/live playpath=discoveryx?id=84775&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/discoveryx/1/650/500</link>
 <regex>
 <name>get-ip</name>
@@ -28,7 +28,7 @@ DISCOVERY CHANNEL$DOREGEX
 </regex>
 <regex>
 <name>get-pk</name>
-<expres>pk=(.*?)'</expres>
+<expres>ea=(.*)'</expres>
 <page>http://www.embeducaster.com/embedplayer/discoveryx/1/650/500</page>
 <referer>http://www.embeducaster.com/</referer>
 </regex>
@@ -36,25 +36,25 @@ DISCOVERY CHANNEL$DOREGEX
 </item>
 DISCOVERY SHOWCASE
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]DISCOVERY SHOWCASE [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/931.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SHOWCASE (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/discovery_hd_showcase_us.png</thumbnail>
 </item>
 HISTORIA
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]HISTORIA [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1296.ts;streamtype=TSDOWNLOADER&amp;name=HISTORIA</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]HISTORIA [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1296.ts;streamtype=TSDOWNLOADER&amp;name=HISTORIA (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/hh/historia_pt.png</thumbnail>
 </item>
 HISTORIAHTTP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]HISTORIA [B][COLOR green][HD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]HISTORIA [B][COLOR red](HTTP)[/B][/COLOR]</title>
 <link>http://199.195.195.4:8088/stream/historiab/playlist.m3u8?id=21918&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/hh/historia_pt.png</thumbnail>
 </item>
 HISTORIASPORTS DEVIL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]HISTORIA [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]HISTORIA [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
 <sportsdevil>http://www.sporttvsonline.com/index.php?canal=historia</sportsdevil>
 <referer>http://liveflashplayer.com/</referer>
 <thumbnail>http://www.lyngsat-logo.com/hires/hh/historia_pt.png</thumbnail>
@@ -78,21 +78,9 @@ HISTORIA$DOREGEX
 </item>
 NAT GEO CHANNEL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]NAT GEO CHANNEL [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1972.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO CHANNEL</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]NAT GEO CHANNEL [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1972.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO CHANNEL (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nat_geo_us.png</thumbnail>
-</item>
-NAT GEO CHANNEL
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]NAT GEO CHANNEL [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1972.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO CHANNEL</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/nn/nat_geo_us.png</thumbnail>
-</item>
-NAT GEO CHANNEL
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
 </item>
 NAT GEO CHANNELHTTP
 <item>
@@ -102,14 +90,14 @@ NAT GEO CHANNELHTTP
 </item>
 NAT GEO CHANNELSPORTS DEVIL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]NAT GEO CHANNEL [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]NAT GEO CHANNEL [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
 <sportsdevil>http://www.estadiofutebol.com/gratis/nationalgeographic</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nat_geo_us.png</thumbnail>
 </item>
 NAT GEO CHANNEL$DOREGEX
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]NAT GEO CHANNEL [B][COLOR green][SD] [B][COLOR red]($DOREGEX)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]NAT GEO CHANNEL [B][COLOR red]($DOREGEX)[/B][/COLOR]</title>
 <link>rtmp://$doregex[get-ip]/live playpath=natgeoax?id=84757&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/natgeoax/1/650/500</link>
 <regex>
 <name>get-ip</name>
@@ -118,7 +106,7 @@ NAT GEO CHANNEL$DOREGEX
 </regex>
 <regex>
 <name>get-pk</name>
-<expres>pk=(.*?)'</expres>
+<expres>ea=(.*)'</expres>
 <page>http://www.embeducaster.com/embedplayer/natgeoax/1/650/500</page>
 <referer>http://www.embeducaster.com/</referer>
 </regex>
@@ -126,20 +114,8 @@ NAT GEO CHANNEL$DOREGEX
 </item>
 NAT GEO WILD
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-NAT GEO WILD
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-NAT GEO WILD
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]NAT GEO WILD [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2068.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]NAT GEO WILD [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2068.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/sca81nc.png</thumbnail>
 </item>
 NAT GEO WILDHTTP
@@ -150,7 +126,7 @@ NAT GEO WILDHTTP
 </item>
 NAT GEO WILDSPORTS DEVIL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]NAT GEO WILD [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]NAT GEO WILD [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
 <sportsdevil>http://www.wildsafarilive.com/</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>http://i.imgur.com/sca81nc.png</thumbnail>
@@ -166,7 +142,7 @@ NAT GEO WILD$DOREGEX
 </regex>
 <regex>
 <name>get-pk</name>
-<expres>pk=(.*?)'</expres>
+<expres>ea=(.*)'</expres>
 <page></page>
 <referer></referer>
 </regex>
@@ -174,26 +150,26 @@ NAT GEO WILD$DOREGEX
 </item>
 ODISSEIA
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ODISSEIA [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2433.ts;streamtype=TSDOWNLOADER&amp;name=ODISSEIA</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ODISSEIA [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2433.ts;streamtype=TSDOWNLOADER&amp;name=ODISSEIA (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/oo/odisseia_pt.png</thumbnail>
 </item>
 ODISSEIAHTTP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ODISSEIA [B][COLOR green][HD] [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ODISSEIA [B][COLOR red](HTTP)[/B][/COLOR]</title>
 <link>http://173.192.209.69:8088/live/odisseiax/playlist.m3u8?id=84765&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/oo/odisseia_pt.png</thumbnail>
 </item>
 ODISSEIASPORTS DEVIL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ODISSEIA [B][COLOR green][SD] [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ODISSEIA [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
 <sportsdevil>http://www.estadiofutebol.com/embed.php?c=odisseia</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>http://www.lyngsat-logo.com/hires/oo/odisseia_pt.png</thumbnail>
 </item>
 ODISSEIA$DOREGEX
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ODISSEIA [B][COLOR green][SD] [B][COLOR red]($DOREGEX)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ODISSEIA [B][COLOR red]($DOREGEX)[/B][/COLOR]</title>
 <link>rtmp://$doregex[get-ip]/live playpath=odisseiax?id=84765&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/odisseiax/1/650/500</link>
 <regex>
 <name>get-ip</name>
@@ -202,7 +178,7 @@ ODISSEIA$DOREGEX
 </regex>
 <regex>
 <name>get-pk</name>
-<expres>pk=(.*?)'</expres>
+<expres>ea=(.*)'</expres>
 <page>http://www.embeducaster.com/embedplayer/odisseiax/1/650/500</page>
 <referer>http://www.embeducaster.com/</referer>
 </regex>
