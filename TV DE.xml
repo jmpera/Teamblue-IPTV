@@ -6,57 +6,57 @@ GENERALISTEN
 </item>
 ARD das Erst
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]ARD das Erst [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/Patricia/Patricia/1150.ts;streamtype=TSDOWNLOADER&amp;name=ARD das Erst (by TeamBlue)</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]ARD das Erst [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/1427.ts;streamtype=TSDOWNLOADER&amp;name=ARD das Erst (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/ard_das_erste.png</thumbnail>
 </item>
 ORF 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]ORF 1 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]ORF 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/311.ts;streamtype=TSDOWNLOADER&amp;name=ORF 1 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/37HMpTD.png</thumbnail>
 </item>
 ORF 2
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]ORF 2 [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]ORF 2 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/327.ts;streamtype=TSDOWNLOADER&amp;name=ORF 2 (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/oo/orf_2_at.png</thumbnail>
 </item>
 PRO 7
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]PRO 7 [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]PRO 7 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/922.ts;streamtype=TSDOWNLOADER&amp;name=PRO 7 (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/pp/pro_sieben_de.png</thumbnail>
 </item>
 PRO 7 MAXX
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]PRO 7 MAXX [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]PRO 7 MAXX [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/2577.ts;streamtype=TSDOWNLOADER&amp;name=PRO 7 MAXX (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/pro_sieben_maxx_de.png</thumbnail>
 </item>
 RTL 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]RTL 1 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]RTL 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2537.ts;streamtype=TSDOWNLOADER&amp;name=RTL 1 (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/rtl_ch.png</thumbnail>
 </item>
 RTL 2
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]RTL 2 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]RTL 2 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/924.ts;streamtype=TSDOWNLOADER&amp;name=RTL 2 (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/rtl2_de.png</thumbnail>
 </item>
 SAT 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SAT 1 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SAT 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1597.ts;streamtype=TSDOWNLOADER&amp;name=SAT 1 (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sat1.png</thumbnail>
 </item>
 SRF 1
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SRF 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvportal.online:2500/live/zakir/zakir/2778.ts;streamtype=TSDOWNLOADER&amp;name=SRF 1 (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/srf_1_ch.png</thumbnail>
 </item>
 SRF ZWEI
 <item>
@@ -66,13 +66,13 @@ SRF ZWEI
 </item>
 VOX
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]VOX [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]VOX [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/308.ts;streamtype=TSDOWNLOADER&amp;name=VOX (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vox_de.png</thumbnail>
 </item>
 ZDF
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]ZDF [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]ZDF [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/307.ts;streamtype=TSDOWNLOADER&amp;name=ZDF (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/zz/zdf_de.png</thumbnail>
 </item>
@@ -84,25 +84,25 @@ NACHRICHTEN
 </item>
 EURONEWS
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]EURONEWS [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]EURONEWS [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1306.ts;streamtype=TSDOWNLOADER&amp;name=EURONEWS (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews_fr.png</thumbnail>
 </item>
 N24
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]N24 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]N24 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1426.ts;streamtype=TSDOWNLOADER&amp;name=N24 (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/n24_de.png</thumbnail>
 </item>
 TAGESSCHAU 24
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]TAGESSCHAU 24 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/Patricia/Patricia/968.ts;streamtype=TSDOWNLOADER&amp;name=TAGESSCHAU 24 (by TeamBlue)</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]TAGESSCHAU 24 [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvportal.online:2500/live/zakir/zakir/3921.ts;streamtype=TSDOWNLOADER&amp;name=TAGESSCHAU 24 (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tagesschau24.png</thumbnail>
 </item>
 ZDF INFO
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]ZDF INFO [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]ZDF INFO [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/1070.ts;streamtype=TSDOWNLOADER&amp;name=ZDF INFO (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/zz/zdf_info.png</thumbnail>
 </item>
@@ -114,25 +114,25 @@ ENTERTAINMENT
 </item>
 A&E
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]A&E [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]A&E [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/2121.ts;streamtype=TSDOWNLOADER&amp;name=A&E (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/u7IKaDs.png</thumbnail>
 </item>
 E!
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]E! [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]E! [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2488.ts;streamtype=TSDOWNLOADER&amp;name=E! (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/e_eu.png</thumbnail>
 </item>
 ORF 3
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]ORF 3 [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2575.ts;streamtype=TSDOWNLOADER&amp;name=ORF 3 (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/tvchannel/at/ORF-III.html</thumbnail>
 </item>
 RTL NITRO
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]RTL NITRO [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]RTL NITRO [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/927.ts;streamtype=TSDOWNLOADER&amp;name=RTL NITRO (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/rtl_nitro_de.png</thumbnail>
 </item>
@@ -144,25 +144,25 @@ KULTUR
 </item>
 3SAT
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]3SAT [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]3SAT [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/1410.ts;streamtype=TSDOWNLOADER&amp;name=3SAT (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/tvchannel/de/3sat.html</thumbnail>
 </item>
 ANIMAL PLANET
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]ANIMAL PLANET [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]ANIMAL PLANET [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2469.ts;streamtype=TSDOWNLOADER&amp;name=ANIMAL PLANET (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/animal_planet_us.png</thumbnail>
 </item>
 ARTE
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]ARTE [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]ARTE [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/809.ts;streamtype=TSDOWNLOADER&amp;name=ARTE (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/arte_de.png</thumbnail>
 </item>
 DISCOVERY CHANNEL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]DISCOVERY CHANNEL [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]DISCOVERY CHANNEL [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/921.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/OznL5Kq.png</thumbnail>
 </item>
@@ -174,19 +174,19 @@ DISCOVERY SCIENCE
 </item>
 DMAX
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]DMAX [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]DMAX [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/929.ts;streamtype=TSDOWNLOADER&amp;name=DMAX (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dmax_de.png</thumbnail>
 </item>
 HISTORY
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]HISTORY [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]HISTORY [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/1113.ts;streamtype=TSDOWNLOADER&amp;name=HISTORY (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/oo/odisea_es.png</thumbnail>
 </item>
 NATIONAL GEOGRAPHIC
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]NATIONAL GEOGRAPHIC [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]NATIONAL GEOGRAPHIC [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/2541.ts;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/OznL5Kq.png</thumbnail>
 </item>
@@ -198,20 +198,20 @@ NAT GEO PEOPLE
 </item>
 NAT GEO WILD
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]NAT GEO WILD [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]NAT GEO WILD [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/2714.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nat_geo_wild_us.png</thumbnail>
 </item>
 SKY PLANET
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY PLANET [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://greenppv-hd.dynu.com:12580/live/09testADMIN3/0GgEzHPCkN/1173.ts;streamtype=TSDOWNLOADER&amp;name=SKY PLANET (by TeamBlue)</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/animal_planet_us.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 ZDF NEO
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]ZDF NEO [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=0;streamtype=TSDOWNLOADER&amp;name=ZDF NEO (by TeamBlue)</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]ZDF NEO [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2737.ts;streamtype=TSDOWNLOADER&amp;name=ZDF NEO (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zdf_neo.png</thumbnail>
 </item>
 LIFESTYLE
@@ -228,7 +228,7 @@ FASHION TV
 </item>
 RTL LIVING
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]RTL LIVING [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]RTL LIVING [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2380.ts;streamtype=TSDOWNLOADER&amp;name=RTL LIVING (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl_living_de.png</thumbnail>
 </item>
@@ -240,7 +240,7 @@ MOVIES
 </item>
 13TH STREET
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]13TH STREET [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]13TH STREET [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/2605.ts;streamtype=TSDOWNLOADER&amp;name=13TH STREET (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/num/13th_street_de.png</thumbnail>
 </item>
@@ -252,79 +252,79 @@ FOX FILM
 </item>
 MGM
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]MGM [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1164.ts;streamtype=TSDOWNLOADER&amp;name=MGM (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/mgm_es.png</thumbnail>
 </item>
 RTL CRIMI
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]RTL CRIMI [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]RTL CRIMI [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/1783.ts;streamtype=TSDOWNLOADER&amp;name=RTL CRIMI (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl_crime_de.png</thumbnail>
 </item>
 RTL PASSION
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]RTL PASSION [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]RTL PASSION [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1785.ts;streamtype=TSDOWNLOADER&amp;name=RTL PASSION (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl_passion_hr.png</thumbnail>
 </item>
 SKY ACTION
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY ACTION [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY ACTION [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2467.ts;streamtype=TSDOWNLOADER&amp;name=SKY ACTION (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_de_action.png</thumbnail>
 </item>
 SKY CINEMA
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY CINEMA [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY CINEMA [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2568.ts;streamtype=TSDOWNLOADER&amp;name=SKY CINEMA (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_de_cinema.png</thumbnail>
 </item>
 SKY CINEMA 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY CINEMA 1 [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY CINEMA 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/1690.ts;streamtype=TSDOWNLOADER&amp;name=SKY CINEMA 1 (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_it_cinema1.png</thumbnail>
 </item>
 SKY CINEMA +24
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY CINEMA +24 [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY CINEMA +24 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/324.ts;streamtype=TSDOWNLOADER&amp;name=SKY CINEMA +24 (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_it_cinema_plus24.png</thumbnail>
 </item>
 SKY COMEDY
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY COMEDY [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY COMEDY [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/322.ts;streamtype=TSDOWNLOADER&amp;name=SKY COMEDY (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_de_comedy.png</thumbnail>
 </item>
 SKY EMOTION
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY EMOTION [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY EMOTION [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/1406.ts;streamtype=TSDOWNLOADER&amp;name=SKY EMOTION (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_de_emotion.png</thumbnail>
 </item>
 SKY HITS
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY HITS [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY HITS [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/2468.ts;streamtype=TSDOWNLOADER&amp;name=SKY HITS (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_de_hits.png</thumbnail>
 </item>
 SKY KRIMI
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY KRIMI [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY KRIMI [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/1114.ts;streamtype=TSDOWNLOADER&amp;name=SKY KRIMI (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_de_krimi.png</thumbnail>
 </item>
 SKY NOSTALGIE
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY NOSTALGIE [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY NOSTALGIE [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2424.ts;streamtype=TSDOWNLOADER&amp;name=SKY NOSTALGIE (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/tvchannel/de/Sky-Nostalgie.html</thumbnail>
 </item>
 TNT FILM
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]TNT FILM [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]TNT FILM [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/788.ts;streamtype=TSDOWNLOADER&amp;name=TNT FILM (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tnt_film.png</thumbnail>
 </item>
@@ -336,13 +336,13 @@ SERIEN
 </item>
 AXN
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]AXN [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/807.ts;streamtype=TSDOWNLOADER&amp;name=AXN (by TeamBlue)</link>
-<thumbnail>http://i.imgur.com/emHIhex.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 FOX
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]FOX [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]FOX [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/2604.ts;streamtype=TSDOWNLOADER&amp;name=FOX (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_global.png</thumbnail>
 </item>
@@ -366,20 +366,20 @@ TNT COMEDY
 </item>
 TNT SERIE
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]TNT SERIE [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]TNT SERIE [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/2696.ts;streamtype=TSDOWNLOADER&amp;name=TNT SERIE (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tnt_serie.png</thumbnail>
 </item>
 SKY ATLANTIC
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY ATLANTIC [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY ATLANTIC [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/2610.ts;streamtype=TSDOWNLOADER&amp;name=SKY ATLANTIC (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_de_atlantic_hd.png</thumbnail>
 </item>
 SYFY
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SYFY [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2606.ts;streamtype=TSDOWNLOADER&amp;name=SYFY (by TeamBlue)</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SYFY [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/1599.ts;streamtype=TSDOWNLOADER&amp;name=SYFY (by TeamBlue)</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxpsqp1433432599.png</thumbnail>
 </item>
 KINDER
@@ -390,9 +390,9 @@ KINDER
 </item>
 ANIMAX
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]ANIMAX [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.supertv4u.eu:8000/live/Patricia/Patricia/3586.ts;streamtype=TSDOWNLOADER&amp;name=ANIMAX (by TeamBlue)</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 BABY TV
 <item>
@@ -402,57 +402,57 @@ BABY TV
 </item>
 BOOMERANG
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]BOOMERANG [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]BOOMERANG [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1794.ts;streamtype=TSDOWNLOADER&amp;name=BOOMERANG (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/boomerang_global.png</thumbnail>
 </item>
 CARTOON NETWORK
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]CARTOON NETWORK [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]CARTOON NETWORK [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2569.ts;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/EuQiOf1.png</thumbnail>
 </item>
 DISNEY CHANNEL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]DISNEY CHANNEL [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]DISNEY CHANNEL [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/920.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/g0UK661.png</thumbnail>
 </item>
 DISNEY CINEMAGIC
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]DISNEY CINEMAGIC [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]DISNEY CINEMAGIC [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1616.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY CINEMAGIC (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_cinemagic_de.png</thumbnail>
 </item>
 DISNEY JUNIOR
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]DISNEY JUNIOR [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]DISNEY JUNIOR [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2355.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/CZvsFYH.png</thumbnail>
 </item>
 DISNEY XD
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]DISNEY XD [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]DISNEY XD [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2385.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY XD (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_xd_us.png</thumbnail>
 </item>
 KIKA
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]KIKA [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]KIKA [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/2580.ts;streamtype=TSDOWNLOADER&amp;name=KIKA (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/kk/kika_de.png</thumbnail>
 </item>
 NICK JR
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]NICK JR [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://greenppv-hd.dynu.com:12580/live/09testADMIN3/0GgEzHPCkN/1144.ts;streamtype=TSDOWNLOADER&amp;name=NICK JR (by TeamBlue)</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/nn/nick_jr_us.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 NICKELODEON
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]NICKELODEON [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2353.ts;streamtype=TSDOWNLOADER&amp;name=NICKELODEON (by TeamBlue)</link>
-<thumbnail>http://i.imgur.com/8fMIHmp.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 MUSIC
 <item>
@@ -468,7 +468,7 @@ DELUXE MUSIC
 </item>
 JUKEBOX
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]JUKEBOX [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]JUKEBOX [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://greenppv-hd.dynu.com:12580/live/09testADMIN3/0GgEzHPCkN/1147.ts;streamtype=TSDOWNLOADER&amp;name=JUKEBOX (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/jj/jukebox_de.png</thumbnail>
 </item>
@@ -498,15 +498,15 @@ MTV ROCKS
 </item>
 VEVO
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]VEVO [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=0;streamtype=TSDOWNLOADER&amp;name=VEVO (by TeamBlue)</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]VEVO [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvportal.online:2500/live/zakir/zakir/2421.ts;streamtype=TSDOWNLOADER&amp;name=VEVO (by TeamBlue)</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/8/87/Vevo_logo.svg/revision/latest/scale-to-width-down/330?cb=20160413003457</thumbnail>
 </item>
 VEVO 4
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]VEVO 4 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=0;streamtype=TSDOWNLOADER&amp;name=VEVO 4 (by TeamBlue)</link>
-<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/8/87/Vevo_logo.svg/revision/latest/scale-to-width-down/330?cb=20160413003457</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 VIVA
 <item>
@@ -522,13 +522,13 @@ SPORTS
 </item>
 AUTO MOTOR UND SPORT
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]AUTO MOTOR UND SPORT [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/2720.ts;streamtype=TSDOWNLOADER&amp;name=AUTO MOTOR UND SPORT (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/auto_motor_sport_channel.png</thumbnail>
 </item>
 EUROSPORT 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]EUROSPORT 1 [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]EUROSPORT 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1409.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/00mXlvU.png</thumbnail>
 </item>
@@ -540,9 +540,9 @@ EUROSPORT 2
 </item>
 MOTORVISION
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]MOTORVISION [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1786.ts;streamtype=TSDOWNLOADER&amp;name=MOTORVISION (by TeamBlue)</link>
-<thumbnail>http://i.imgur.com/dQMc5EO.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 ORF SPORT +
 <item>
@@ -552,7 +552,7 @@ ORF SPORT +
 </item>
 SKY BUNDESLIGA 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY BUNDESLIGA 1 [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY BUNDESLIGA 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/300.ts;streamtype=TSDOWNLOADER&amp;name=SKY BUNDESLIGA 1 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/88bK5JR.png</thumbnail>
 </item>
@@ -564,32 +564,32 @@ SKY BUNDESLIGA 2
 </item>
 SKY SPORT 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY SPORT 1 [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY SPORT 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2466.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORT 1 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/0DAevQo.png</thumbnail>
 </item>
 SKY SPORT 2
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY SPORT 2 [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY SPORT 2 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2632.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORT 2 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/1neJLgU.png</thumbnail>
 </item>
 SKY SPORT NEWS
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY SPORT NEWS [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY SPORT NEWS [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://greenppv-hd.dynu.com:12580/live/09testADMIN3/0GgEzHPCkN/1473.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORT NEWS (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/dQMc5EO.png</thumbnail>
 </item>
 SPORT 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SPORT 1 [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SPORT 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://greenppv-hd.dynu.com:12580/live/09testADMIN3/0GgEzHPCkN/2489.ts;streamtype=TSDOWNLOADER&amp;name=SPORT 1 (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport1_de.png</thumbnail>
 </item>
 SRF SPORT
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SRF SPORT [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2231.ts;streamtype=TSDOWNLOADER&amp;name=SRF SPORT (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/ty2v05E.png</thumbnail>
 </item>
 **********
