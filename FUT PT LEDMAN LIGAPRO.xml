@@ -26,12 +26,7 @@ SPORT TV 1
 <link>plugin://plugin.video.f4mTester/?url=http://iptvportal.online:2500/live/zakir/zakir/1813.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
-SPORT TV 1RTMP
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](RTMP)[/B][/COLOR]</title>
-<link>rtmp://31.220.40.60/privatestream/ app=privatestream/ playpath=fawergge?keys=VCUapq2a2xQKgx7UyTIHpQ&keyt=1470943087 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge  </link>
-<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
-</item>
+
 SPORT TV 1SPORTS DEVIL
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
@@ -69,20 +64,4 @@ PORTO CANALSPORTS DEVIL
 <referer>http://www.sportvdireto.online/</referer>
 <thumbnail>http://i.imgur.com/0NAGz7e.png</thumbnail>
 </item>
-PORTO CANAL$DOREGEX
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]PORTO CANAL [B][COLOR red]($DOREGEX)[/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=portocanalv?id=86583&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/portocanalv/1/650/500</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>get-pk</name>
-<expres>ea=(.*)'</expres>
-<page>http://www.embeducaster.com/embedplayer/portocanalv/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-</regex>
-<thumbnail>http://i.imgur.com/0NAGz7e.png</thumbnail>
-</item>
+
