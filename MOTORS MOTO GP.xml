@@ -4,71 +4,28 @@
 <thumbnail>http://i.imgur.com/RvWBZE6.png</thumbnail>
 </item>
 
-
-
 <item>
-<title>[B][COLOR blue]13.08 / 08h00 [B][COLOR gold]• MOTO3:    FREE PRACTICE 3 •[/B][/COLOR]</title>
+<title>[B][COLOR blue]14.08 / 07h40 [B][COLOR gold]• MOTO3-MOTO2-MOTOGP - WARM UP •[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/SdMg7M9.png</thumbnail>
 </item>
 <item>
-<title>[B][COLOR blue]13.08 / 08h55 [B][COLOR gold]• MOTOGP: FREE PRACTICE 3 •[/B][/COLOR]</title>
+<title>[B][COLOR blue]14.08 / 10h00 [B][COLOR gold]• MOTO3:    RACE •[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/SdMg7M9.png</thumbnail>
 </item>
 <item>
-<title>[B][COLOR blue]13.08 / 09h55 [B][COLOR gold]• MOTO2:    FREE PRACTICE 3 •[/B][/COLOR]</title>
+<title>[B][COLOR blue]14.08 / 11h20 [B][COLOR gold]• MOTO2:    RACE •[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/SdMg7M9.png</thumbnail>
 </item>
 <item>
-<title>[B][COLOR blue]13.08 / 11h35 [B][COLOR gold]• MOTO3:   QUALYFYING •[/B][/COLOR]</title>
+<title>[B][COLOR blue]14.08 / 13h00 [B][COLOR gold]• MOTOGP: RACE •[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/SdMg7M9.png</thumbnail>
 </item>
 <item>
-<title>[B][COLOR blue]13.08 / 12h30 [B][COLOR gold]• MOTOGP: FREE PRACTICE 4 •[/B][/COLOR]</title>
-<link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/SdMg7M9.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR blue]13.08 / 13h10 [B][COLOR gold]• MOTOGP:  QUALYFYING 1+2 •[/B][/COLOR]</title>
-<link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/SdMg7M9.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR blue]13.08 / 14h05 [B][COLOR gold]• MOTO2:     QUALYFYING •[/B][/COLOR]</title>
-<link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/SdMg7M9.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen](MOV MOTOGP - AV - SPTV 5)[/B][/COLOR]</title>
-<link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]17.07 / 07h40 [B][COLOR gold]• MOTO3-MOTO2-MOTOGP - WARM UP •[/B][/COLOR]</title>
-<link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/SdMg7M9.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR blue]17.07 / 10h00 [B][COLOR gold]• MOTO3:    RACE •[/B][/COLOR]</title>
-<link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/SdMg7M9.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR blue]17.07 / 11h20 [B][COLOR gold]• MOTO2:    RACE •[/B][/COLOR]</title>
-<link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/SdMg7M9.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR blue]17.07 / 13h00 [B][COLOR gold]• MOTOGP: RACE •[/B][/COLOR]</title>
-<link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/SdMg7M9.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen](MOV MOTOGP - AV - SPTV 5)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]SPTV2*MOV MOTOGP*ARENAVISION[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
@@ -82,13 +39,13 @@ SPORT TV 2
 SPORT TV 2
 <item>
 <title>[B][COLOR blue]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1237.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/bFV8A7ciRu/9958D1208/857.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail>
 </item>
 SPORT TV 2
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/500.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvportal.online:2500/live/zakir/zakir/889.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail>
 </item>
 SPORT TV 2RTMP
@@ -105,25 +62,13 @@ SPORT TV 2SPORTS DEVIL
 <thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail>
 </item>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-MOVISTAR F1
+MOVISTAR MOTOGP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]MOVISTAR F1 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/1246.ts;streamtype=TSDOWNLOADER&amp;name=MOVISTAR F1 (by TeamBlue)</link>
-<thumbnail>http://i.imgur.com/NdBGYJy.png</thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]MOVISTAR MOTOGP [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/2182.ts;streamtype=TSDOWNLOADER&amp;name=MOVISTAR MOTOGP (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/jOfo0CH.png</thumbnail>
 </item>
+
 ARENAVISION 11
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]ARENAVISION 11 [B][COLOR green][HD] [B][COLOR red](Plexus)[/B][/COLOR]</title>
