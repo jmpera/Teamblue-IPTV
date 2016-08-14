@@ -1,57 +1,62 @@
 <item>
-<title>[B][COLOR gold]13.08 / 18h15 SPORTING-MARITIMO (SPTV1)[/B][/COLOR]</title>
+<title>[B][COLOR gold]14.08 / 16h00 NACIONAL-CHAVES SPTV1[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/48qvjq9.png</thumbnail>
 </item>
 <item>
-<title>[B][COLOR lawngreen](SPTV1)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]SPTV1[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR gold]13.08 / 20h00 TONDELA-BENFICA (SPTV1)[/B][/COLOR]</title>
+<title>[B][COLOR gold]14.08 / 18h00 SETUBAL-BELENENSES SPTV1[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/48qvjq9.png</thumbnail>
 </item>
 <item>
-<title>[B][COLOR lawngreen](SPTV1)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]SPTV1[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR gold]14.08 / 16h00 NACIONAL-CHAVES (SPTV1)[/B][/COLOR]</title>
+<title>[B][COLOR gold]14.08 / 20h15 GUIMARAES-BRAGA SPTV1[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/48qvjq9.png</thumbnail>
 </item>
 <item>
-<title>[B][COLOR lawngreen](SPTV1)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]SPTV1[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
 
+SPORT TV 1
 <item>
-<title>[B][COLOR gold]14.08 / 18h00 SETUBAL-BELENENSES (SPTV1)[/B][/COLOR]</title>
-<link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/48qvjq9.png</thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/858.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
+SPORT TV 1
 <item>
-<title>[B][COLOR lawngreen](SPTV1)[/B][/COLOR]</title>
-<link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
+<title>[B][COLOR blue]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvportal.online:2500/live/zakir/zakir/1969.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
+</item>
+SPORT TV 1
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvportal.online:2500/live/zakir/zakir/1813.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
+</item>
+SPORT TV 1SPORTS DEVIL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil>
+<referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
+<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR gold]14.08 / 20h15 GUIMARAES-BRAGA (SPTV1)[/B][/COLOR]</title>
-<link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/48qvjq9.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen](SPTV1)[/B][/COLOR]</title>
-<link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR gold]15.08 / 20h00 ESTORIL-FEIRENSE (SPTV1)[/B][/COLOR]</title>
@@ -62,47 +67,4 @@
 <title>[B][COLOR lawngreen](SPTV1)[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
-</item>
-SPORT TV 1
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX484/3222065487/858.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
-<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
-</item>
-SPORT TV 1
-<item>
-<title>[B][COLOR blue]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1235.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
-<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
-</item>
-SPORT TV 1
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1233.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
-<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
-</item>
-SPORT TV 1RTMP
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](RTMP)[/B][/COLOR]</title>
-<link>rtmp://31.220.40.60/privatestream/ app=privatestream/ playpath=fawergge?keys=VCUapq2a2xQKgx7UyTIHpQ&keyt=1470943087 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge  </link>
-<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
-</item>
-SPORT TV 1SPORTS DEVIL
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
-<sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil>
-<referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
-<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
-</item>
-ARENAVISION 8
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ARENAVISION 8 [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://e41b279673f22ef7e5dae421f6799fa86742e73e&amp;mode=1&amp;name=acestream+SPORTS</link>
-<thumbnail>http://i.imgur.com/qaJQgRC.png</thumbnail>
-</item>
-ARENAVISION 9
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ARENAVISION 9 [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://036abe63bee1ee360a5725d76abe3ba3999b9fdf&amp;mode=1&amp;name=acestream+SPORTS</link>
-<thumbnail>http://i.imgur.com/qaJQgRC.png</thumbnail>
 </item>
