@@ -1,1 +1,50 @@
+<item>
+<title>[B][COLOR gold]17.08 / 19h45 PORTO x ROMA [/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/MVudZoM.png</thumbnail>
+</item>
+
+SPORT TV 1
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/olsi/olsi/1912.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
+</item>
+SPORT TV 1
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://91.134.217.235:1557/live/gh/gh/1655.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
+</item>
+SPORT TV 1
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/858.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
+</item>
+SPORT TV 1RTMP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](RTMP)[/B][/COLOR]</title>
+<link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=fawergge?keys=6FwFzBwoArVD7GnroNTCwg&keyt=1471185155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge</link>
+<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
+</item>
+SPORT TV 1SPORTS DEVIL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil>
+<referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
+<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
+</item>
+ARENAVISION 3
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]ARENAVISION 3 [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://f33f6b1e6bae940e45d3e1b9f7bfe4c34e969aa3&amp;mode=1&amp;name=acestream+SPORTS</link>
+<thumbnail>http://i.imgur.com/qaJQgRC.png</thumbnail>
+</item>
+ARENAVISION 4
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]ARENAVISION 4 [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://c648625319d6d4890ad809038ca529a347107bac&amp;mode=1&amp;name=acestream+SPORTS</link>
+<thumbnail>http://i.imgur.com/qaJQgRC.png</thumbnail>
+</item>
 
