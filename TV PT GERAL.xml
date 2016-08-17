@@ -135,20 +135,20 @@ PORTO CANALSPORTS DEVIL
 </item>
 PORTO CANAL$DOREGEX
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]PORTO CANAL [B][COLOR red]($DOREGEX)[/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=portocanalv?id=86583&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/portocanalv/1/650/500</link>
+<title></title>
+<link></link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
+<page></page>
 </regex>
 <regex>
 <name>get-pk</name>
 <expres>ea=(.*)'</expres>
-<page>http://www.embeducaster.com/embedplayer/portocanalv/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
+<page></page>
+<referer></referer>
 </regex>
-<thumbnail>http://i.imgur.com/0NAGz7e.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 RTP ACORES
 <item>
@@ -296,9 +296,9 @@ RTP MADEIRA$DOREGEX
 </item>
 CANCAO NOVA
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CANCAO NOVA [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1249.ts;streamtype=TSDOWNLOADER&amp;name=CANCAO NOVA (by TeamBlue)</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_cancao_nova_pt.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 CANCAO NOVAHTTP
 <item>
@@ -368,9 +368,9 @@ ETVHTTP
 </item>
 EURONEWS
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EURONEWS [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1228.ts;streamtype=TSDOWNLOADER&amp;name=EURONEWS (by TeamBlue)</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews_fr.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 EURONEWSRTMP
 <item>
@@ -412,7 +412,7 @@ RTP 3SPORTS DEVIL
 SIC NOTICIAS
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC NOTICIAS [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1226.ts;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3725.ts;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_noticias.png</thumbnail>
 </item>
 SIC NOTICIASHTTP
@@ -454,9 +454,9 @@ AR TVHTTP
 </item>
 BLOOMBERG
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] US: [B][COLOR white]BLOOMBERG [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1230.ts;streamtype=TSDOWNLOADER&amp;name=BLOOMBERG (by TeamBlue)</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/bb/bloomberg_tv_us.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 CNN
 <item>
@@ -473,7 +473,7 @@ FOX NEWS
 TVE 24
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]TVE 24 [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/1389.ts;streamtype=TSDOWNLOADER&amp;name=TVE 24 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvfullhd.info:8000/live/chris28de/TNKXmSgQSn/1785.ts;streamtype=TSDOWNLOADER&amp;name=TVE 24 (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tve_canal_24horas.png</thumbnail>
 </item>
 RECORD NEWS
@@ -496,9 +496,9 @@ ENTRETENIMENTO
 </item>
 AeE
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AeE [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1295.ts;streamtype=TSDOWNLOADER&amp;name=AeE (by TeamBlue)</link>
-<thumbnail>http://i.imgur.com/u7IKaDs.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 ARTE
 <item>
@@ -532,9 +532,9 @@ E!
 </item>
 MTV PORTUGAL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]MTV PORTUGAL [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1304.ts;streamtype=TSDOWNLOADER&amp;name=MTV PORTUGAL (by TeamBlue)</link>
-<thumbnail>http://i.imgur.com/GyPW7Rw.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 RTP MEMORIA
 <item>
@@ -672,7 +672,7 @@ TVI FICCAO$DOREGEX
 TVI REALITY
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI REALITY [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/613.ts;streamtype=TSDOWNLOADER&amp;name=TVI REALITY (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/2050.ts;streamtype=TSDOWNLOADER&amp;name=TVI REALITY (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/D9HZ95f.png</thumbnail>
 </item>
 TVI REALITYHTTP
@@ -797,15 +797,15 @@ FINE LIVING NETWORK
 </item>
 FOOD NETWORK
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] US: [B][COLOR white]FOOD NETWORK [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1274.ts;streamtype=TSDOWNLOADER&amp;name=FOOD NETWORK (by TeamBlue)</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/food_network_uk.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 MCS LIFESTYLE
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]MCS LIFESTYLE [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1175.ts;streamtype=TSDOWNLOADER&amp;name=MCS LIFESTYLE (by TeamBlue)</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/mm/mcs_fr_lifestyle.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 TLC
 <item>
@@ -816,7 +816,7 @@ TLC
 TRAVEL
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TRAVEL [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/841.ts;streamtype=TSDOWNLOADER&amp;name=TRAVEL (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1402.ts;streamtype=TSDOWNLOADER&amp;name=TRAVEL (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/travel_channel_asia.png</thumbnail>
 </item>
 INTERNACIONAIS
@@ -894,7 +894,7 @@ TVE INTERNACIONAL
 TV GALICIA
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]TV GALICIA [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1329.ts;streamtype=TSDOWNLOADER&amp;name=TV GALICIA (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/1669.ts;streamtype=TSDOWNLOADER&amp;name=TV GALICIA (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/galicia_tv_eu.png</thumbnail>
 </item>
 TV GALICIAHTTP
