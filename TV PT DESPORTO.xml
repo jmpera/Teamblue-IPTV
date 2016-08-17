@@ -142,7 +142,7 @@ SPORT TV 1
 </item>
 SPORT TV 1
 <item>
-<title>[B][COLOR blue]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://91.134.217.235:1557/live/gh/gh/1655.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
@@ -173,7 +173,7 @@ SPORT TV 2
 </item>
 SPORT TV 2
 <item>
-<title>[B][COLOR blue]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2295.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail>
 </item>
@@ -198,7 +198,7 @@ SPORT TV 2SPORTS DEVIL
 </item>
 SPORT TV 3
 <item>
-<title>[B][COLOR blue]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 3 [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 3 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/856.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/XvI6JNr.png</thumbnail>
 </item>
@@ -222,10 +222,10 @@ SPORT TV 3RTMP
 </item>
 SPORT TV 3SPORTS DEVIL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 3** [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
-<sportsdevil>http://cdn2.zuuk.org/sporttv3.php</sportsdevil>
-<referer>http://www.idimsports.eu/watch/408917/3/watch-xonetv.html</referer>
-<thumbnail>http://i.imgur.com/XvI6JNr.png</thumbnail>
+<title></title>
+<sportsdevil></sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
 </item>
 SPORT TV 4
 <item>
@@ -253,10 +253,10 @@ SPORT TV 4RTMP
 </item>
 SPORT TV 4SPORTS DEVIL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 4** [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
-<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv4</sportsdevil>
-<referer>http://www.idimsports.eu/watch/408917/3/watch-xonetv.html</referer>
-<thumbnail>http://i.imgur.com/IZCGvyl.png</thumbnail>
+<title></title>
+<sportsdevil></sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
 </item>
 SPORT TV 5
 <item>
@@ -266,7 +266,7 @@ SPORT TV 5
 </item>
 SPORT TV 5
 <item>
-<title>[B][COLOR blue]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 5 [B][COLOR red](F4M)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 5 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2298.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/G8yH187.png</thumbnail>
 </item>
@@ -284,10 +284,10 @@ SPORT TV 5RTMP
 </item>
 SPORT TV 5SPORTS DEVIL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 5** [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
-<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv5</sportsdevil>
-<referer>http://www.idimsports.eu/watch/408917/3/watch-xonetv.html</referer>
-<thumbnail>http://i.imgur.com/G8yH187.png</thumbnail>
+<title></title>
+<sportsdevil></sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
 </item>
 SPORTING TV
 <item>
