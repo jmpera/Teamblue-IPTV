@@ -36,14 +36,14 @@ DISCOVERY CHANNEL$DOREGEX
 </item>
 DISCOVERY SHOWCASE
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]DISCOVERY SHOWCASE [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/931.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SHOWCASE (by TeamBlue)</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/dd/discovery_hd_showcase_us.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 HISTORIA
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]HISTORIA [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/portughesezaza/tvstarcccam.com/1296.ts;streamtype=TSDOWNLOADER&amp;name=HISTORIA (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/2431.ts;streamtype=TSDOWNLOADER&amp;name=HISTORIA (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/hh/historia_pt.png</thumbnail>
 </item>
 HISTORIAHTTP
