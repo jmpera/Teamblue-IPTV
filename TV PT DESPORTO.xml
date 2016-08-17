@@ -75,9 +75,9 @@ EUROSPORT 2
 </item>
 EUROSPORT 2 XTRA
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EUROSPORT 2 XTRA [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=0;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 XTRA (by TeamBlue)</link>
-<thumbnail>http://i.imgur.com/0tybBJ0.jpg</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 EUROSPORT NEWS
 <item>
@@ -93,15 +93,15 @@ FUEL TV
 </item>
 FIGHT NETWORK
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FIGHT NETWORK [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=0;streamtype=TSDOWNLOADER&amp;name=FIGHT NETWORK (by TeamBlue)</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fight_network.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 KOMBAT SPORT
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]KOMBAT SPORT [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=0;streamtype=TSDOWNLOADER&amp;name=KOMBAT SPORT (by TeamBlue)</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/kk/kombat_sport.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 MOTORS TV
 <item>
@@ -118,14 +118,14 @@ MOTORS TVSPORTS DEVIL
 </item>
 MOTORVISION TV
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]MOTORVISION TV [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=0;streamtype=TSDOWNLOADER&amp;name=MOTORVISION TV (by TeamBlue)</link>
-<thumbnail>http://i.imgur.com/ixMRmkM.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 PFC
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]PFC [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=0;streamtype=TSDOWNLOADER&amp;name=PFC (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2069.ts;streamtype=TSDOWNLOADER&amp;name=PFC (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/j3ZgJkr.png</thumbnail>
 </item>
 SPORT TV 4K
@@ -205,7 +205,7 @@ SPORT TV 3
 SPORT TV 3
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 3 [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2296.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://91.134.217.235:1557/live/gh/gh/2186.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/XvI6JNr.png</thumbnail>
 </item>
 SPORT TV 3
@@ -292,7 +292,7 @@ SPORT TV 5SPORTS DEVIL
 SPORTING TV
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORTING TV [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=0;streamtype=TSDOWNLOADER&amp;name=SPORTING TV (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2299.ts;streamtype=TSDOWNLOADER&amp;name=SPORTING TV (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/KTEBwY0.png</thumbnail>
 </item>
 SPORTING TVRTMP
@@ -304,14 +304,14 @@ SPORTING TVRTMP
 TOROS TV
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]TOROS TV [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=0;streamtype=TSDOWNLOADER&amp;name=TOROS TV (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvfullhd.info:8000/live/chris28de/TNKXmSgQSn/1727.ts;streamtype=TSDOWNLOADER&amp;name=TOROS TV (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/toros_tv.png</thumbnail>
 </item>
 CACAVISION
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]CACAVISION [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=0;streamtype=TSDOWNLOADER&amp;name=CACAVISION (by TeamBlue)</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cacavision.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 CACA & PESCA
 <item>
