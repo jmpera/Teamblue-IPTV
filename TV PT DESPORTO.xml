@@ -1,139 +1,234 @@
-A BOLA TV
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]A BOLA TV [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2486.ts;streamtype=TSDOWNLOADER&amp;name=A BOLA TV (by TeamBlue)</link>
-<thumbnail>http://i.imgur.com/aDTQAYr.png</thumbnail>
+<title>[B][COLOR blue]18.08 / 12h00 [B][COLOR gold]• GOLFE FEM: DIA 2 •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/qYRy3TU.png</thumbnail>
 </item>
-A BOLA TVRTMP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]A BOLA TV [B][COLOR red](RTMP)[/B][/COLOR]</title>
-<link>http://178.162.194.35:8088/stream/yameu/playlist.m3u8?id=26818&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link>
-<thumbnail>http://i.imgur.com/aDTQAYr.png</thumbnail>
+<title>[B][COLOR lawngreen]SPTV3[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
-A BOLA TVSPORTS DEVIL
+
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]A BOLA TV [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
-<sportsdevil>http://www.desportonline.net/index.php?canal=abolatv</sportsdevil>
-<referer>http://ucaster.eu/</referer>
-<thumbnail>http://i.imgur.com/aDTQAYr.png</thumbnail>
+<title>[B][COLOR blue]18.08 / 13h00 [B][COLOR gold]• CANOAGEM: FINAIS SPRINT MASC e FEM •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/qYRy3TU.png</thumbnail>
 </item>
-BENFICA TV
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://185.73.239.40:8000/live/saib/fares/2542.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by TeamBlue)</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.png</thumbnail>
+<title>[B][COLOR lawngreen]SPTV2[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
-BENFICA TV
+
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/1090.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by TeamBlue)</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.png</thumbnail>
+<title>[B][COLOR blue]18.08 / 13h20 [B][COLOR gold]• ATLETISNO: ELIM e FINAIS •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/qYRy3TU.png</thumbnail>
 </item>
-BENFICA TV
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2542.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by TeamBlue)</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.png</thumbnail>
+<title>[B][COLOR lawngreen]SPTV1[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
-BENFICA TVHTTP
+
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link>rtmp://31.220.40.61/privatestream/ app=privatestream/ playpath=gergtrg?keys=-9xSxtvS-ybNqYeR5Rklyw&keyt=1471185321 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=gergtrg</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.png</thumbnail>
+<title>[B][COLOR blue]18.08 / 14h00 [B][COLOR gold]• SALTPS PARA AGUA: 1/2 FINAIS 10M FEM •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/qYRy3TU.png</thumbnail>
 </item>
-BENFICA TVSPORTS DEVIL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
-<sportsdevil>http://www.desportonline.com/index.php?canal=benficatv</sportsdevil>
-<referer>http://mytvfree.me/ver/benfica-tv-direto</referer>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.png</thumbnail>
+<title>[B][COLOR lawngreen]SPTV4[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
-EUROSPORT 1
+
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EUROSPORT 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2367.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1 (by TeamBlue)</link>
-<thumbnail>http://i.imgur.com/r1Tu1zq.jpg</thumbnail>
+<title>[B][COLOR blue]18.08 / 15h00 [B][COLOR gold]• TRIATLO: FINAL MASC •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/qYRy3TU.png</thumbnail>
 </item>
-EUROSPORT 1RTMP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EUROSPORT 1 [B][COLOR red](RTMP)[/B][/COLOR]</title>
-<link>rtmp://213.152.180.250:13117/stream/ playPath=1HPBo1519y0yBoLZsrzG8.stream?r691i505yr700i716rr9265a505kr9265a505kr505i842br9265a505kr716i590mr1532i505lr716i590mr9265a505kr505i1532n swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN\2021,0,0,242 timeout=10 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&width=600&height=460&a=t481i394yt737i9936rt9601a394kt9601a394kt394i420bt9601a394kt9936i454mt9343i656lt9936i454mt9601a394kt656i9343n&st=24d325n4w574x2s2f436q24693u5o3w3y5y5w4f3w2s243f44474x254t2t27413q2t2s284&adx=&stream=j5u2l564648494r2743444h5v2h5d4n244s4q3a3f4w21374f476w226d3j4x404n4l4t4s4y2y34363z3q274943474u2y24444r264o244k3m3l4v5v2x2p243x46476o4n4t414n4z5w4f3j283x5i4p5d4h20524o5i5z5r5l2o256z3n204o29433w2g5k5a4u26403e4j5k5j594j594x2i5b4u2038484x2h594f474t2l5m5b434p2o234z3n204o204&sooor=MTE=&str=is&ok=&cat=3&link=1&idom=firstrowas.co</link>
-<thumbnail>http://i.imgur.com/r1Tu1zq.jpg</thumbnail>
+<title>[B][COLOR lawngreen]SPTV5[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
-EUROSPORT 1SPORTS DEVIL
+
 <item>
-<title></title>
-<sportsdevil></sportsdevil>
-<referer></referer>
-<thumbnail></thumbnail>
+<title>[B][COLOR blue]18.08 / 15h30 [B][COLOR gold]• GOLFE FEM: DIA 2 •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/qYRy3TU.png</thumbnail>
 </item>
-EUROSPORT 2
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EUROSPORT 2 [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/800.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 (by TeamBlue)</link>
-<thumbnail>http://i.imgur.com/oRM8F2Y.jpg</thumbnail>
+<title>[B][COLOR lawngreen]SPTV4[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
-EUROSPORT 2 XTRA
+
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR blue]18.08 / 17h00 [B][COLOR gold]• VELA; FINAIS 49ER •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/qYRy3TU.png</thumbnail>
 </item>
-EUROSPORT NEWS
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EUROSPORT NEWS [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/798.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT NEWS (by TeamBlue)</link>
-<thumbnail>http://i.imgur.com/rEq334P.jpg</thumbnail>
+<title>[B][COLOR lawngreen]SPTV4[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
-FUEL TV
+
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FUEL TV [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1645.ts;streamtype=TSDOWNLOADER&amp;name=FUEL TV (by TeamBlue)</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ff/fuel_tv_eu.png</thumbnail>
+<title>[B][COLOR blue]18.08 / 17h00 [B][COLOR gold]• VOLEIBOL: 1/2 FINAL FEM •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/qYRy3TU.png</thumbnail>
 </item>
-FIGHT NETWORK
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]SPTV1[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
-KOMBAT SPORT
+
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR blue]18.08 / 17h00 [B][COLOR gold]• GOLFE FEM: DIA 2 •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/qYRy3TU.png</thumbnail>
 </item>
-MOTORS TV
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]MOTORS TV [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1193.ts;streamtype=TSDOWNLOADER&amp;name=MOTORS TV (by TeamBlue)</link>
-<thumbnail>http://i.imgur.com/uIxVBmG.png</thumbnail>
+<title>[B][COLOR lawngreen]SPTV3[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
-MOTORS TVSPORTS DEVIL
+
 <item>
-<title></title>
-<sportsdevil></sportsdevil>
-<referer></referer>
-<thumbnail></thumbnail>
+<title>[B][COLOR blue]18.08 / 17h20 [B][COLOR gold]• ATLETISMO: DECATLO •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/qYRy3TU.png</thumbnail>
 </item>
-MOTORVISION TV
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]SPTV5[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
-PFC
+
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]PFC [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2069.ts;streamtype=TSDOWNLOADER&amp;name=PFC (by TeamBlue)</link>
-<thumbnail>http://i.imgur.com/j3ZgJkr.png</thumbnail>
+<title>[B][COLOR blue]18.08 / 17h30 [B][COLOR gold]• CICLISMO: BMX 1/4 FINAL •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/qYRy3TU.png</thumbnail>
 </item>
-SPORT TV 4K
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]SPTV3[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
+
+<item>
+<title>[B][COLOR blue]18.08 / 18h30 [B][COLOR gold]• GOLFE FEM: DIA 2 •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/qYRy3TU.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR lawngreen]SPTV3[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]18.08 / 19h00 [B][COLOR gold]• BASQUETEBOL: 1/2 FINAL FEM •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/qYRy3TU.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR lawngreen]SPTV4[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]18.08 / 20h00 [B][COLOR gold]• SALTOS PARA AGUA: FINAL FEM 10M •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/qYRy3TU.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR lawngreen]SPTV3[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]18.08 / 21h00 [B][COLOR gold]• HOQUEI EM CMPO: FINAL MASC •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/qYRy3TU.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR lawngreen]SPTV5[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]18.08 / 22h30 [B][COLOR gold]• ATLETISMO: FINAIS •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/qYRy3TU.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR lawngreen]SPTV1[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]18.08 / 23h00 [B][COLOR gold]• BASQUETEBOL: 1/2 FINAL FEM •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/qYRy3TU.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR lawngreen]SPTV2[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]19.08 / 0h20 [B][COLOR gold]• ANDEBOL: 1/2 FINAL FEM •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/qYRy3TU.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR lawngreen]SPTV5[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]19.08 / 0h20 [B][COLOR gold]• ATLETISMO: FINAIS •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/qYRy3TU.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR lawngreen]SPTV1[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]19.08 / 2h05 [B][COLOR gold]• VOLEIBOL: 1/2 FINAL FEM •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/qYRy3TU.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR lawngreen]SPTV4[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]19.08 / 4h00 [B][COLOR gold]• VOLEIBOL PRAIA: FINAL MASC •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/qYRy3TU.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR lawngreen]SPTV4[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
+</item>
+
 SPORT TV 1
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
@@ -278,9 +373,9 @@ SPORT TV 5
 </item>
 SPORT TV 5RTMP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 5 [B][COLOR red](RTMP)[/B][/COLOR]</title>
-<link>http://cdn.widestream.io:8081/shareedge/push-merda4-rp4un/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDE2IDEyOjUwOjExIFBNJmhhc2hfdmFsdWU9dzdGRllrMS9rSGJBZ3dQR2tVYkFrZz09JnZhbGlkbWludXRlcz0yMA==|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36</link>
-<thumbnail>http://i.imgur.com/G8yH187.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 SPORT TV 5SPORTS DEVIL
 <item>
@@ -289,34 +384,3 @@ SPORT TV 5SPORTS DEVIL
 <referer></referer>
 <thumbnail></thumbnail>
 </item>
-SPORTING TV
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORTING TV [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2299.ts;streamtype=TSDOWNLOADER&amp;name=SPORTING TV (by TeamBlue)</link>
-<thumbnail>http://i.imgur.com/KTEBwY0.png</thumbnail>
-</item>
-SPORTING TVRTMP
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-TOROS TV
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]TOROS TV [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfullhd.info:8000/live/chris28de/TNKXmSgQSn/1727.ts;streamtype=TSDOWNLOADER&amp;name=TOROS TV (by TeamBlue)</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/tt/toros_tv.png</thumbnail>
-</item>
-CACAVISION
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-CACA & PESCA
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]CACA & PESCA [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2485.ts;streamtype=TSDOWNLOADER&amp;name=CACA & PESCA (by TeamBlue)</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/caccia_pesca.png</thumbnail>
-</item>
-**********
