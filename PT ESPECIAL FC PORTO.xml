@@ -1,9 +1,43 @@
 <item>
-<title>[B][COLOR gold]17.08 / 19h45 FUT(Liga Campeoes): PORTO x ROMA[/B][/COLOR]</title>
+<title>[B][COLOR gold]20.08 / 17h00 PORTOxSPORTING • ANDEBOL TORN CIDADE VISEU PORTO CANAL[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/MVudZoM.png</thumbnail>
 </item>
+<item>
+<title>[B][COLOR lawngreen]PORTO CANAL[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
+</item>
+PORTO CANAL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]PORTO CANAL [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2072.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/0NAGz7e.png</thumbnail>
+</item>
+PORTO CANALHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]PORTO CANAL [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://213.13.26.11:1935/live/portocanal/live.m3u8</link>
+<thumbnail>http://i.imgur.com/0NAGz7e.png</thumbnail>
+</item>
+PORTO CANALSPORTS DEVIL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]PORTO CANAL [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<sportsdevil>http://www.desportonline.com/index.php?canal=portocanal</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<thumbnail>http://i.imgur.com/0NAGz7e.png</thumbnail>
+</item>
 
+<item>
+<title>[B][COLOR gold]20.08 / 20h30 PORTO-ESTORIL • LIGA NOS SPTV1•AV8 PO•AV9 PO[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/MVudZoM.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR lawngreen]SPTV1•AV8 PO•AV9 PO[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
+</item>
 SPORT TV 1
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
@@ -35,68 +69,69 @@ SPORT TV 1SPORTS DEVIL
 <referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
-ARENAVISION 3
+ARENAVISION 8
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]ARENAVISION 3 [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://f33f6b1e6bae940e45d3e1b9f7bfe4c34e969aa3&amp;mode=1&amp;name=acestream+SPORTS</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ARENAVISION 8 [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://b3ff36a1ae5c349dec02e2efaf8dee5e65721405&amp;mode=1&amp;name=acestream+SPORTS</link>
 <thumbnail>http://i.imgur.com/qaJQgRC.png</thumbnail>
 </item>
-ARENAVISION 4
+ARENAVISION 9
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]ARENAVISION 4 [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://c648625319d6d4890ad809038ca529a347107bac&amp;mode=1&amp;name=acestream+SPORTS</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ARENAVISION 9 [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://db52bd3a7514bfeccc247287215fa9d130da0886&amp;mode=1&amp;name=acestream+SPORTS</link>
 <thumbnail>http://i.imgur.com/qaJQgRC.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR gold]20.08 / 17h30 AND (Torneio Cidade Viseu): PORTO x SPORTING[/B][/COLOR]</title>
+<title>[B][COLOR gold]21.08 / 17h00 FINAL • ANDEBOL TORN CIDADE VISEU PORTO CANAL[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/MVudZoM.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR lawngreen]PORTO CANAL[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
+</item>
+PORTO CANAL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]PORTO CANAL [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2072.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/0NAGz7e.png</thumbnail>
+</item>
+PORTO CANALHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]PORTO CANAL [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://213.13.26.11:1935/live/portocanal/live.m3u8</link>
+<thumbnail>http://i.imgur.com/0NAGz7e.png</thumbnail>
+</item>
+PORTO CANALSPORTS DEVIL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]PORTO CANAL [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<sportsdevil>http://www.desportonline.com/index.php?canal=portocanal</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<thumbnail>http://i.imgur.com/0NAGz7e.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR gold]23.08 / 19h45 RÔMAxPORTO • LIGA CAMPEOES SPTV1[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/MVudZoM.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR lawngreen]SPTV1[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
 
 
 
-
 <item>
-<title>[B][COLOR gold]20.08 / 20h30 FUT (Liga NOS): PORTO x ESTORIL[/B][/COLOR]</title>
+<title>[B][COLOR gold]24.08 / 17h00 PORTO BxOLHANENSE • LIGA LEDMAN PORTO CANAL[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/MVudZoM.png</thumbnail>
 </item>
-
-
 <item>
-<title>[B][COLOR gold]21.08 / 17h00 TORNEIO DE ANDEBOL CIDADE DE VISEU[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]PORTO CANAL[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/MVudZoM.png</thumbnail>
-</item>
-
-
-
-<item>
-<title>[B][COLOR gold]23.08 / 19h45 FUT (Liga Campeoes) ROMA x PORTO[/B][/COLOR]</title>
-<link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/MVudZoM.png</thumbnail>
-</item>
-
-
-<item>
-<title>[B][COLOR gold]24.08 / 17h00 FUT (Liga LEDMAN) PORTO B x SC OLHANENSE[/B][/COLOR]</title>
-<link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/MVudZoM.png</thumbnail>
-</item>
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>[B][COLOR gold]28.08 /  FUT (Liga NOS) SPORTING x PORTO [/B][/COLOR]</title>
-<link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/MVudZoM.png</thumbnail>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
