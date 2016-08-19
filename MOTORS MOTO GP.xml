@@ -1,1 +1,93 @@
+<item>
+<title>[B][COLOR skyblue]GP REP CHECA[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/RvWBZE6.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]19.08 / 8h00 [B][COLOR gold]• MOTO3 FP1 •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/SdMg7M9.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR blue]19.08 / 8h55 [B][COLOR gold]• MOTOGP FP1 •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/SdMg7M9.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR blue]19.08 / 9h55 [B][COLOR gold]• MOTO2 FP1 •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/SdMg7M9.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR blue]19.08 / 12h10 [B][COLOR gold]• MOTO3 FP2 •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/SdMg7M9.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR blue]19.08 / 13h05 [B][COLOR gold]• MOTOGP FP2 •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/SdMg7M9.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR blue]19.08 / 14h05 [B][COLOR gold]• MOTO2 FP2 •[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/SdMg7M9.png</thumbnail>
+</item>
+<item>
+"<title>[B][COLOR lawngreen]SPTV2•MOV 
+MOTOGP•AV11 ES•AV12 ES[/B][/COLOR]</title>"
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
+</item>
+
+SPORT TV 2
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/503.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail>
+</item>
+SPORT TV 2
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2295.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail>
+</item>
+SPORT TV 2
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/olsi/olsi/1913.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail>
+</item>
+SPORT TV 2RTMP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR red](RTMP)[/B][/COLOR]</title>
+<link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=zrd8IHbjrxTjmvn9NTCF1A&keyt=1471185438 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width=630&height=510</link>
+<thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail>
+</item>
+SPORT TV 2SPORTS DEVIL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv2</sportsdevil>
+<referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
+<thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail>
+</item>
+MOVISTAR MOTOGP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]MOVISTAR MOTOGP [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/1877.ts;streamtype=TSDOWNLOADER&amp;name=MOVISTAR MOTOGP (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/jOfo0CH.png</thumbnail>
+</item>
+ARENAVISION 11
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]ARENAVISION 11 [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://1482f7fa51c82b9885306f8b9d7739939e15fcaa&amp;mode=1&amp;name=acestream+SPORTS</link>
+<thumbnail>http://i.imgur.com/qaJQgRC.png</thumbnail>
+</item>
+ARENAVISION 12
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]ARENAVISION 12 [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://3c66395a188d4bcbfdebc264a6e7fc2773f26f35&amp;mode=1&amp;name=acestream+SPORTS</link>
+<thumbnail>http://i.imgur.com/qaJQgRC.png</thumbnail>
+</item>
 
