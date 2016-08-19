@@ -81,4 +81,9 @@ ARENAVISION 9
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
-
+SPORTING TV
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORTING TV [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2299.ts;streamtype=TSDOWNLOADER&amp;name=SPORTING TV (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/KTEBwY0.png</thumbnail>
+</item>
