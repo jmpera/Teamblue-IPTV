@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR gold]21.08 / 16h00 FEIRENSE-MOREIRENSE[/B][/COLOR]</title>
+<title>[B][COLOR gold]21.08 / 16h00 FEIRENSE • MOREIRENSE[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/48qvjq9.png</thumbnail>
 </item>
@@ -11,7 +11,7 @@
 
 
 <item>
-<title>[B][COLOR gold]21.08 / 18h00 AROUCA-NACIONAL[/B][/COLOR]</title>
+<title>[B][COLOR gold]21.08 / 18h00 AROUCA • NACIONAL[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/48qvjq9.png</thumbnail>
 </item>
@@ -23,7 +23,7 @@
 
 
 <item>
-<title>[B][COLOR gold]21.08 / 20h00 BRAGA-RIO AVE[/B][/COLOR]</title>
+<title>[B][COLOR gold]21.08 / 20h00 BRAGA • RIO AVE[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/48qvjq9.png</thumbnail>
 </item>
@@ -67,16 +67,15 @@ SPORT TV 1SPORTS DEVIL
 
 
 <item>
-<title>[B][COLOR gold]21.08 / 20h15 BENFICA-SETUBAL[/B][/COLOR]</title>
+<title>[B][COLOR gold]21.08 / 20h15 BENFICA • SETUBAL[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/48qvjq9.png</thumbnail>
 </item>
 <item>
-<title>[B][COLOR lawngreen]BTV[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]BTV • AV8 PT • AV9 PT[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
-
 BENFICA TV
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV [B][COLOR red](F4M)[/B][/COLOR]</title>
@@ -97,7 +96,7 @@ BENFICA TV
 </item>
 BENFICA TVRTMP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV [B][COLOR red](RTMP)[/B][/COLOR]</title>
 <link>rtmp://31.220.40.61/privatestream/ app=privatestream/ playpath=gergtrg?keys=-9xSxtvS-ybNqYeR5Rklyw&keyt=1471185321 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=gergtrg</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.png</thumbnail>
 </item>
@@ -108,3 +107,22 @@ BENFICA TVSPORTS DEVIL
 <referer>http://mytvfree.me/ver/benfica-tv-direto</referer>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.png</thumbnail>
 </item>
+EUROSPORT 1
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EUROSPORT 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2367.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1 (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/r1Tu1zq.jpg</thumbnail>
+</item>
+ARENAVISION 8
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ARENAVISION 8 [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://b3ff36a1ae5c349dec02e2efaf8dee5e65721405&amp;mode=1&amp;name=acestream+SPORTS</link>
+<thumbnail>http://i.imgur.com/qaJQgRC.png</thumbnail>
+</item>
+ARENAVISION 9
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ARENAVISION 9 [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://db52bd3a7514bfeccc247287215fa9d130da0886&amp;mode=1&amp;name=acestream+SPORTS</link>
+<thumbnail>http://i.imgur.com/qaJQgRC.png</thumbnail>
+</item>
+
