@@ -51,7 +51,7 @@ SIC
 SICHTTP
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link>http://109.123.116.138:8088/stream/sic77888/playlist.m3u8?id=26311&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link>
+<link>http://178.162.193.26:8088/stream/sic77888/playlist.m3u8?id=26311&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt.png</thumbnail>
 </item>
 SICSPORTS DEVIL
@@ -81,7 +81,7 @@ SIC$DOREGEX
 TVI
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1055.ts;streamtype=TSDOWNLOADER&amp;name=TVI (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2317.ts;streamtype=TSDOWNLOADER&amp;name=TVI (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_pt.png</thumbnail>
 </item>
 TVIHTTP
@@ -117,7 +117,7 @@ TVI$DOREGEX
 PORTO CANAL
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]PORTO CANAL [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2072.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1130.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/0NAGz7e.png</thumbnail>
 </item>
 PORTO CANALHTTP
@@ -321,7 +321,7 @@ CMTV
 CMTVRTMP
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CMTV [B][COLOR red](RTMP)[/B][/COLOR]</title>
-<link>rtmp://46.165.251.98/stream playPath=gareerga?id=27078&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=10 conn=S:OK live=true swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf flashver=WIN\2021,0,0,242 pageUrl=http://www.liveflashplayer.net/embedplayer/gareerga/1/620/430</link>
+<link>http://163.172.40.71/loadbalance/14754455842767291813/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDE2IDEwOjIzOjE5IEFNJmhhc2hfdmFsdWU9dWR5TVI3R1B4RUFOTWtZNWRBNEoxZz09JnZhbGlkbWludXRlcz0x|User-Agent=iPad</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cm_tv_pt.png</thumbnail>
 </item>
 CMTVSPORTS DEVIL
@@ -412,7 +412,7 @@ RTP 3SPORTS DEVIL
 SIC NOTICIAS
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC NOTICIAS [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3725.ts;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1123.ts;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_noticias.png</thumbnail>
 </item>
 SIC NOTICIASHTTP
@@ -458,6 +458,12 @@ BLOOMBERG
 <link></link>
 <thumbnail></thumbnail>
 </item>
+BLOOMBERGHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] US: [B][COLOR white]BLOOMBERG [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://cdn3.videos.bloomberg.com/btv/us/master.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bloomberg_tv_us.png</thumbnail>
+</item>
 CNN
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] US: [B][COLOR white]CNN [B][COLOR red](F4M)[/B][/COLOR]</title>
@@ -474,6 +480,12 @@ TVE 24
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]TVE 24 [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvfullhd.info:8000/live/chris28de/TNKXmSgQSn/1785.ts;streamtype=TSDOWNLOADER&amp;name=TVE 24 (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tve_canal_24horas.png</thumbnail>
+</item>
+TVE 24HTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]TVE 24 [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tve_canal_24horas.png</thumbnail>
 </item>
 RECORD NEWS
@@ -570,7 +582,7 @@ SIC MULHER
 SIC MULHERHTTP
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC MULHER [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link>http://173.193.205.94:8088/live/sicm02/playlist.m3u8?id=85250&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702 </link>
+<link>http://46.28.49.156:8088/live/sicm02/playlist.m3u8?id=85250&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_mulher.png</thumbnail>
 </item>
 SIC MULHERSPORTS DEVIL
@@ -582,20 +594,20 @@ SIC MULHERSPORTS DEVIL
 </item>
 SIC MULHER$DOREGEX
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC MULHER [B][COLOR red]($DOREGEX)[/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=sicm02?id=84770&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sicm02/1/599/399</link>
+<title></title>
+<link></link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
+<page></page>
 </regex>
 <regex>
 <name>get-pk</name>
 <expres>ea=(.*)'</expres>
-<page>http://www.embeducaster.com/embedplayer/sicm02/1/599/399</page>
-<referer>http://www.embeducaster.com/</referer>
+<page></page>
+<referer></referer>
 </regex>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_mulher.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 SIC RADICAL
 <item>
@@ -642,7 +654,7 @@ TVI FICCAO
 TVI FICCAOHTTP
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI FICCAO [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link>http://146.185.16.62:8088/live/tvicrl/playlist.m3u8?id=24273&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link>
+<link>http://46.28.53.142:8088/live/tvicrl/playlist.m3u8?id=24273&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5</link>
 <thumbnail>http://i.imgur.com/1OKBioL.png</thumbnail>
 </item>
 TVI FICCAOSPORTS DEVIL
@@ -678,7 +690,7 @@ TVI REALITY
 TVI REALITYHTTP
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI REALITY [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link>http://178.162.194.34:8088/live/lot23wsalot/playlist.m3u8?id=251240&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link>
+<link>http://178.162.211.97:8088/live/Realityzito/playlist.m3u8?id=23967&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5</link>
 <thumbnail>http://i.imgur.com/D9HZ95f.png</thumbnail>
 </item>
 TVI REALITYSPORTS DEVIL
@@ -755,9 +767,9 @@ GLOBO PREMIUM
 </item>
 RECORD
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]RECORD [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1967.ts;streamtype=TSDOWNLOADER&amp;name=RECORD (by TeamBlue)</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/rr/rede_record_br.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 RECORDHTTP
 <item>
@@ -903,4 +915,3 @@ TV GALICIAHTTP
 <link>http://media3.crtvg.es/live/tvge/chunklist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/galicia_tv_eu.png</thumbnail>
 </item>
-**********
