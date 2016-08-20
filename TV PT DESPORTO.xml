@@ -170,6 +170,22 @@ SPORT TV 1RTMP
 <link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=fawergge?keys=6FwFzBwoArVD7GnroNTCwg&keyt=1471185155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge</link>
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
+
+
+
+SPORT TV 1 HTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://83.78.191.43:2065</link>
+<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
+</item>
+
+
+
+
+
+
+
 SPORT TV 1SPORTS DEVIL
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
