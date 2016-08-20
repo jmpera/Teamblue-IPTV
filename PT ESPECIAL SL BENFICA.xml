@@ -1,6 +1,6 @@
 <item>
-<title>[B][COLOR gold]20.08 / 11h00 BENFICA x SETUBAL
-JUNIORES B[/B][/COLOR]</title>
+"<title>[B][COLOR gold]20.08 / 11h00 BENFICA x SETUBAL • 
+JUNIORES B[/B][/COLOR]</title>"
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/yb1da39.png</thumbnail>
 </item>
@@ -12,19 +12,19 @@ JUNIORES B[/B][/COLOR]</title>
 BENFICA TV
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://185.73.239.40:8000/live/saib/fares/2542.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/807.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.png</thumbnail>
 </item>
 BENFICA TV
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/1090.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1421.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.png</thumbnail>
 </item>
 BENFICA TV
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/mana/mana/1286.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/885.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.png</thumbnail>
 </item>
 BENFICA TVHTTP
@@ -43,8 +43,8 @@ BENFICA TVSPORTS DEVIL
 
 
 <item>
-<title>[B][COLOR gold]20.08 / 15h30 BENFICA x CHECKOVSKI M
-ANDEBOL-TACA EHF[/B][/COLOR]</title>
+"<title>[B][COLOR gold]20.08 / 15h30 BENFICA x CHECKOVSKI M • 
+ANDEBOL-TACA EHF[/B][/COLOR]</title>"
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/yb1da39.png</thumbnail>
 </item>
@@ -56,19 +56,19 @@ ANDEBOL-TACA EHF[/B][/COLOR]</title>
 BENFICA TV
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://185.73.239.40:8000/live/saib/fares/2542.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/807.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.png</thumbnail>
 </item>
 BENFICA TV
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/1090.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1421.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.png</thumbnail>
 </item>
 BENFICA TV
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/mana/mana/1286.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/885.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.png</thumbnail>
 </item>
 BENFICA TVHTTP
