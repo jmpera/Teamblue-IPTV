@@ -1,5 +1,29 @@
 <item>
-<title>[B][COLOR gold]19.08 / 20h30 BELENENSES-BOAVISTA SPTV1•AV8 PO•AV9 PO[/B][/COLOR]</title>
+<title>[B][COLOR gold]20.08 / 11h45 MARITIMO-GUIMARÃES SPTV1[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/48qvjq9.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR lawngreen]SPTV1[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR gold]20.08 / 16h00 CHAVES-TONDELA SPTV1[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/48qvjq9.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR lawngreen]SPTV1[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR gold]20.08 / 18h15 P.FERREIRA-SPORTING SPTV1•AV8 PO•AV9 PO[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/48qvjq9.png</thumbnail>
 </item>
@@ -8,22 +32,35 @@
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
+
+
+<item>
+<title>[B][COLOR gold]20.08 / 20h30 PORTO-ESTORIL SPTV1•AV8 PO•AV9 PO[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/48qvjq9.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR lawngreen]SPTV1•AV8 PO•AV9 PO[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
+</item>
+
 SPORT TV 1
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/olsi/olsi/1912.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/2325.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
 SPORT TV 1
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://91.134.217.235:1557/live/gh/gh/1655.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/878.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
 SPORT TV 1
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/858.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/2325.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
 SPORT TV 1RTMP
@@ -39,6 +76,7 @@ SPORT TV 1SPORTS DEVIL
 <referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
+
 ARENAVISION 8
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ARENAVISION 8 [B][COLOR red](Plexus)[/B][/COLOR]</title>
@@ -51,4 +89,3 @@ ARENAVISION 9
 <link>plugin://program.plexus/?url=acestream://db52bd3a7514bfeccc247287215fa9d130da0886&amp;mode=1&amp;name=acestream+SPORTS</link>
 <thumbnail>http://i.imgur.com/qaJQgRC.png</thumbnail>
 </item>
-
