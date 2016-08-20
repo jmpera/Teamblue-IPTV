@@ -6,9 +6,9 @@ INFANTIS
 </item>
 BABY TV
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BABY TV [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX103/65sijod/2077.ts;streamtype=TSDOWNLOADER&amp;name=BABY TV (by TeamBlue)</link>
-<thumbnail>http://i.imgur.com/xTAptxu.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 BABY FIRST
 <item>
@@ -19,7 +19,7 @@ BABY FIRST
 CANAL PANDA
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CANAL PANDA [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2075.ts;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1165.ts;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/canal_panda_pt.png</thumbnail>
 </item>
 CARTOON NETWORK
@@ -31,7 +31,7 @@ CARTOON NETWORK
 DISNEY CHANNEL
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]DISNEY CHANNEL [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1162.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1030.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/g0UK661.png</thumbnail>
 </item>
 DISNEY JUNIOR
@@ -61,7 +61,7 @@ PANDA BIGGS
 SIC K
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC K [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1376.ts;streamtype=TSDOWNLOADER&amp;name=SIC K (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/2052.ts;streamtype=TSDOWNLOADER&amp;name=SIC K (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_k.png</thumbnail>
 </item>
 **********
