@@ -7,52 +7,37 @@
 
 
 <item>
-<title>[B][COLOR blue]20.08 / 8h00 [B][COLOR gold]• MOTO3 FP3 •[/B][/COLOR]</title>
+<title>[B][COLOR blue]21.08 / 7h40 [B][COLOR gold]• MOTO3 • WUP •[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/SdMg7M9.png</thumbnail>
 </item>
 <item>
-<title>[B][COLOR blue]20.08 / 8h55 [B][COLOR gold]• MOTOGP FP3 •[/B][/COLOR]</title>
+<title>[B][COLOR blue]21.08 / 8h10 [B][COLOR gold]• MOTO2 • WUP •[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/SdMg7M9.png</thumbnail>
 </item>
 <item>
-<title>[B][COLOR blue]20.08 / 9h55 [B][COLOR gold]• MOTO2 FP3 •[/B][/COLOR]</title>
+<title>[B][COLOR blue]21.08 / 8h40 [B][COLOR gold]• MOTOGP • WUP •[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/SdMg7M9.png</thumbnail>
 </item>
 <item>
-<title>[B][COLOR blue]20.08 / 11h35 [B][COLOR gold]• MOTO3 Q •[/B][/COLOR]</title>
+<title>[B][COLOR blue]21.08 / 10h00 [B][COLOR gold]• MOTO3 • RAC •[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/SdMg7M9.png</thumbnail>
 </item>
 <item>
-<title>[B][COLOR blue]20.08 / 12h30 [B][COLOR gold]• MOTOGP FP4 •[/B][/COLOR]</title>
+<title>[B][COLOR blue]21.08 / 11h20 [B][COLOR gold]• MOTO2 •  RAC •[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/SdMg7M9.png</thumbnail>
 </item>
 <item>
-<title>[B][COLOR blue]20.08 / 13h10 [B][COLOR gold]• MOTOGP Q1 •[/B][/COLOR]</title>
+<title>[B][COLOR blue]21.08 / 13h00 [B][COLOR gold]• MOTOGP •  RAC •[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/SdMg7M9.png</thumbnail>
 </item>
 <item>
-<title>[B][COLOR blue]20.08 / 13h35 [B][COLOR gold]• MOTOGP Q2 •[/B][/COLOR]</title>
-<link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/SdMg7M9.png</thumbnail>
-</item>
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-<title>[B][COLOR blue]20.08 / 14h05 [B][COLOR gold]• MOTO2 Q •[/B][/COLOR]</title>
-<link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/SdMg7M9.png</thumbnail>
-</item>
-<item>
-"<title>[B][COLOR lawngreen]SPTV2•MOV MOTOGP
-•AV11 ES•AV12 ES[/B][/COLOR]</title>"
+<title>[B][COLOR lawngreen]SPTV2•MOV MOTOGP•AV11 ES•AV12 ES[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
@@ -80,6 +65,12 @@ SPORT TV 2RTMP
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR red](RTMP)[/B][/COLOR]</title>
 <link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=zrd8IHbjrxTjmvn9NTCF1A&keyt=1471185438 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width=630&height=510</link>
 <thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail>
+</item>
+SPORT TV 1HTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://83.78.191.43:2065/</link>
+<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
 SPORT TV 2SPORTS DEVIL
 <item>
