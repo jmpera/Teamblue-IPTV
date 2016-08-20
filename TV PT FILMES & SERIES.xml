@@ -13,7 +13,7 @@ AMC
 CINEMUNDO
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CINEMUNDO [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://185.73.239.40:8000/live/saib/fares/2059.ts;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/507.ts;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cine_mundo_pt.png</thumbnail>
 </item>
 FX
@@ -31,12 +31,12 @@ FOX MOVIES
 FOX MOVIESHTTP
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX MOVIES [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link>http://146.185.16.62:8088/live/sical/playlist.m3u8?id=24913&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link>
+<link>http://146.185.16.58:8088/live/sical/playlist.m3u8?id=24913&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_movies_pt.png</thumbnail>
 </item>
 FOX MOVIESSPORTS DEVIL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX MOVIES [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX MOVIES [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
 <sportsdevil>http://www.estadiofutebol.com/gratis/foxmovies</sportsdevil>
 <referer>http://ezcast.tv/</referer>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_movies_pt.png</thumbnail>
@@ -66,9 +66,9 @@ HOLLYWOOD
 </item>
 MOV
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]MOV [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/2432.ts;streamtype=TSDOWNLOADER&amp;name=MOV (by TeamBlue)</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ywpyvx1435102521.png</thumbnail>
 </item>
 MOVHTTP
 <item>
@@ -97,7 +97,7 @@ TV CINE 1
 TV CINE 2
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TV CINE 2 [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/olsi/olsi/1921.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 2 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://pro-vision.dyndns.pro:12580/live/cyrile/cyrile/2063.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 2 (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvc2.png</thumbnail>
 </item>
 TV CINE 2
@@ -121,25 +121,25 @@ TV CINE 3
 TV CINE 3
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TV CINE 3 [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://91.134.217.235:1557/live/gh/gh/2180.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 3 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://pro-vision.dyndns.pro:12580/live/cyrile/cyrile/2064.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 3 (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvc3.png</thumbnail>
 </item>
 TV CINE 3
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TV CINE 3 [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/olsi/olsi/1922.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 3 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/1057.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 3 (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvc3.png</thumbnail>
 </item>
 TV CINE 4
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TV CINE 4 [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1056.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 4 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX103/65sijod/1056.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 4 (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvc4.png</thumbnail>
 </item>
 TV CINE 4
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TV CINE 4 [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://91.134.217.235:1557/live/gh/gh/2181.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 4 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/904.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 4 (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvc4.png</thumbnail>
 </item>
 TV CINE 4
@@ -157,7 +157,7 @@ SERIES
 AXN
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AXN [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://185.73.239.40:8000/live/saib/fares/1046.ts;streamtype=TSDOWNLOADER&amp;name=AXN (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX103/65sijod/1046.ts;streamtype=TSDOWNLOADER&amp;name=AXN (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_global.png</thumbnail>
 </item>
 AXN
@@ -175,32 +175,32 @@ AXN
 AXNHTTP
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AXN [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link>http://46.28.53.142:8088/live/portocanalv/playlist.m3u8?id=86583&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link>
+<link>http://178.162.199.137:8088/live/axn1x/playlist.m3u8?id=84753&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_global.png</thumbnail>
 </item>
 AXNSPORTS DEVIL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AXN [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AXN [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
 <sportsdevil>http://www.estadiofutebol.com/gratis/axn</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_global.png</thumbnail>
 </item>
 AXN$DOREGEX
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AXN [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=axn1x?id=84753&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/axn1x/1/650/500</link>
+<title></title>
+<link></link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
+<page></page>
 </regex>
 <regex>
 <name>get-pk</name>
 <expres>ea=(.*)'</expres>
-<page>http://www.embeducaster.com/embedplayer/axn1x/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
+<page></page>
+<referer></referer>
 </regex>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_global.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 AXN BLACK
 <item>
@@ -223,37 +223,37 @@ AXN BLACK
 AXN WHITE
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AXN WHITE [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://91.134.217.235:1557/live/gh/gh/2192.ts;streamtype=TSDOWNLOADER&amp;name=AXN WHITE (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX103/65sijod/2061.ts;streamtype=TSDOWNLOADER&amp;name=AXN WHITE (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_white_pt.png</thumbnail>
 </item>
 AXN WHITE
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AXN WHITE [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://185.73.239.40:8000/live/saib/fares/2061.ts;streamtype=TSDOWNLOADER&amp;name=AXN WHITE (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/883.ts;streamtype=TSDOWNLOADER&amp;name=AXN WHITE (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_white_pt.png</thumbnail>
 </item>
 AXN WHITE
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AXN WHITE [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://178.33.226.36:8000/live/olsi/olsi/1958.ts;streamtype=TSDOWNLOADER&amp;name=AXN WHITE (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1155.ts;streamtype=TSDOWNLOADER&amp;name=AXN WHITE (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_white_pt.png</thumbnail>
 </item>
 AXN WHITEHTTP
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AXN WHITE [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link>http://46.28.49.156:8088/live/axnwhitex/playlist.m3u8?id=84774&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link>
+<link>http://178.162.199.73:8088/live/axnwhitex/playlist.m3u8?id=84774&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_white_pt.png</thumbnail>
 </item>
 AXN WHITESPORTS DEVIL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AXN WHITE [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AXN WHITE [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
 <sportsdevil>http://www.estadiofutebol.com/gratis/axnwhite</sportsdevil>
 <referer>http://ucaster.eu</referer>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_white_pt.png</thumbnail>
 </item>
 AXN WHITE$DOREGEX
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AXN WHITE [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AXN WHITE [B][COLOR red]($DOREGEX)[/B][/COLOR]</title>
 <link>rtmp://$doregex[get-ip]/live playpath=axnwhitex?id=84774&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/axn1x/1/650/500</link>
 <regex>
 <name>get-ip</name>
@@ -271,18 +271,18 @@ AXN WHITE$DOREGEX
 FOX
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://91.134.217.235:1557/live/gh/gh/2193.ts;streamtype=TSDOWNLOADER&amp;name=FOX (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/2312.ts;streamtype=TSDOWNLOADER&amp;name=FOX (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/X4XkCez.png</thumbnail>
 </item>
 FOXHTTP
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link>http://46.28.50.116:8088/live/foxcrl/playlist.m3u8?id=24274&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link>
+<link>http://146.185.16.58:8088/live/foxcrl/playlist.m3u8?id=24274&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5</link>
 <thumbnail>http://i.imgur.com/X4XkCez.png</thumbnail>
 </item>
 FOXSPORTS DEVIL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
 <sportsdevil>http://www.estadiofutebol.com/gratis/fox</sportsdevil>
 <referer>http://escast.tv/</referer>
 <thumbnail>http://i.imgur.com/X4XkCez.png</thumbnail>
@@ -307,44 +307,44 @@ FOX$DOREGEX
 FOX COMEDY
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX COMEDY [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1681/chaaben1681/2177.ts;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1028.ts;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_comedy_pt.png</thumbnail>
 </item>
 FOX CRIME
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX CRIME [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://185.73.239.40:8000/live/saib/fares/2480.ts;streamtype=TSDOWNLOADER&amp;name=FOX CRIME (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/2480.ts;streamtype=TSDOWNLOADER&amp;name=FOX CRIME (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_crime_global.png</thumbnail>
 </item>
 FOX CRIMEHTTP
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX CRIME [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link>http://173.193.205.94:8088/live/foxcrimex/playlist.m3u8?id=84766&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link>
+<link>http://178.162.199.155:8088/live/foxcrimex/playlist.m3u8?id=84766&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_crime_global.png</thumbnail>
 </item>
 FOX CRIMESPORTS DEVIL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX CRIME [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX CRIME [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
 <sportsdevil>http://www.estadiofutebol.com/gratis/foxcrime</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_crime_global.png</thumbnail>
 </item>
 FOX CRIME$DOREGEX
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX CRIME [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=foxcrimex?id=84766&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/foxcrimex/1/650/500</link>
+<title></title>
+<link></link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
+<page></page>
 </regex>
 <regex>
 <name>get-pk</name>
 <expres>ea=(.*)'</expres>
-<page>http://www.embeducaster.com/embedplayer/foxcrimex/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
+<page></page>
+<referer></referer>
 </regex>
-<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_crime_global.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 FOX LIFE
 <item>
@@ -355,12 +355,12 @@ FOX LIFE
 FOX LIFEHTTP
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX LIFE [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link>http://178.162.211.231:8088/stream/foxlifea/playlist.m3u8?id=19709&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link>
+<link>http://85.17.20.70:8088/stream/foxlifea/playlist.m3u8?id=19709&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rttuur1433432546.png</thumbnail>
 </item>
 FOX LIFESPORTS DEVIL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX LIFE [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX LIFE [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
 <sportsdevil>http://www.estadiofutebol.com/gratis/foxlife</sportsdevil>
 <referer>http://liveflashplayer.com/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rttuur1433432546.png</thumbnail>
