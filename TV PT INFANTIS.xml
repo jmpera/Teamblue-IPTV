@@ -22,16 +22,34 @@ CANAL PANDA
 <link>plugin://plugin.video.f4mTester/?url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1165.ts;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/canal_panda_pt.png</thumbnail>
 </item>
+CANAL PANDAHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CANAL PANDA [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://83.78.191.43:2044/</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/canal_panda_pt.png</thumbnail>
+</item>
 CARTOON NETWORK
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CARTOON NETWORK [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2484.ts;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/EuQiOf1.png</thumbnail>
 </item>
+CARTOON NETWORKHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CARTOON NETWORK [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://83.78.191.43:2014/</link>
+<thumbnail>http://i.imgur.com/EuQiOf1.png</thumbnail>
+</item>
 DISNEY CHANNEL
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]DISNEY CHANNEL [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1030.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/g0UK661.png</thumbnail>
+</item>
+DISNEY CHANNELHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]DISNEY CHANNEL [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://83.78.191.43:2024/</link>
 <thumbnail>http://i.imgur.com/g0UK661.png</thumbnail>
 </item>
 DISNEY JUNIOR
@@ -44,6 +62,12 @@ JIMJAM
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]JIMJAM [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1423.ts;streamtype=TSDOWNLOADER&amp;name=JIMJAM (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/b6Mhyk9.png</thumbnail>
+</item>
+JIMJAMHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]JIMJAM [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://83.78.191.43:2037/</link>
 <thumbnail>http://i.imgur.com/b6Mhyk9.png</thumbnail>
 </item>
 NICKELODEON
@@ -62,6 +86,12 @@ SIC K
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC K [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/2052.ts;streamtype=TSDOWNLOADER&amp;name=SIC K (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_k.png</thumbnail>
+</item>
+SIC KHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC K [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://83.78.191.43:2059/</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_k.png</thumbnail>
 </item>
 **********
