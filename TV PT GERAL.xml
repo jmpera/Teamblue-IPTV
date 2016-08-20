@@ -303,7 +303,7 @@ CANCAO NOVA
 CANCAO NOVAHTTP
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CANCAO NOVA [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link>http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8</link>
+<link>http://83.78.191.43:2091/</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_cancao_nova_pt.png</thumbnail>
 </item>
 INFORMACAO
@@ -318,9 +318,9 @@ CMTV
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2078.ts;streamtype=TSDOWNLOADER&amp;name=CMTV (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cm_tv_pt.png</thumbnail>
 </item>
-CMTVRTMP
+CMTVHTTP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CMTV [B][COLOR red](RTMP)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CMTV [B][COLOR red](HTTP)[/B][/COLOR]</title>
 <link>http://163.172.40.71/loadbalance/14754455842767291813/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDE2IDEwOjIzOjE5IEFNJmhhc2hfdmFsdWU9dWR5TVI3R1B4RUFOTWtZNWRBNEoxZz09JnZhbGlkbWludXRlcz0x|User-Agent=iPad</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cm_tv_pt.png</thumbnail>
 </item>
@@ -476,6 +476,12 @@ FOX NEWS
 <link></link>
 <thumbnail></thumbnail>
 </item>
+FOX NEWSHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] US: [B][COLOR white]FOX NEWS [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://83.78.191.43:2030/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_news_channel.png</thumbnail>
+</item>
 TVE 24
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]TVE 24 [B][COLOR red](F4M)[/B][/COLOR]</title>
@@ -530,10 +536,22 @@ CANAL Q
 <link></link>
 <thumbnail></thumbnail>
 </item>
+CANAL QHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CANAL Q [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://83.78.191.43:2048/</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/canal_q.png</thumbnail>
+</item>
 CBS REALITY
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CBS REALITY [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2066.ts;streamtype=TSDOWNLOADER&amp;name=CBS REALITY (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_reality_pt.png</thumbnail>
+</item>
+CBS REALITYHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CBS REALITY [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://83.78.191.43:2015/</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_reality_pt.png</thumbnail>
 </item>
 E!
@@ -573,10 +591,16 @@ SIC CARAS
 <link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1654.ts;streamtype=TSDOWNLOADER&amp;name=SIC CARAS (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_caras.png</thumbnail>
 </item>
+SIC CARASHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC CARAS [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1654.ts;streamtype=TSDOWNLOADER&amp;name=SIC CARAS (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_caras.png</thumbnail>
+</item>
 SIC MULHER
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC MULHER [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2054.ts;streamtype=TSDOWNLOADER&amp;name=SIC MULHER (by TeamBlue)</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC MULHER [B][COLOR red]()[/B][/COLOR]</title>
+<link>http://46.28.49.156:8088/live/sicm02/playlist.m3u8?id=85250&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_mulher.png</thumbnail>
 </item>
 SIC MULHERHTTP
@@ -617,9 +641,9 @@ SIC RADICAL
 </item>
 SIC RADICALHTTP
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC RADICAL [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://83.78.191.43:2061/</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_radical.png</thumbnail>
 </item>
 SIC RADICALSPORTS DEVIL
 <item>
@@ -765,6 +789,12 @@ GLOBO PREMIUM
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1968.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO PREMIUM (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_globo_premium.png</thumbnail>
 </item>
+GLOBO PREMIUMHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]GLOBO PREMIUM [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://83.78.191.43:2073/</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_globo_premium.png</thumbnail>
+</item>
 RECORD
 <item>
 <title></title>
@@ -774,7 +804,7 @@ RECORD
 RECORDHTTP
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]RECORD [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link>http://69.46.0.170:1935/ricpr/ric.sdp/live.m3u8</link>
+<link>http://83.78.191.43:2074/</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/rede_record_br.png</thumbnail>
 </item>
 LIFESTYLE
@@ -915,3 +945,4 @@ TV GALICIAHTTP
 <link>http://media3.crtvg.es/live/tvge/chunklist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/galicia_tv_eu.png</thumbnail>
 </item>
+**********
