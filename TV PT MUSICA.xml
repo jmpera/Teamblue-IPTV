@@ -1,4 +1,3 @@
-AFRO MUSIC
 <item>
 <title></title>
 <link></link>
@@ -33,6 +32,18 @@ DELUXE MUSIQUE
 <title></title>
 <link></link>
 <thumbnail></thumbnail>
+</item>
+M6 MUSIQUE
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]M6 MUSIQUE [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1063.ts;streamtype=TSDOWNLOADER&amp;name=M6 MUSIQUE (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/m6_fr.png</thumbnail>
+</item>
+M6 MUSIQUEHTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]M6 MUSIQUE [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/m6_fr.png</thumbnail>
 </item>
 MCM POP
 <item>
@@ -104,7 +115,7 @@ VEVO
 VEVO 1
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]VEVO 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1175.ts;streamtype=TSDOWNLOADER&amp;name=VEVO 1 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/424.ts;streamtype=TSDOWNLOADER&amp;name=VEVO 1 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/gvrcgs1.png</thumbnail>
 </item>
 VEVO 1HTTP
@@ -140,7 +151,7 @@ VEVO 3HTTP
 VH1
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]VH1 [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/499.ts;streamtype=TSDOWNLOADER&amp;name=VH1 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/499.ts;streamtype=TSDOWNLOADER&amp;name=VH1 (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/vv/vh1_global.png</thumbnail>
 </item>
 VH1 CLASSIC
@@ -150,3 +161,4 @@ VH1 CLASSIC
 <thumbnail></thumbnail>
 </item>
 **********
+
