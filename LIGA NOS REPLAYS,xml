@@ -1,0 +1,14 @@
+#EXTM3U
+
+#EXTINF:0,[COLOR red]REPETICOES DE JOGOS DA LIGA NOS
+        2016-2017[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:0,[B][COLOR red]********************[/B][/COLOR]
+http://0.0.0.0:1234
+
+
+
+#EXTINF:0,[COLOR white]PORTO • ESTORIL (1ªPARTE)[/COLOR]
+https://cdn.video.playwire.com/19004/videos/5118166/video-sd.mp4
+#EXTINF:0,[COLOR white]PORTO • ESTORIL (2ªPARTE)[/COLOR]
+https://cdn.video.playwire.com/19004/videos/5118167/video-sd.mp4
