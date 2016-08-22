@@ -82,7 +82,7 @@ NAT GEO CHANNEL
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1972.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO CHANNEL (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nat_geo_us.png</thumbnail>
 </item>
-NAT GEO CHANNELHTTP
+NAT GEO CHANNEL0
 <item>
 <title></title>
 <link></link>
@@ -151,7 +151,7 @@ NAT GEO WILD$DOREGEX
 ODISSEIA
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ODISSEIA [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro-vision.dyndns.pro:12580/live/cyrile/cyrile/2972.ts;streamtype=TSDOWNLOADER&amp;name=ODISSEIA (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1401.ts;streamtype=TSDOWNLOADER&amp;name=ODISSEIA (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/oo/odisseia_pt.png</thumbnail>
 </item>
 ODISSEIAHTTP
