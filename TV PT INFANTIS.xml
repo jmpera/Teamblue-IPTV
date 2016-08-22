@@ -19,7 +19,7 @@ BABY FIRST
 CANAL PANDA
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CANAL PANDA [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1165.ts;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1165.ts;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/canal_panda_pt.png</thumbnail>
 </item>
 CANAL PANDAHTTP
@@ -76,22 +76,22 @@ NICKELODEON
 <link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1394.ts;streamtype=TSDOWNLOADER&amp;name=NICKELODEON (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/8fMIHmp.png</thumbnail>
 </item>
-PANDA BIGGS
+BIGGS
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]PANDA BIGGS [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2073.ts;streamtype=TSDOWNLOADER&amp;name=PANDA BIGGS (by TeamBlue)</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BIGGS [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2073.ts;streamtype=TSDOWNLOADER&amp;name=BIGGS (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/pp/panda_biggs.png</thumbnail>
 </item>
-SIC K
+SUPER RTL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC K [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/2052.ts;streamtype=TSDOWNLOADER&amp;name=SIC K (by TeamBlue)</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_k.png</thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SUPER RTL [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1028.ts;streamtype=TSDOWNLOADER&amp;name=SUPER RTL (by TeamBlue)</link>
+<thumbnail>http://www.lyngsat-logo.com/tvchannel/de/Super-RTL-Deutschland.html</thumbnail>
 </item>
-SIC KHTTP
+SUPER RTL0
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC K [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link>http://83.78.191.43:2059/</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_k.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 **********
