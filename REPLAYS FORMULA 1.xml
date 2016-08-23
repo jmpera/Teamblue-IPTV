@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:0,[COLOR red]REPETICOES DOS GP FORMULA 1[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:0,[COLOR red]                     2016[/COLOR]
+http://0.0.0.0:1234
+
+
+#EXTINF:-1 tvg-logo="http://fullmatchtv.com/wp-content/uploads/2016/07/f1austriangp-218x150.png",[COLOR white]GP AUSTRIA[/COLOR]
+https://1fgqftf.oloadcdn.net/dl/l/IRM6WGarc34/8h77lAF8LsQ/Formula.1.2016x09.Austria.Race.02-RACE.SkyF1HD.SD.mp4.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="http://fullmatchtv.com/wp-content/uploads/2016/06/europegp-218x150.png",[COLOR white]GP EUROPA[/COLOR]
+https://1fgm8r6.oloadcdn.net/dl/l/IYVLBnJprUo/_bFngMMSL78/Formula1.2016.Europe.Race.720p.HDTV.x264.mkv.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="http://fullmatchtv.com/wp-content/uploads/2016/06/f1canada-218x150.png",[COLOR white]GP CANADA[/COLOR]
+https://1fgqfm1.oloadcdn.net/dl/l/2Kn-6PjoQy4/m127lAEOwzs/Formula1.2016.Canada.Race.mkv.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="http://fullmatchtv.com/wp-content/uploads/2016/06/monacogp-218x150.png",[COLOR white]GP MONACO[/COLOR]
+https://ph2dvz.oloadcdn.net/dl/l/m18aOgZziHc/DqkVpOCpy6E/Formula.1.2016x06.Monaco.Race.SkyF1HD.SD.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="http://fullmatchtv.com/wp-content/uploads/2016/05/f1spanish-218x150.png",[COLOR white]GP ESPANHA[/COLOR]
+https://openload.co/stream/wT_refU1oh4~1471997014~94.60.0.0~yYTqt8Uh?mime=true
+
+#EXTINF:-1 tvg-logo="http://fullmatchtv.com/wp-content/uploads/2016/05/russiangp-218x150.png",[COLOR white]GP RUSSIA[/COLOR]
+https://oqfnwk.oloadcdn.net/dl/l/0X9vRwrPJ7Y/QABVYQ6x_fo/Formula.1.2016x04.Russia.Race.SkyF1HD.SD.mp4?mime=true
