@@ -1,1 +1,29 @@
+#EXTM3U
+
+#EXTINF:0,[COLOR red]REPETICOES DOS GPMOTO GP[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:0,[COLOR red]                     2016[/COLOR]
+http://0.0.0.0:1234
+
+
+#EXTINF:-1 tvg-logo=",[COLOR white]GP [/COLOR]
+
+
+#EXTINF:-1 tvg-logo=",[COLOR white]GP [/COLOR]
+
+
+#EXTINF:-1 tvg-logo=",[COLOR white]GP [/COLOR]
+
+
+#EXTINF:-1 tvg-logo="http://fullmatchtv.com/wp-content/uploads/2016/05/motogpit-218x150.png",[COLOR white]GP ITALIA[/COLOR]
+https://1fgm909.oloadcdn.net/dl/l/VL_3NW1Y5SE/YN1LuoXHJes/MotoGP.2016x06.Italy.Race.BTSportHD.1080p50.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="http://fullmatchtv.com/wp-content/uploads/2016/05/motogpfrance-218x150.png",[COLOR white]GP FRANCA[/COLOR]
+https://1fgm90c.oloadcdn.net/dl/l/6wyL1tjOjsY/TflXlF2BZc0/MotoGP+2016+-+Round+05+-+MotoGP+RACE+-+Le+Mans+720p.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="http://fullmatchtv.com/wp-content/uploads/2016/05/motogpspain-218x150.png",[COLOR white]GP ESPANHA[/COLOR]
+https://1fgm8zz.oloadcdn.net/dl/l/NLoSrKMDJJw/QEFC-Z91YOg/MotoGP.2016x04.Spain.Race.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwVlB9y5K9y0zLFJ1cAmPjJQbkrjE3rPUdDzb1P-2N268ckFng7A",[COLOR white]GP QATAR[/COLOR]
+rtmp://cp88659.edgefcs.net/ondemand/<playpath>mp4:motogp/2016/03/20/MotoGP_2016_QAT_Race-IPF_MIX-HD.mp4 <swfUrl>http://ssl.p.jwpcdn.com/player/v/7.6.0/jwplayer.flash.swf <pageUrl>http://www.motogpofficialvideos.com/motogp-2016-qatar-losail-full-race/
 
