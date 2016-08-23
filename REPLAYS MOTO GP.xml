@@ -1,13 +1,25 @@
 #EXTM3U
 
-#EXTINF:0,[COLOR red]REPETICOES MOTO GP[/COLOR]
+#EXTINF:0,[COLOR red]REPETICOES DOS GPMOTO GP[/COLOR]
 http://0.0.0.0:1234
 #EXTINF:0,[COLOR red]                     2016[/COLOR]
 http://0.0.0.0:1234
 
 
+#EXTINF:-1 tvg-logo="http://www.bestriders.com.br/newblog/wp-content/uploads/2016/08/cal-crutchlow-brno-2016_1.jpg",[COLOR white]GP REP CHECA[/COLOR]
+https://74skyfiregce-a.akamaihd.net/exp=1471985263~acl=%2F179665673%2F%2A~hmac=c583a73261219b26aa0c9ec8ba3c90910aa35ab90324381c1803fd9541040f65/179665673/video/586519287,586519289,586519282/master.json?base64_init=1
 
+#EXTINF:-1 tvg-logo="http://image2.redbull.com/rbcom/010/2015-09-11/1331747144691_4/0010/1/550/366/4/marc-m%C3%A1rquez-testing-the-red-bull-ring-in-austria-the-new-motogp-circuit-for-2016.jpg",[COLOR white]GP AUSTRIA[/COLOR]
+https://skyfire.vimeocdn.com/1471985048-0x4e27f95b2e7022bdecbd82a98c4246b3e2d9fbe4/178812160/video/582836914,582836913,582836911/master.json?base64_init=1
 
+#EXTINF:-1 tvg-logo="http://portalsportszone.com.br/wp-content/uploads/2016/07/Sachsering_alemanha_motogp2016-2.jpg",[COLOR white]GP ALEMANHA[/COLOR]
+https://46skyfiregce-a.akamaihd.net/exp=1471985276~acl=%2F175120445%2F%2A~hmac=afd1891d27b8dad17e04569e3c8bf48d21fb0cb2857f1b581d5dd38737faf2c7/175120445/video/567678021,567678024,567678016/master.json?base64_init=1
+
+#EXTINF:-1 tvg-logo="http://www.mundodeportivo.com/r/GODO/MD/p3/Motor/Imagenes/2016/06/21/Recortada/U308378_040_20160605183316-kXRB-U402659981477FsH-980x554@MundoDeportivo-Web.jpg",[COLOR white]GP HOLANDA[/COLOR]
+https://190skyfiregce-a.akamaihd.net/exp=1472003459~acl=%2F172303989%2F%2A~hmac=fbd4ed6076ce5a97c65dee50147c0626bb8a2ac67e1cc1ef7aa5c8ce964564c6/172303989/video/555714627,555714630,555714626/master.json?base64_init=1
+
+#EXTINF:-1 tvg-logo="http://images.sportsind.com/2016/05/Catalunya-MotoGP-Grand-Prix.jpg",[COLOR white]GP ESPANHA - CATALUNHA[/COLOR]
+https://114skyfiregce-a.akamaihd.net/exp=1471986915~acl=%2F169436313%2F%2A~hmac=b94e7da0aea8aed7d0c16a1015e91b821a72ac60b52741e361fbc8ceaa71024f/169436313/video/543349364,543349369,543349367/master.json?base64_init=1
 
 #EXTINF:-1 tvg-logo="http://fullmatchtv.com/wp-content/uploads/2016/05/motogpit-218x150.png",[COLOR white]GP ITALIA[/COLOR]
 https://1fgm909.oloadcdn.net/dl/l/VL_3NW1Y5SE/YN1LuoXHJes/MotoGP.2016x06.Italy.Race.BTSportHD.1080p50.mp4?mime=true
@@ -15,9 +27,15 @@ https://1fgm909.oloadcdn.net/dl/l/VL_3NW1Y5SE/YN1LuoXHJes/MotoGP.2016x06.Italy.R
 #EXTINF:-1 tvg-logo="http://fullmatchtv.com/wp-content/uploads/2016/05/motogpfrance-218x150.png",[COLOR white]GP FRANCA[/COLOR]
 https://1fgm90c.oloadcdn.net/dl/l/6wyL1tjOjsY/TflXlF2BZc0/MotoGP+2016+-+Round+05+-+MotoGP+RACE+-+Le+Mans+720p.mp4?mime=true
 
-#EXTINF:-1 tvg-logo="http://fullmatchtv.com/wp-content/uploads/2016/05/motogpspain-218x150.png",[COLOR white]GP ESPANHA[/COLOR]
+#EXTINF:-1 tvg-logo="http://fullmatchtv.com/wp-content/uploads/2016/05/motogpspain-218x150.png",[COLOR white]GP ESPANHA - JEREZ DE LA FRONTERA[/COLOR]
 https://1fgm8zz.oloadcdn.net/dl/l/NLoSrKMDJJw/QEFC-Z91YOg/MotoGP.2016x04.Spain.Race.mp4?mime=true
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwVlB9y5K9y0zLFJ1cAmPjJQbkrjE3rPUdDzb1P-2N268ckFng7A",[COLOR white]GP QATAR[/COLOR]
-rtmp://cp88659.edgefcs.net/ondemand/<playpath>mp4:motogp/2016/03/20/MotoGP_2016_QAT_Race-IPF_MIX-HD.mp4 <swfUrl>http://ssl.p.jwpcdn.com/player/v/7.6.0/jwplayer.flash.swf <pageUrl>http://www.motogpofficialvideos.com/motogp-2016-qatar-losail-full-race/
+#EXTINF:-1 tvg-logo="https://2yrh403fk8vd1hz9ro2n46dd-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/2016-austin-motogp-preview-marquez-chases-4-2.jpg",[COLOR white]GP ESTADOS UNIDOS[/COLOR]
+https://96skyfiregce-a.akamaihd.net/exp=1471981426~acl=%2F162301295%2F%2A~hmac=1dbd86ee152346fb3b2260fe4bc1e368071ea0312f2b4d2190e81a4411847acd/162301295/video/512109108,512109121,512109109/master.json?base64_init=1
+
+#EXTINF:-1 tvg-logo="http://i0.wp.com/motorcyclesports.sapo.pt/wp-content/uploads/2016/04/MotoGP-Argentina.jpg?resize=1021%2C580",[COLOR white]GP ARGENTINA[/COLOR]
+https://ph2dol.oloadcdn.net/dl/l/oFvgmIwFOv8/91xfOZ-jGA8/Moto+GP+2016+%E2%80%93+Arentinean+Grand+Prix.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="http://media.crash.net/original/PA1665173.0008.jpg",[COLOR white]GP QATAR[/COLOR]
+https://142skyfiregce-a.akamaihd.net/exp=1471985281~acl=%2F159844741%2F%2A~hmac=0a98a498c54c7395959aaa68a8deba18538384e56303da32b193a0f3a39f5bb9/159844741/video/501243089,501243090,501243083/master.json?base64_init=1
 
