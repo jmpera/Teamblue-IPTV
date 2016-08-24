@@ -123,7 +123,7 @@ PORTO CANAL
 PORTO CANALHTTP
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]PORTO CANAL [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link>http://213.13.26.11:1935/live/portocanal/live.m3u8</link>
+<link>http://83.78.191.43:2047/</link>
 <thumbnail>http://i.imgur.com/0NAGz7e.png</thumbnail>
 </item>
 PORTO CANALSPORTS DEVIL
@@ -189,7 +189,7 @@ RTP ACORES$DOREGEX
 RTP AFRICA
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP AFRICA [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/mana/mana/1750.ts;streamtype=TSDOWNLOADER&amp;name=RTP AFRICA (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/809.ts;streamtype=TSDOWNLOADER&amp;name=RTP AFRICA (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/YWi6NzU.png</thumbnail>
 </item>
 RTP AFRICAHTTP
@@ -430,13 +430,13 @@ SIC NOTICIAS
 SIC NOTICIASHTTP
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC NOTICIAS [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link>http://213.13.26.11:1935/live/sicnoticias/livestream.m3u8</link>
+<link>http://83.78.191.43:2060/</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_noticias.png</thumbnail>
 </item>
 TVI 24
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI 24 [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1054.ts;streamtype=TSDOWNLOADER&amp;name=TVI 24 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/808.ts;streamtype=TSDOWNLOADER&amp;name=TVI 24 (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_24.png</thumbnail>
 </item>
 TVI 24HTTP
@@ -467,7 +467,7 @@ AR TV0
 BLOOMBERG
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] US: [B][COLOR white]BLOOMBERG [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/elliottburrows/elliottburrows/6781.ts;streamtype=TSDOWNLOADER&amp;name=BLOOMBERG (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/2488.ts;streamtype=TSDOWNLOADER&amp;name=BLOOMBERG (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bloomberg_tv_us.png</thumbnail>
 </item>
 BLOOMBERGHTTP
@@ -496,9 +496,9 @@ FOX NEWSHTTP
 </item>
 RAI NEWS
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] US: [B][COLOR white]RAI NEWS [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/2680.ts;streamtype=TSDOWNLOADER&amp;name=RAI NEWS (by TeamBlue)</link>
+<thumbnail>http://www.userlogos.org/files/logos/oroboros74/rai_news2.png</thumbnail>
 </item>
 RAI NEWS0
 <item>
@@ -804,13 +804,13 @@ TVI REALITY MOSAICO
 GLOBO PORTUGAL
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]GLOBO PORTUGAL [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1390.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO PORTUGAL (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1968.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO PORTUGAL (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_globo_pt.png</thumbnail>
 </item>
 GLOBO PREMIUM
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]GLOBO PREMIUM [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1968.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO PREMIUM (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1390.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO PREMIUM (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_globo_premium.png</thumbnail>
 </item>
 GLOBO PREMIUMHTTP
@@ -825,11 +825,11 @@ RECORD
 <link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1393.ts;streamtype=TSDOWNLOADER&amp;name=RECORD (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/rede_record_br.png</thumbnail>
 </item>
-RECORDHTTP
+RECORD0
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]RECORD [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link>http://83.78.191.43:2074/</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/rr/rede_record_br.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 LIFESTYLE
 <item>
@@ -903,12 +903,6 @@ BANDHTTP
 <link>http://31.204.152.6:8081/live/bandu/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/band_nacional_br.png</thumbnail>
 </item>
-GLOBO
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]GLOBO [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1024.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO (by TeamBlue)</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/yspusx1435103750.png</thumbnail>
-</item>
 REDE TV
 <item>
 <title></title>
@@ -918,7 +912,7 @@ REDE TV
 REDE TVHTTP
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]REDE TV [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link>rtmp://evp.mm.uol.com.br/redetv1/_definst_//redetv1</link>
+<link>http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rede_tv_br.png</thumbnail>
 </item>
 SBT
@@ -960,7 +954,7 @@ TVE INTERNACIONAL
 TV GALICIA
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]TV GALICIA [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=0;streamtype=TSDOWNLOADER&amp;name=TV GALICIA (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/1669.ts;streamtype=TSDOWNLOADER&amp;name=TV GALICIA (by TeamBlue)</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/galicia_tv_eu.png</thumbnail>
 </item>
 TV GALICIAHTTP
@@ -970,3 +964,4 @@ TV GALICIAHTTP
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/galicia_tv_eu.png</thumbnail>
 </item>
 **********
+
