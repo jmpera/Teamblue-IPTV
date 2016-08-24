@@ -1,31 +1,12 @@
 <item>
-<title>[B][COLOR gold]23.08 / 19h45 ROMA • PORTO[/B][/COLOR]</title>
+<title>[B][COLOR gold]24.08 / 19h45 MAN CITY ❂ STEUA BUCARESTE[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/eYfYq4Q.jpg</thumbnail>
 </item>
 <item>
-<title>[B][COLOR lawngreen]RTP1•SPTV1•AV8•AV9•AV15•AV16[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]SPTV1•AV11•AV12•AV17•AV18[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
-</item>
-RTP 1
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/1971.ts;streamtype=TSDOWNLOADER&amp;name=RTP 1 (by TeamBlue)</link>
-<thumbnail>http://i.imgur.com/pjjlbCF.png</thumbnail>
-</item>
-RTP 1HTTP
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 1 [B][COLOR red](HTTP)[/B][/COLOR]</title>
-<link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)</link>
-<thumbnail>http://i.imgur.com/pjjlbCF.png</thumbnail>
-</item>
-RTP 1SPORTS DEVIL
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 1 [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
-<sportsdevil>http://www.rtp.pt/play/direto/rtp1</sportsdevil>
-<referer>http://www.rtp.pt/</referer>
-<thumbnail>http://i.imgur.com/pjjlbCF.png</thumbnail>
 </item>
 SPORT TV 1
 <item>
@@ -58,40 +39,39 @@ SPORT TV 1SPORTS DEVIL
 <referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
-ARENAVISION 8
+ARENAVISION 11
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]ARENAVISION 8 [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://b3ff36a1ae5c349dec02e2efaf8dee5e65721405&amp;mode=1&amp;name=acestream+SPORTS</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]ARENAVISION 11 [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://1482f7fa51c82b9885306f8b9d7739939e15fcaa&amp;mode=1&amp;name=acestream+SPORTS</link>
 <thumbnail>http://i.imgur.com/qaJQgRC.png</thumbnail>
 </item>
-ARENAVISION 9
+ARENAVISION 12
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]ARENAVISION 9 [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://db52bd3a7514bfeccc247287215fa9d130da0886&amp;mode=1&amp;name=acestream+SPORTS</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]ARENAVISION 12 [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://3c66395a188d4bcbfdebc264a6e7fc2773f26f35&amp;mode=1&amp;name=acestream+SPORTS</link>
 <thumbnail>http://i.imgur.com/qaJQgRC.png</thumbnail>
 </item>
-ARENAVISION 15
+ARENAVISION 17
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] IT: [B][COLOR white]ARENAVISION 15 [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://c34aebe981b06ba390d326f2e701728e783bef59&amp;mode=1&amp;name=acestream+SPORTS</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] ENG: [B][COLOR white]ARENAVISION 17 [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://e6af032f4a9771f1bd0ef9f5a56a026a1cb28e63&amp;mode=1&amp;name=acestream+SPORTS</link>
 <thumbnail>http://i.imgur.com/qaJQgRC.png</thumbnail>
 </item>
-ARENAVISION 16
+ARENAVISION 18
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] IT: [B][COLOR white]ARENAVISION 16 [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://bb025fa041af88d244e2d679618f7d776513a3c8&amp;mode=1&amp;name=acestream+SPORTS</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] ENG: [B][COLOR white]ARENAVISION 18 [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://bbb4633f28fcf8ceb93ecdbbea0c9640fa09571a&amp;mode=1&amp;name=acestream+SPORTS</link>
 <thumbnail>http://i.imgur.com/qaJQgRC.png</thumbnail>
 </item>
 
 
-
 <item>
-<title>[B][COLOR gold]23.08 / 19h45 MONACO • VILLARREAL[/B][/COLOR]</title>
+<title>[B][COLOR gold]24.08 / 19h45 ROSTOV ❂ AJAX[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/eYfYq4Q.jpg</thumbnail>
 </item>
 <item>
-<title>[B][COLOR lawngreen]SPTV2•AV11•AV12[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]SPTV2•AV1•AV2[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
@@ -104,13 +84,13 @@ SPORT TV 2
 SPORT TV 2
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://swebstreamer.hopto.me:2709/live/Seil001apo/8mc9Z6c9yB/903.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/503.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail>
 </item>
 SPORT TV 2
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/503.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://swebstreamer.hopto.me:2709/live/Seil001apo/8mc9Z6c9yB/903.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail>
 </item>
 SPORT TV 2HTTP
@@ -126,32 +106,30 @@ SPORT TV 2SPORTS DEVIL
 <referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
 <thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail>
 </item>
-ARENAVISION 11
+ARENAVISION 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]ARENAVISION 11 [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://1482f7fa51c82b9885306f8b9d7739939e15fcaa&amp;mode=1&amp;name=acestream+SPORTS</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]ARENAVISION 1 [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://e54e3095b406b870e4380312810160971de37196&amp;mode=1&amp;name=acestream+SPORTS</link>
 <thumbnail>http://i.imgur.com/qaJQgRC.png</thumbnail>
 </item>
-ARENAVISION 12
+ARENAVISION 2
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]ARENAVISION 12 [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://3c66395a188d4bcbfdebc264a6e7fc2773f26f35&amp;mode=1&amp;name=acestream+SPORTS</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]ARENAVISION 2 [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://c950cbbfbfb27b8d93bfa2e69149ab775d3aad72&amp;mode=1&amp;name=acestream+SPORTS</link>
 <thumbnail>http://i.imgur.com/qaJQgRC.png</thumbnail>
 </item>
 
 
-
 <item>
-<title>[B][COLOR gold]23.08 / 19h45 HAPOEL BEER-SHEVA • CELTIC[/B][/COLOR]</title>
+<title>[B][COLOR gold]24.08 / 19h45 B M'GLADEBACH ❂ YOUNG BOYS[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/eYfYq4Q.jpg</thumbnail>
 </item>
 <item>
-<title>[B][COLOR lawngreen]SPTV3•AV1•AV2•AV17•AV18[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]SPTV3•AV3•AV4[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
-
 SPORT TV 3
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 3 [B][COLOR red](F4M)[/B][/COLOR]</title>
@@ -183,99 +161,36 @@ SPORT TV 3SPORTS DEVIL
 <referer></referer>
 <thumbnail></thumbnail>
 </item>
-ARENAVISION 1
+SPORT TV 4
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]ARENAVISION 1 [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://e54e3095b406b870e4380312810160971de37196&amp;mode=1&amp;name=acestream+SPORTS</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 4 [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1136.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/IZCGvyl.png</thumbnail>
+</item>
+SPORT TV 4
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 4 [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/2296.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/IZCGvyl.png</thumbnail>
+</item>
+SPORT TV 4
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 4 [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/855.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/IZCGvyl.png</thumbnail>
+</item>
+ARENAVISION 3
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]ARENAVISION 3 [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://f33f6b1e6bae940e45d3e1b9f7bfe4c34e969aa3&amp;mode=1&amp;name=acestream+SPORTS</link>
 <thumbnail>http://i.imgur.com/qaJQgRC.png</thumbnail>
 </item>
-ARENAVISION 2
+ARENAVISION 4
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]ARENAVISION 2 [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://c950cbbfbfb27b8d93bfa2e69149ab775d3aad72&amp;mode=1&amp;name=acestream+SPORTS</link>
-<thumbnail>http://i.imgur.com/qaJQgRC.png</thumbnail>
-</item>
-ARENAVISION 17
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] ENG: [B][COLOR white]ARENAVISION 17 [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://e6af032f4a9771f1bd0ef9f5a56a026a1cb28e63&amp;mode=1&amp;name=acestream+SPORTS</link>
-<thumbnail>http://i.imgur.com/qaJQgRC.png</thumbnail>
-</item>
-ARENAVISION 18
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] ENG: [B][COLOR white]ARENAVISION 18 [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://bbb4633f28fcf8ceb93ecdbbea0c9640fa09571a&amp;mode=1&amp;name=acestream+SPORTS</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]ARENAVISION 4 [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://c648625319d6d4890ad809038ca529a347107bac&amp;mode=1&amp;name=acestream+SPORTS</link>
 <thumbnail>http://i.imgur.com/qaJQgRC.png</thumbnail>
 </item>
 
-
-
-
-<item>
-<title>[B][COLOR gold]24.08 / 19h45 MAN CITY • STEUA BUCARESTE[/B][/COLOR]</title>
-<link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/eYfYq4Q.jpg</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]SPTV1•AV11•AV12•AV17•AV18[/B][/COLOR]</title>
-<link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
-</item>
-
-
-<item>
-<title>[B][COLOR gold]24.08 / 19h45 ROSTOV • AJAX[/B][/COLOR]</title>
-<link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/eYfYq4Q.jpg</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]SPTV2•AV1•AV2[/B][/COLOR]</title>
-<link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
-</item>
-
-
-<item>
-<title>[B][COLOR gold]24.08 / 19h45 MONCHENGLADBACH • YOUNG BOYS[/B][/COLOR]</title>
-<link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/eYfYq4Q.jpg</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]SPTV3•AV3•AV4[/B][/COLOR]</title>
-<link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
-</item>
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen][/B][/COLOR]</title>
-<link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
-</item>
-
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen][/B][/COLOR]</title>
-<link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
-</item>
+**********
 
