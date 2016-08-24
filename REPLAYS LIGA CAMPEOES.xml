@@ -1,1 +1,25 @@
+#EXTM3U
+
+#EXTINF:0,[COLOR red]REPETICOES DE JOGOS DA LIGA DOS CAMPEOES[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:0,[COLOR red]                  2016-2017[/COLOR]
+http://0.0.0.0:1234
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eYfYq4Q.jpg",[COLOR white]ROMA[COLOR red] • [/COLOR]PORTO (23.08.2016)[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/t5Wr9wR.png",[COLOR lawngreen]1ª PARTE (ENG)[/COLOR]
+https://cdn.video.playwire.com/19004/videos/5121535/video-sd.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/t5Wr9wR.png",[COLOR lawngreen]2ª PARTE (ENG)[/COLOR]
+https://cdn.video.playwire.com/19004/videos/5121536/video-sd.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eYfYq4Q.jpg",[COLOR white]PORTO[COLOR red] • [/COLOR]ROMA (17.08.2016)[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/t5Wr9wR.png",[COLOR lawngreen]1ª PARTE (ES)[/COLOR]
+https://cdn.video.playwire.com/19004/videos/5114421/video-sd.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/t5Wr9wR.png",[COLOR lawngreen]2ª PARTE (ES)[/COLOR]
+https://cdn.video.playwire.com/19004/videos/5114422/video-sd.mp4
+
 
