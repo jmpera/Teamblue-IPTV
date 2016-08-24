@@ -94,17 +94,41 @@ DIGI SPORT 2
 <link>plugin://program.plexus/?mode=1&url=acestream://3b0796661f783236f24756821f5efb1d15d59d7f&mode=1&name=acestream&mode=1&name=SPORTS</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/digi_sport2_hu.png</thumbnail>
 </item>
+FUTBOL 1
+<item>
+<title>[B][COLOR lawngreen] RUS: [B][COLOR white]FUTBOL 1 [B][COLOR green][] [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&url=acestream://4e326dbb2145c9c0a4c90b67aaf6e143d59bf38f&mode=1&name=acestream&mode=1&name=SPORTS</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/futbol_ua_1.png</thumbnail>
+</item>
+FUTBOL 2
+<item>
+<title>[B][COLOR lawngreen] RUS: [B][COLOR white]FUTBOL 2 [B][COLOR green][] [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&url=acestream://707f3129d995137b09dd21ee746ecc204d2be33b&mode=1&name=acestream&mode=1&name=SPORTS</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/futbol_ua_2.png</thumbnail>
+</item>
 Матч ТВ
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen] RUS: [B][COLOR white]Матч ТВ [B][COLOR green][] [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&url=acestream://988abfef2118a926585de3520fd0482ce0cb1396&mode=1&name=acestream&mode=1&name=SPORTS</link>
+<thumbnail>http://logosklad.ru/photo/logos/492/1443812419.jpg</thumbnail>
 </item>
 MATCH! FUTBOL 1
 <item>
 <title>[B][COLOR lawngreen] RUS: [B][COLOR white]MATCH! FUTBOL 1 [B][COLOR green][] [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://67b002f6e29d39ef7e19f68fd2dc158a64864db9&mode=1&name=acestream&mode=1&name=SPORTS</link>
+<link>plugin://program.plexus/?mode=1&url=acestream://6cdb566bc9ea43da7d8c870cd0a83f68fa746e32&mode=1&name=acestream&mode=1&name=SPORTS</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/match_ru_futbol_1.png</thumbnail>
+</item>
+MATCH! FUTBOL 2
+<item>
+<title>[B][COLOR lawngreen] RUS: [B][COLOR white]MATCH! FUTBOL 2 [B][COLOR green][] [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&url=acestream://dd8d61faacb79974e1c3188b0d450d7922138912&mode=1&name=acestream&mode=1&name=SPORTS</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/match_ru_futbol_2.png</thumbnail>
+</item>
+MATCH! FUTBOL 3
+<item>
+<title>[B][COLOR lawngreen] RUS: [B][COLOR white]MATCH! FUTBOL 3 [B][COLOR green][] [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&url=acestream://0a77c9d475763862b37bead53bc2a5b328282118&mode=1&name=acestream&mode=1&name=SPORTS</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/match_ru_futbol_3.png</thumbnail>
 </item>
 MOTORSPORT
 <item>
@@ -169,9 +193,9 @@ TSN 1
 </item>
 VIASAT FOTBOLL
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen] SW: [B][COLOR white]VIASAT FOTBOLL [B][COLOR green][] [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&url=acestream://80d2ec4512d737272c2d1a8f558271c4bb1e6a58&mode=1&name=acestream&mode=1&name=SPORTS</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_fotboll.png</thumbnail>
 </item>
 VIASAT MOTOR
 <item>
@@ -185,9 +209,17 @@ VIASAT SPORT
 <link></link>
 <thumbnail></thumbnail>
 </item>
+VIASAT SPORT BALTIC
+<item>
+<title>[B][COLOR lawngreen] : [B][COLOR white]VIASAT SPORT BALTIC [B][COLOR green][] [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&url=acestream://b0d934bb080b842a67a907c4485c223f7d5335a8&mode=1&name=acestream&mode=1&name=SPORTS</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_sport_baltic.png</thumbnail>
+</item>
 VIASAT SPORT SVERIGE
 <item>
 <title>[B][COLOR lawngreen] SW: [B][COLOR white]VIASAT SPORT SVERIGE [B][COLOR green][] [B][COLOR red](Plexus)[/B][/COLOR]</title>
 <link>plugin://program.plexus/?mode=1&url=acestream://d2a87cccb12043603fa3c05ea0cfc1e560bbd266&mode=1&name=acestream&mode=1&name=SPORTS</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_sport_se.png</thumbnail>
 </item>
+**********
+
