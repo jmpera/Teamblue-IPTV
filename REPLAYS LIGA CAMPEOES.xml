@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:0,[COLOR red]REPETICOES DE JOGOS DA LIGA DOS CAMPEOES[/COLOR]
-http://0.0.0.0:1234
-#EXTINF:0,[COLOR red]                  2016-2017[/COLOR]
-http://0.0.0.0:1234
-
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/eYfYq4Q.jpg",[COLOR white]ROMA[COLOR red] • [/COLOR]PORTO (23.08.2016)[/COLOR]
 http://0.0.0.0:1234
 
