@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/43/Euro_2016.png/120px-Euro_2016.png",[COLOR white]PORTUGAL[COLOR red] • [/COLOR]FRANCA ()[/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/43/Euro_2016.png/120px-Euro_2016.png",[COLOR white]PORTUGAL[COLOR red] • [/COLOR]FRANCA[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/t5Wr9wR.png",[COLOR lawngreen]1ª PARTE[/COLOR]
@@ -9,7 +9,7 @@ https://cdn.video.playwire.com/19004/videos/5046435/video-sd.mp4
 https://cdn.video.playwire.com/19004/videos/5046436/video-sd.mp4
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/43/Euro_2016.png/120px-Euro_2016.png",[COLOR white]PORTUGAL[COLOR red] • [/COLOR]PAIS DE GALES ()[/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/43/Euro_2016.png/120px-Euro_2016.png",[COLOR white]PORTUGAL[COLOR red] • [/COLOR]PAIS DE GALES[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/t5Wr9wR.png",[COLOR lawngreen]1ª PARTE[/COLOR]
@@ -18,7 +18,7 @@ https://cdn.video.playwire.com/19004/videos/5036820/video-sd.mp4
 https://cdn.video.playwire.com/19004/videos/5036880/video-sd.mp4
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/43/Euro_2016.png/120px-Euro_2016.png",[COLOR white]POLONOA[COLOR red] • [/COLOR]PORTUGAL ()[/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/43/Euro_2016.png/120px-Euro_2016.png",[COLOR white]POLONOA[COLOR red] • [/COLOR]PORTUGAL[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/t5Wr9wR.png",[COLOR lawngreen]1ª PARTE[/COLOR]
@@ -27,7 +27,7 @@ https://cdn.video.playwire.com/19004/videos/5022927/video-sd.mp4
 https://cdn.video.playwire.com/19004/videos/5023224/video-sd.mp4
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/43/Euro_2016.png/120px-Euro_2016.png",[COLOR white]CROACIA[COLOR red] • [/COLOR]PORTUGAL ()[/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/43/Euro_2016.png/120px-Euro_2016.png",[COLOR white]CROACIA[COLOR red] • [/COLOR]PORTUGAL[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/t5Wr9wR.png",[COLOR lawngreen]1ª PARTE[/COLOR]
@@ -36,7 +36,7 @@ https://cdn.video.playwire.com/19004/videos/5010385/video-sd.mp4
 https://cdn.video.playwire.com/19004/videos/5010395/video-sd.mp4
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/43/Euro_2016.png/120px-Euro_2016.png",[COLOR white]HUMGRIA[COLOR red] • [/COLOR]PORTUGAL ()[/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/43/Euro_2016.png/120px-Euro_2016.png",[COLOR white]HUMGRIA[COLOR red] • [/COLOR]PORTUGAL[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/t5Wr9wR.png",[COLOR lawngreen]1ª PARTE[/COLOR]
@@ -45,7 +45,7 @@ https://cdn.video.playwire.com/19004/videos/4998509/video-sd.mp4
 https://cdn.video.playwire.com/19004/videos/4998604/video-sd.mp4
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/43/Euro_2016.png/120px-Euro_2016.png",[COLOR white]PORTUGAL[COLOR red] • [/COLOR]AUSTRIA ()[/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/43/Euro_2016.png/120px-Euro_2016.png",[COLOR white]PORTUGAL[COLOR red] • [/COLOR]AUSTRIA[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/t5Wr9wR.png",[COLOR lawngreen]1ª PARTE[/COLOR]
@@ -54,12 +54,10 @@ https://cdn.video.playwire.com/19004/videos/4987845/video-sd.mp4
 https://cdn.video.playwire.com/19004/videos/4987887/video-sd.mp4
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/43/Euro_2016.png/120px-Euro_2016.png",[COLOR white]PORTUGAL[COLOR red] • [/COLOR]ISLANDIA ()[/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/43/Euro_2016.png/120px-Euro_2016.png",[COLOR white]PORTUGAL[COLOR red] • [/COLOR]ISLANDIA[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/t5Wr9wR.png",[COLOR lawngreen]1ª PARTE[/COLOR]
 https://cdn.video.playwire.com/19004/videos/4974213/video-sd.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/t5Wr9wR.png",[COLOR lawngreen]2ª PARTE[/COLOR]
 https://cdn.video.playwire.com/19004/videos/4974452/video-sd.mp4
-
-
