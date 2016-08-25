@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR gold]25.08 / 19h45 OLYMPIACOS ❂ AROUCA SPTV1•AV8 PT•AV9 PT[/B][/COLOR]</title>
+<title>[B][COLOR gold]25.08 / 19h45 OLYMPIACOS ❂ AROUCA (LIGA EUROPA) SPTV1•AV8 PT•AV9 PT[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/beqY6P3.png</thumbnail>
 </item>
@@ -7,5 +7,49 @@
 <title>[B][COLOR lawngreen]SPTV1•AV8 PT•AV9 PT[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
+</item>
+SPORT TV 1
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/501.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
+</item>
+SPORT TV 1
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/2325.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
+</item>
+SPORT TV 1
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/858.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
+<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
+</item>
+SPORT TV 1HTTP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](HTTP)[/B][/COLOR]</title>
+<link>http://83.78.191.43:2065/</link>
+<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
+</item>
+SPORT TV 1SPORTS DEVIL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title>
+<sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil>
+<referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
+<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
+</item>
+
+ARENAVISION 8
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ARENAVISION 8 [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://b3ff36a1ae5c349dec02e2efaf8dee5e65721405&amp;mode=1&amp;name=acestream+SPORTS</link>
+<thumbnail>http://i.imgur.com/qaJQgRC.png</thumbnail>
+</item>
+ARENAVISION 9
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ARENAVISION 9 [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://db52bd3a7514bfeccc247287215fa9d130da0886&amp;mode=1&amp;name=acestream+SPORTS</link>
+<thumbnail>http://i.imgur.com/qaJQgRC.png</thumbnail>
 </item>
 
