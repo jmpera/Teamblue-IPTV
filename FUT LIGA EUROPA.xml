@@ -1,10 +1,10 @@
 <item>
-<title>[B][COLOR gold]25.08 / 19h45 OLYMPIACOS ❂ AROUCA (LIGA EUROPA) SPTV1•AV8 PT•AV9 PT[/B][/COLOR]</title>
+<title>[B][COLOR gold]26.08 / 12h00 SORTEIO FASE DE GRUPOS[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/beqY6P3.png</thumbnail>
 </item>
 <item>
-<title>[B][COLOR lawngreen]SPTV1•AV8 PT•AV9 PT[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]SPTV1[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
@@ -17,7 +17,7 @@ SPORT TV 1
 SPORT TV 1
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/2325.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.195.182:2500/live/Jacques1/Jacques1/1813.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
 SPORT TV 1
@@ -40,16 +40,38 @@ SPORT TV 1SPORTS DEVIL
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
 
-ARENAVISION 8
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ARENAVISION 8 [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://b3ff36a1ae5c349dec02e2efaf8dee5e65721405&amp;mode=1&amp;name=acestream+SPORTS</link>
-<thumbnail>http://i.imgur.com/qaJQgRC.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
-ARENAVISION 9
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ARENAVISION 9 [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://db52bd3a7514bfeccc247287215fa9d130da0886&amp;mode=1&amp;name=acestream+SPORTS</link>
-<thumbnail>http://i.imgur.com/qaJQgRC.png</thumbnail>
+<title>[B][COLOR lawngreen][/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
+</item>
+
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[B][COLOR lawngreen][/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
+</item>
+
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[B][COLOR lawngreen][/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/t5Wr9wR.png</thumbnail>
 </item>
 
